@@ -1,0 +1,3622 @@
+[
+ {
+  "task_id": "93f7dd47-4853-5189-856e-bdcf33ed900b",
+  "skill_id": "5220502e-b6ea-5976-a87b-09a20a8ba8e4",
+  "skill_key": "data-structures"
+ },
+ {
+  "task_id": "0d47d001-5c33-550e-82f7-70364f9e7e4c",
+  "skill_id": "28c67590-eaac-5d5f-afe4-6fc4863fad4c",
+  "skill_key": "communication"
+ },
+ {
+  "task_id": "0d47d001-5c33-550e-82f7-70364f9e7e4c",
+  "skill_id": "5220502e-b6ea-5976-a87b-09a20a8ba8e4",
+  "skill_key": "data-structures"
+ },
+ {
+  "task_id": "b1641fc6-fb11-5257-b290-643c1cf61ae2",
+  "skill_id": "d7240490-8285-5fb9-bb34-bf205d854517",
+  "skill_key": "unit-testing"
+ },
+ {
+  "task_id": "6c5a7e7b-2df1-5dd1-ab00-6685235010e3",
+  "skill_id": "4c9e6490-7701-5b4f-a89a-4e9472a3b845",
+  "skill_key": "rest-api"
+ },
+ {
+  "task_id": "6c5a7e7b-2df1-5dd1-ab00-6685235010e3",
+  "skill_id": "5220502e-b6ea-5976-a87b-09a20a8ba8e4",
+  "skill_key": "data-structures"
+ },
+ {
+  "task_id": "3d51c84d-354d-58f5-bcd3-482fe2305efc",
+  "skill_id": "4c9e6490-7701-5b4f-a89a-4e9472a3b845",
+  "skill_key": "rest-api"
+ },
+ {
+  "task_id": "3d51c84d-354d-58f5-bcd3-482fe2305efc",
+  "skill_id": "5220502e-b6ea-5976-a87b-09a20a8ba8e4",
+  "skill_key": "data-structures"
+ },
+ {
+  "task_id": "3bfa1f83-ac92-53af-ba57-e3408014579d",
+  "skill_id": "d7240490-8285-5fb9-bb34-bf205d854517",
+  "skill_key": "unit-testing"
+ },
+ {
+  "task_id": "3bfa1f83-ac92-53af-ba57-e3408014579d",
+  "skill_id": "e6c27885-2c35-5293-af52-1732c237052a",
+  "skill_key": "cicd"
+ },
+ {
+  "task_id": "91952bbb-3461-5939-91c7-8469b8618ff4",
+  "skill_id": "bcbe802c-09f0-5766-82cc-104d690d1d60",
+  "skill_key": "git"
+ },
+ {
+  "task_id": "3c6b351c-d4ad-5a31-98a9-e4c33134c1f1",
+  "skill_id": "bcbe802c-09f0-5766-82cc-104d690d1d60",
+  "skill_key": "git"
+ },
+ {
+  "task_id": "22f3607c-d7ea-5959-be1c-27888a1158d4",
+  "skill_id": "4c9e6490-7701-5b4f-a89a-4e9472a3b845",
+  "skill_key": "rest-api"
+ },
+ {
+  "task_id": "22f3607c-d7ea-5959-be1c-27888a1158d4",
+  "skill_id": "5220502e-b6ea-5976-a87b-09a20a8ba8e4",
+  "skill_key": "data-structures"
+ },
+ {
+  "task_id": "dfabc158-9697-5e34-be00-eb3bde2936c3",
+  "skill_id": "bcbe802c-09f0-5766-82cc-104d690d1d60",
+  "skill_key": "git"
+ },
+ {
+  "task_id": "b43d3e8f-2fed-51cd-a419-49a388c3d357",
+  "skill_id": "5220502e-b6ea-5976-a87b-09a20a8ba8e4",
+  "skill_key": "data-structures"
+ },
+ {
+  "task_id": "591cc278-7893-5b05-bfb5-278cfc788e16",
+  "skill_id": "bcbe802c-09f0-5766-82cc-104d690d1d60",
+  "skill_key": "git"
+ },
+ {
+  "task_id": "2ce59767-72b1-5cdc-b90d-805b96b5d80a",
+  "skill_id": "5220502e-b6ea-5976-a87b-09a20a8ba8e4",
+  "skill_key": "data-structures"
+ },
+ {
+  "task_id": "b875968b-635b-5ad0-b042-81e0f91fcb17",
+  "skill_id": "5220502e-b6ea-5976-a87b-09a20a8ba8e4",
+  "skill_key": "data-structures"
+ },
+ {
+  "task_id": "84dc799f-589b-5a2c-80de-83c12c7bd9f4",
+  "skill_id": "bcbe802c-09f0-5766-82cc-104d690d1d60",
+  "skill_key": "git"
+ },
+ {
+  "task_id": "eb761cd1-6309-57f4-968e-403832892c0e",
+  "skill_id": "bcbe802c-09f0-5766-82cc-104d690d1d60",
+  "skill_key": "git"
+ },
+ {
+  "task_id": "beb7db3c-5f7f-5ed5-9f52-ebfb251d302c",
+  "skill_id": "23b11ec5-330f-5c68-8903-e38be11218f5",
+  "skill_key": "ui-design"
+ },
+ {
+  "task_id": "beb7db3c-5f7f-5ed5-9f52-ebfb251d302c",
+  "skill_id": "fe2f2a03-5f8f-5211-8155-3fda74a6f5c0",
+  "skill_key": "responsive-design"
+ },
+ {
+  "task_id": "70766048-4b3d-542c-944b-e74dfc8f963b",
+  "skill_id": "855787fd-f277-5fa2-889c-672e6962ca10",
+  "skill_key": "javascript"
+ },
+ {
+  "task_id": "32ff1d39-3cac-5a12-92b4-a636b954a8ec",
+  "skill_id": "4c9e6490-7701-5b4f-a89a-4e9472a3b845",
+  "skill_key": "rest-api"
+ },
+ {
+  "task_id": "7cd8bebd-4732-56fe-a96d-f64ee8f91b83",
+  "skill_id": "fe2f2a03-5f8f-5211-8155-3fda74a6f5c0",
+  "skill_key": "responsive-design"
+ },
+ {
+  "task_id": "e1853413-6d9a-50c4-9b9c-d201ce63230d",
+  "skill_id": "355ed118-7d15-5e9e-a6a0-4d58f813ed9f",
+  "skill_key": "accessibility"
+ },
+ {
+  "task_id": "7cbe0404-706a-52f1-b9ea-c85b14ee406c",
+  "skill_id": "855787fd-f277-5fa2-889c-672e6962ca10",
+  "skill_key": "javascript"
+ },
+ {
+  "task_id": "92d2cb9b-2dd5-5a4c-98e5-545764b87b90",
+  "skill_id": "855787fd-f277-5fa2-889c-672e6962ca10",
+  "skill_key": "javascript"
+ },
+ {
+  "task_id": "b1a3b693-b06c-57f6-8a51-1a869c984096",
+  "skill_id": "855787fd-f277-5fa2-889c-672e6962ca10",
+  "skill_key": "javascript"
+ },
+ {
+  "task_id": "4d1da38d-eeff-5899-ba37-46f895d85dc9",
+  "skill_id": "855787fd-f277-5fa2-889c-672e6962ca10",
+  "skill_key": "javascript"
+ },
+ {
+  "task_id": "a6151dc4-7c97-52f7-8ae6-df13c76626e6",
+  "skill_id": "23b11ec5-330f-5c68-8903-e38be11218f5",
+  "skill_key": "ui-design"
+ },
+ {
+  "task_id": "a6151dc4-7c97-52f7-8ae6-df13c76626e6",
+  "skill_id": "fe2f2a03-5f8f-5211-8155-3fda74a6f5c0",
+  "skill_key": "responsive-design"
+ },
+ {
+  "task_id": "861741fc-b493-5453-a253-5617b76727b2",
+  "skill_id": "855787fd-f277-5fa2-889c-672e6962ca10",
+  "skill_key": "javascript"
+ },
+ {
+  "task_id": "47ecca0c-2d4c-542f-987d-1904e49f112b",
+  "skill_id": "8540d88e-1c65-54a1-9152-15495ae9157f",
+  "skill_key": "seo"
+ },
+ {
+  "task_id": "78d92c71-ecb0-5bfe-b57c-ad71e9e21a37",
+  "skill_id": "855787fd-f277-5fa2-889c-672e6962ca10",
+  "skill_key": "javascript"
+ },
+ {
+  "task_id": "cdf6ec29-919d-55c1-a2fa-76ae32999131",
+  "skill_id": "855787fd-f277-5fa2-889c-672e6962ca10",
+  "skill_key": "javascript"
+ },
+ {
+  "task_id": "f858d236-529c-5059-93fc-7c37eb644e5d",
+  "skill_id": "855787fd-f277-5fa2-889c-672e6962ca10",
+  "skill_key": "javascript"
+ },
+ {
+  "task_id": "60855be4-cf2b-52ad-a59b-e2839d5a2f96",
+  "skill_id": "855787fd-f277-5fa2-889c-672e6962ca10",
+  "skill_key": "javascript"
+ },
+ {
+  "task_id": "e7d16260-2e82-5a06-9c75-d926cb8ffb70",
+  "skill_id": "bcbe802c-09f0-5766-82cc-104d690d1d60",
+  "skill_key": "git"
+ },
+ {
+  "task_id": "38de6d01-68e5-5137-9aa3-ac2635ed8d55",
+  "skill_id": "facd3ecd-a1e1-56c3-8999-89d52b5afb63",
+  "skill_key": "app-store-publishing"
+ },
+ {
+  "task_id": "38de6d01-68e5-5137-9aa3-ac2635ed8d55",
+  "skill_id": "20639e13-3db1-5da0-91b0-0ca4c606d1d9",
+  "skill_key": "android"
+ },
+ {
+  "task_id": "164caffa-4765-5357-a29c-7c9e77222416",
+  "skill_id": "facd3ecd-a1e1-56c3-8999-89d52b5afb63",
+  "skill_key": "app-store-publishing"
+ },
+ {
+  "task_id": "9b39634d-9438-5726-ae8f-d37b8e479a00",
+  "skill_id": "bcbe802c-09f0-5766-82cc-104d690d1d60",
+  "skill_key": "git"
+ },
+ {
+  "task_id": "18c2b37b-92cb-5c3d-a86b-e39e64f60a8a",
+  "skill_id": "bcbe802c-09f0-5766-82cc-104d690d1d60",
+  "skill_key": "git"
+ },
+ {
+  "task_id": "1810c8db-c413-5836-b40c-319dfa20a608",
+  "skill_id": "facd3ecd-a1e1-56c3-8999-89d52b5afb63",
+  "skill_key": "app-store-publishing"
+ },
+ {
+  "task_id": "1810c8db-c413-5836-b40c-319dfa20a608",
+  "skill_id": "20639e13-3db1-5da0-91b0-0ca4c606d1d9",
+  "skill_key": "android"
+ },
+ {
+  "task_id": "bf8a6f29-99b6-51b9-ba44-53c8a6f84594",
+  "skill_id": "facd3ecd-a1e1-56c3-8999-89d52b5afb63",
+  "skill_key": "app-store-publishing"
+ },
+ {
+  "task_id": "bf8a6f29-99b6-51b9-ba44-53c8a6f84594",
+  "skill_id": "20639e13-3db1-5da0-91b0-0ca4c606d1d9",
+  "skill_key": "android"
+ },
+ {
+  "task_id": "b6ecc673-d9ea-5515-b0d0-9d51a552b716",
+  "skill_id": "facd3ecd-a1e1-56c3-8999-89d52b5afb63",
+  "skill_key": "app-store-publishing"
+ },
+ {
+  "task_id": "b6ecc673-d9ea-5515-b0d0-9d51a552b716",
+  "skill_id": "20639e13-3db1-5da0-91b0-0ca4c606d1d9",
+  "skill_key": "android"
+ },
+ {
+  "task_id": "29c86619-d030-5289-a780-3c30f27c055a",
+  "skill_id": "facd3ecd-a1e1-56c3-8999-89d52b5afb63",
+  "skill_key": "app-store-publishing"
+ },
+ {
+  "task_id": "e767f10c-4993-5b61-a8ed-5e79ad6b3d3b",
+  "skill_id": "facd3ecd-a1e1-56c3-8999-89d52b5afb63",
+  "skill_key": "app-store-publishing"
+ },
+ {
+  "task_id": "e767f10c-4993-5b61-a8ed-5e79ad6b3d3b",
+  "skill_id": "20639e13-3db1-5da0-91b0-0ca4c606d1d9",
+  "skill_key": "android"
+ },
+ {
+  "task_id": "bee3dbff-b9bd-5fb9-abb8-7d093efa74ca",
+  "skill_id": "bcbe802c-09f0-5766-82cc-104d690d1d60",
+  "skill_key": "git"
+ },
+ {
+  "task_id": "a6375550-7811-50a3-9653-7753e9f35cd3",
+  "skill_id": "bcbe802c-09f0-5766-82cc-104d690d1d60",
+  "skill_key": "git"
+ },
+ {
+  "task_id": "559efe3f-6871-597d-9899-aa7f6d5ff618",
+  "skill_id": "d7240490-8285-5fb9-bb34-bf205d854517",
+  "skill_key": "unit-testing"
+ },
+ {
+  "task_id": "f6d08f8d-41c5-552c-8a6a-800a9e5f1831",
+  "skill_id": "bcbe802c-09f0-5766-82cc-104d690d1d60",
+  "skill_key": "git"
+ },
+ {
+  "task_id": "d9eaf4ad-093d-5845-b354-2e75054fb9f5",
+  "skill_id": "bcbe802c-09f0-5766-82cc-104d690d1d60",
+  "skill_key": "git"
+ },
+ {
+  "task_id": "39ad8013-e444-5872-ab60-d61c46abc3ab",
+  "skill_id": "bcbe802c-09f0-5766-82cc-104d690d1d60",
+  "skill_key": "git"
+ },
+ {
+  "task_id": "085f44c4-05e8-5bcf-9196-0e6eb370f05b",
+  "skill_id": "fc64b38c-a3ae-5a80-88d2-4f837fcf7acb",
+  "skill_key": "test-case-design"
+ },
+ {
+  "task_id": "085f44c4-05e8-5bcf-9196-0e6eb370f05b",
+  "skill_id": "2947ebc8-3eef-5964-a093-731f91bb73fc",
+  "skill_key": "test-automation"
+ },
+ {
+  "task_id": "b179aaee-266a-59fd-941a-1fda9f83be82",
+  "skill_id": "09a0e1d1-390b-5e4e-aca6-d3b20773b783",
+  "skill_key": "manual-testing"
+ },
+ {
+  "task_id": "b179aaee-266a-59fd-941a-1fda9f83be82",
+  "skill_id": "f108a6e6-57e0-533f-9495-62056c8f2b5a",
+  "skill_key": "regression-testing"
+ },
+ {
+  "task_id": "e1e9e4ac-f396-57c6-8e23-ef1b3b057c49",
+  "skill_id": "f108a6e6-57e0-533f-9495-62056c8f2b5a",
+  "skill_key": "regression-testing"
+ },
+ {
+  "task_id": "722d2fe1-dd0b-567f-bdba-4c3e17ab5e0b",
+  "skill_id": "fc64b38c-a3ae-5a80-88d2-4f837fcf7acb",
+  "skill_key": "test-case-design"
+ },
+ {
+  "task_id": "c98df7a5-80d2-5730-b3ec-134a0467b8a3",
+  "skill_id": "fc64b38c-a3ae-5a80-88d2-4f837fcf7acb",
+  "skill_key": "test-case-design"
+ },
+ {
+  "task_id": "b9007ec0-516b-5996-9e48-745db8f43d35",
+  "skill_id": "fc64b38c-a3ae-5a80-88d2-4f837fcf7acb",
+  "skill_key": "test-case-design"
+ },
+ {
+  "task_id": "b9007ec0-516b-5996-9e48-745db8f43d35",
+  "skill_id": "2947ebc8-3eef-5964-a093-731f91bb73fc",
+  "skill_key": "test-automation"
+ },
+ {
+  "task_id": "959282d1-d771-5356-ae32-32ff4bc9a105",
+  "skill_id": "fc64b38c-a3ae-5a80-88d2-4f837fcf7acb",
+  "skill_key": "test-case-design"
+ },
+ {
+  "task_id": "d1c65c90-29c5-5b44-b198-70c93aefae02",
+  "skill_id": "fc64b38c-a3ae-5a80-88d2-4f837fcf7acb",
+  "skill_key": "test-case-design"
+ },
+ {
+  "task_id": "d1c65c90-29c5-5b44-b198-70c93aefae02",
+  "skill_id": "2947ebc8-3eef-5964-a093-731f91bb73fc",
+  "skill_key": "test-automation"
+ },
+ {
+  "task_id": "d1cc0c29-6d26-5a83-8c01-7cdf46356fe1",
+  "skill_id": "fc64b38c-a3ae-5a80-88d2-4f837fcf7acb",
+  "skill_key": "test-case-design"
+ },
+ {
+  "task_id": "8732577b-005f-5f2b-987a-1840b81acbdf",
+  "skill_id": "fc64b38c-a3ae-5a80-88d2-4f837fcf7acb",
+  "skill_key": "test-case-design"
+ },
+ {
+  "task_id": "8732577b-005f-5f2b-987a-1840b81acbdf",
+  "skill_id": "2947ebc8-3eef-5964-a093-731f91bb73fc",
+  "skill_key": "test-automation"
+ },
+ {
+  "task_id": "8388acf1-beff-5765-8318-d5814ee866d7",
+  "skill_id": "fc64b38c-a3ae-5a80-88d2-4f837fcf7acb",
+  "skill_key": "test-case-design"
+ },
+ {
+  "task_id": "8388acf1-beff-5765-8318-d5814ee866d7",
+  "skill_id": "63c967d7-3458-53fb-871d-a1cf06e3f76b",
+  "skill_key": "jira"
+ },
+ {
+  "task_id": "1db536f4-0a35-5d12-92e5-a9cd1fd4116e",
+  "skill_id": "f108a6e6-57e0-533f-9495-62056c8f2b5a",
+  "skill_key": "regression-testing"
+ },
+ {
+  "task_id": "bdd312b3-b0f5-5758-8a6b-7fbcea3bfb97",
+  "skill_id": "fc64b38c-a3ae-5a80-88d2-4f837fcf7acb",
+  "skill_key": "test-case-design"
+ },
+ {
+  "task_id": "5c564b21-9813-552b-a298-3a7fdc24222f",
+  "skill_id": "fc64b38c-a3ae-5a80-88d2-4f837fcf7acb",
+  "skill_key": "test-case-design"
+ },
+ {
+  "task_id": "5c564b21-9813-552b-a298-3a7fdc24222f",
+  "skill_id": "2947ebc8-3eef-5964-a093-731f91bb73fc",
+  "skill_key": "test-automation"
+ },
+ {
+  "task_id": "26858049-8a71-5a33-9ef0-48e9e342c0f6",
+  "skill_id": "fc64b38c-a3ae-5a80-88d2-4f837fcf7acb",
+  "skill_key": "test-case-design"
+ },
+ {
+  "task_id": "f9ef5a17-4175-52c5-843f-685d3db23eea",
+  "skill_id": "fc64b38c-a3ae-5a80-88d2-4f837fcf7acb",
+  "skill_key": "test-case-design"
+ },
+ {
+  "task_id": "42b2c71e-ff1c-53c9-bf58-6bfb4d2307a1",
+  "skill_id": "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+  "skill_key": "data-cleaning"
+ },
+ {
+  "task_id": "42b2c71e-ff1c-53c9-bf58-6bfb4d2307a1",
+  "skill_id": "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+  "skill_key": "sql"
+ },
+ {
+  "task_id": "36acd2ae-b2c0-5f48-b228-59649eaac589",
+  "skill_id": "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+  "skill_key": "data-cleaning"
+ },
+ {
+  "task_id": "36acd2ae-b2c0-5f48-b228-59649eaac589",
+  "skill_id": "1604df5e-7409-5840-92a3-e9d2a982202f",
+  "skill_key": "statistics"
+ },
+ {
+  "task_id": "a77f5579-7491-5258-9e5f-0eeb9e610da3",
+  "skill_id": "d26a4447-0f12-5024-bc29-e95732289799",
+  "skill_key": "dashboards"
+ },
+ {
+  "task_id": "0980553d-9145-573a-a28e-a846464be776",
+  "skill_id": "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+  "skill_key": "sql"
+ },
+ {
+  "task_id": "6f016929-05de-5c5d-9361-817a76bcbf33",
+  "skill_id": "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+  "skill_key": "sql"
+ },
+ {
+  "task_id": "bb738da3-d0e8-592d-b0a7-532ad3f510a8",
+  "skill_id": "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+  "skill_key": "sql"
+ },
+ {
+  "task_id": "aa5e933e-c940-53c1-be66-3d9167abf770",
+  "skill_id": "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+  "skill_key": "data-cleaning"
+ },
+ {
+  "task_id": "aa5e933e-c940-53c1-be66-3d9167abf770",
+  "skill_id": "f450e261-eeea-5553-a946-5c2a1274502c",
+  "skill_key": "data-visualisation"
+ },
+ {
+  "task_id": "a246b277-0c7d-55a9-9600-1a7d33101a98",
+  "skill_id": "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+  "skill_key": "sql"
+ },
+ {
+  "task_id": "b3db1c12-f00d-5c2d-ada3-ca175bd2351a",
+  "skill_id": "f9a419fd-f7be-5dfe-a184-f4fb1b869ab0",
+  "skill_key": "kpi-reporting"
+ },
+ {
+  "task_id": "b3db1c12-f00d-5c2d-ada3-ca175bd2351a",
+  "skill_id": "d26a4447-0f12-5024-bc29-e95732289799",
+  "skill_key": "dashboards"
+ },
+ {
+  "task_id": "b0cfd517-6bb8-57ff-830e-f0a207f0e243",
+  "skill_id": "f9a419fd-f7be-5dfe-a184-f4fb1b869ab0",
+  "skill_key": "kpi-reporting"
+ },
+ {
+  "task_id": "cb52804f-2ec7-531f-9abc-58684caad924",
+  "skill_id": "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+  "skill_key": "sql"
+ },
+ {
+  "task_id": "58321579-000e-5d90-86d1-05daf454bb65",
+  "skill_id": "1604df5e-7409-5840-92a3-e9d2a982202f",
+  "skill_key": "statistics"
+ },
+ {
+  "task_id": "fc13098c-ef00-56d9-8702-90283a8d4422",
+  "skill_id": "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+  "skill_key": "sql"
+ },
+ {
+  "task_id": "fd9cc862-d705-52a4-9b41-69e46de66ca2",
+  "skill_id": "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+  "skill_key": "data-cleaning"
+ },
+ {
+  "task_id": "fd9cc862-d705-52a4-9b41-69e46de66ca2",
+  "skill_id": "f450e261-eeea-5553-a946-5c2a1274502c",
+  "skill_key": "data-visualisation"
+ },
+ {
+  "task_id": "b220998f-acfb-5789-9747-6ede37d8d605",
+  "skill_id": "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+  "skill_key": "data-cleaning"
+ },
+ {
+  "task_id": "b220998f-acfb-5789-9747-6ede37d8d605",
+  "skill_id": "f450e261-eeea-5553-a946-5c2a1274502c",
+  "skill_key": "data-visualisation"
+ },
+ {
+  "task_id": "4714c037-a199-52de-bbf0-902a6937b615",
+  "skill_id": "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+  "skill_key": "data-cleaning"
+ },
+ {
+  "task_id": "4714c037-a199-52de-bbf0-902a6937b615",
+  "skill_id": "1604df5e-7409-5840-92a3-e9d2a982202f",
+  "skill_key": "statistics"
+ },
+ {
+  "task_id": "5fbb479a-83f8-53cd-807c-db5fd050f1d4",
+  "skill_id": "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+  "skill_key": "data-cleaning"
+ },
+ {
+  "task_id": "5fbb479a-83f8-53cd-807c-db5fd050f1d4",
+  "skill_id": "f450e261-eeea-5553-a946-5c2a1274502c",
+  "skill_key": "data-visualisation"
+ },
+ {
+  "task_id": "d256b814-66e7-59e3-be44-b6baac8f9667",
+  "skill_id": "f70df858-378b-5934-805a-4e9001931174",
+  "skill_key": "python"
+ },
+ {
+  "task_id": "e35ac095-bb5f-5f46-a20d-9af821e67da7",
+  "skill_id": "64267ee8-0ccf-5df8-b769-67a867ffece7",
+  "skill_key": "model-evaluation"
+ },
+ {
+  "task_id": "e35ac095-bb5f-5f46-a20d-9af821e67da7",
+  "skill_id": "879a4e5c-f63e-5b06-8dd7-5b152d63fe0e",
+  "skill_key": "machine-learning"
+ },
+ {
+  "task_id": "fe954ea9-12b8-56f0-b043-376f1a38a7b2",
+  "skill_id": "960ce8c9-eec4-5254-861d-48182b995462",
+  "skill_key": "ab-testing"
+ },
+ {
+  "task_id": "327fd7d2-10a7-5749-8f4c-2d400941ef64",
+  "skill_id": "64267ee8-0ccf-5df8-b769-67a867ffece7",
+  "skill_key": "model-evaluation"
+ },
+ {
+  "task_id": "6fee0af8-09e8-5dd2-970f-c5ed4d4448f3",
+  "skill_id": "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+  "skill_key": "data-cleaning"
+ },
+ {
+  "task_id": "6fee0af8-09e8-5dd2-970f-c5ed4d4448f3",
+  "skill_id": "f450e261-eeea-5553-a946-5c2a1274502c",
+  "skill_key": "data-visualisation"
+ },
+ {
+  "task_id": "7ad803b7-c2a4-5992-a0b3-2437d1df52bd",
+  "skill_id": "64267ee8-0ccf-5df8-b769-67a867ffece7",
+  "skill_key": "model-evaluation"
+ },
+ {
+  "task_id": "5fd29314-6684-502e-88bd-6fc418d10f3d",
+  "skill_id": "64267ee8-0ccf-5df8-b769-67a867ffece7",
+  "skill_key": "model-evaluation"
+ },
+ {
+  "task_id": "68cc1a45-84bc-56e9-a778-f63877b25df8",
+  "skill_id": "64267ee8-0ccf-5df8-b769-67a867ffece7",
+  "skill_key": "model-evaluation"
+ },
+ {
+  "task_id": "6102122a-36ed-5937-9115-99a327882ddd",
+  "skill_id": "64267ee8-0ccf-5df8-b769-67a867ffece7",
+  "skill_key": "model-evaluation"
+ },
+ {
+  "task_id": "3502ed27-8e18-5928-9f7c-9283fe55d9a0",
+  "skill_id": "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+  "skill_key": "sql"
+ },
+ {
+  "task_id": "3502ed27-8e18-5928-9f7c-9283fe55d9a0",
+  "skill_id": "76245e2b-1697-5a98-9dfc-67e47a0c29d3",
+  "skill_key": "regression"
+ },
+ {
+  "task_id": "0628f810-c34d-5057-8dd8-02d58665a011",
+  "skill_id": "f70df858-378b-5934-805a-4e9001931174",
+  "skill_key": "python"
+ },
+ {
+  "task_id": "8c2d0a33-9f56-521c-bf2c-52869558c7f9",
+  "skill_id": "76245e2b-1697-5a98-9dfc-67e47a0c29d3",
+  "skill_key": "regression"
+ },
+ {
+  "task_id": "8c2d0a33-9f56-521c-bf2c-52869558c7f9",
+  "skill_id": "1604df5e-7409-5840-92a3-e9d2a982202f",
+  "skill_key": "statistics"
+ },
+ {
+  "task_id": "1f5f76e3-5b4d-58c3-bee7-e2f24cdf9c07",
+  "skill_id": "f70df858-378b-5934-805a-4e9001931174",
+  "skill_key": "python"
+ },
+ {
+  "task_id": "860080e7-4ee7-51f6-b2f2-dc96745d7579",
+  "skill_id": "f70df858-378b-5934-805a-4e9001931174",
+  "skill_key": "python"
+ },
+ {
+  "task_id": "f21ee0d1-33a8-5d53-a9c1-b47c0dce2f12",
+  "skill_id": "76245e2b-1697-5a98-9dfc-67e47a0c29d3",
+  "skill_key": "regression"
+ },
+ {
+  "task_id": "f21ee0d1-33a8-5d53-a9c1-b47c0dce2f12",
+  "skill_id": "1604df5e-7409-5840-92a3-e9d2a982202f",
+  "skill_key": "statistics"
+ },
+ {
+  "task_id": "1c9af2e5-d224-585c-ae5c-a3ded2d75396",
+  "skill_id": "f70df858-378b-5934-805a-4e9001931174",
+  "skill_key": "python"
+ },
+ {
+  "task_id": "29dc65c8-f002-5f1a-8654-0951c016edee",
+  "skill_id": "64267ee8-0ccf-5df8-b769-67a867ffece7",
+  "skill_key": "model-evaluation"
+ },
+ {
+  "task_id": "29dc65c8-f002-5f1a-8654-0951c016edee",
+  "skill_id": "f02af07f-b4f4-559c-9f38-413d5eefe094",
+  "skill_key": "mlops-monitoring"
+ },
+ {
+  "task_id": "c1248651-ec45-524a-981a-0472060003a6",
+  "skill_id": "f02af07f-b4f4-559c-9f38-413d5eefe094",
+  "skill_key": "mlops-monitoring"
+ },
+ {
+  "task_id": "a321eb33-067c-5719-b9c6-727f28316f3f",
+  "skill_id": "f02af07f-b4f4-559c-9f38-413d5eefe094",
+  "skill_key": "mlops-monitoring"
+ },
+ {
+  "task_id": "ee196310-72f3-53cd-857b-64ed216c9444",
+  "skill_id": "d7779714-8ee2-5c13-a5ae-e466da0c719b",
+  "skill_key": "mlops"
+ },
+ {
+  "task_id": "ee196310-72f3-53cd-857b-64ed216c9444",
+  "skill_id": "e6c27885-2c35-5293-af52-1732c237052a",
+  "skill_key": "cicd"
+ },
+ {
+  "task_id": "959a759b-2839-5819-813f-8a0d9f9fc028",
+  "skill_id": "64267ee8-0ccf-5df8-b769-67a867ffece7",
+  "skill_key": "model-evaluation"
+ },
+ {
+  "task_id": "959a759b-2839-5819-813f-8a0d9f9fc028",
+  "skill_id": "fc7aedf4-0a7e-5a60-a9cd-20b9dd0b98cb",
+  "skill_key": "data-pipelines"
+ },
+ {
+  "task_id": "e3fe3fd2-a5af-52bf-97be-2c8458187a93",
+  "skill_id": "f70df858-378b-5934-805a-4e9001931174",
+  "skill_key": "python"
+ },
+ {
+  "task_id": "e71d859c-b139-5c88-ae42-ab4339d911a9",
+  "skill_id": "64267ee8-0ccf-5df8-b769-67a867ffece7",
+  "skill_key": "model-evaluation"
+ },
+ {
+  "task_id": "e71d859c-b139-5c88-ae42-ab4339d911a9",
+  "skill_id": "f02af07f-b4f4-559c-9f38-413d5eefe094",
+  "skill_key": "mlops-monitoring"
+ },
+ {
+  "task_id": "46e58c10-9666-5c29-9b3a-165dbd83b2ad",
+  "skill_id": "64267ee8-0ccf-5df8-b769-67a867ffece7",
+  "skill_key": "model-evaluation"
+ },
+ {
+  "task_id": "46e58c10-9666-5c29-9b3a-165dbd83b2ad",
+  "skill_id": "f02af07f-b4f4-559c-9f38-413d5eefe094",
+  "skill_key": "mlops-monitoring"
+ },
+ {
+  "task_id": "d0fe6248-5ca7-5678-a81f-ee452c4b38a0",
+  "skill_id": "a86adb28-2747-5991-92f2-fe7827941eba",
+  "skill_key": "feature-engineering"
+ },
+ {
+  "task_id": "ce3fdd32-a0e8-581a-b8c6-d6e493f18f79",
+  "skill_id": "f6a5cf44-d1bf-5299-a09f-30ed7bfd955c",
+  "skill_key": "llm-apps"
+ },
+ {
+  "task_id": "032eca9d-c021-5202-8082-08f6eba5ce9b",
+  "skill_id": "f70df858-378b-5934-805a-4e9001931174",
+  "skill_key": "python"
+ },
+ {
+  "task_id": "7008ad87-7e78-5027-a09f-69fe8f5990a5",
+  "skill_id": "f70df858-378b-5934-805a-4e9001931174",
+  "skill_key": "python"
+ },
+ {
+  "task_id": "ace7871a-398f-53fa-81d3-48573ab70fcc",
+  "skill_id": "f02af07f-b4f4-559c-9f38-413d5eefe094",
+  "skill_key": "mlops-monitoring"
+ },
+ {
+  "task_id": "ace7871a-398f-53fa-81d3-48573ab70fcc",
+  "skill_id": "64267ee8-0ccf-5df8-b769-67a867ffece7",
+  "skill_key": "model-evaluation"
+ },
+ {
+  "task_id": "b47c39b4-77e4-5130-a088-f08ce0fd5e05",
+  "skill_id": "f70df858-378b-5934-805a-4e9001931174",
+  "skill_key": "python"
+ },
+ {
+  "task_id": "6a008021-6712-5043-bd6e-908cebb75d4f",
+  "skill_id": "64267ee8-0ccf-5df8-b769-67a867ffece7",
+  "skill_key": "model-evaluation"
+ },
+ {
+  "task_id": "6a008021-6712-5043-bd6e-908cebb75d4f",
+  "skill_id": "f02af07f-b4f4-559c-9f38-413d5eefe094",
+  "skill_key": "mlops-monitoring"
+ },
+ {
+  "task_id": "7eea56fe-e281-57d1-96d2-35b8a13d5e29",
+  "skill_id": "8ec89e44-235f-5e55-bfee-168e042646f0",
+  "skill_key": "confidentiality"
+ },
+ {
+  "task_id": "c164845e-0358-58ae-afce-2bda32dfc11b",
+  "skill_id": "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+  "skill_key": "data-cleaning"
+ },
+ {
+  "task_id": "c164845e-0358-58ae-afce-2bda32dfc11b",
+  "skill_id": "42c3209c-f240-594b-b4c4-9e570eed7366",
+  "skill_key": "data-entry"
+ },
+ {
+  "task_id": "2babf423-2bec-5a0b-9e7a-919d893e067b",
+  "skill_id": "b29ea94b-6a7a-54c9-aa89-918306786476",
+  "skill_key": "document-management"
+ },
+ {
+  "task_id": "106de693-ee62-5a43-9126-3a1943638951",
+  "skill_id": "1ea94f21-ac89-5d37-b368-a623495b63a1",
+  "skill_key": "record-keeping"
+ },
+ {
+  "task_id": "eb04cbab-9043-5f32-bc89-c176d140ce6c",
+  "skill_id": "42c3209c-f240-594b-b4c4-9e570eed7366",
+  "skill_key": "data-entry"
+ },
+ {
+  "task_id": "eb04cbab-9043-5f32-bc89-c176d140ce6c",
+  "skill_id": "1ea94f21-ac89-5d37-b368-a623495b63a1",
+  "skill_key": "record-keeping"
+ },
+ {
+  "task_id": "a616896a-6b1a-5956-aec2-53e7cfbd7138",
+  "skill_id": "8ec89e44-235f-5e55-bfee-168e042646f0",
+  "skill_key": "confidentiality"
+ },
+ {
+  "task_id": "2ad533a9-a619-54c5-a46d-079ad1063d57",
+  "skill_id": "42c3209c-f240-594b-b4c4-9e570eed7366",
+  "skill_key": "data-entry"
+ },
+ {
+  "task_id": "047bba2c-452f-5ad7-b378-f420fad2cae0",
+  "skill_id": "b29ea94b-6a7a-54c9-aa89-918306786476",
+  "skill_key": "document-management"
+ },
+ {
+  "task_id": "231b8846-853f-561e-a115-63f44dfac09b",
+  "skill_id": "42c3209c-f240-594b-b4c4-9e570eed7366",
+  "skill_key": "data-entry"
+ },
+ {
+  "task_id": "a61bd41c-cc0e-5819-b77b-7b074fd03c27",
+  "skill_id": "1ea94f21-ac89-5d37-b368-a623495b63a1",
+  "skill_key": "record-keeping"
+ },
+ {
+  "task_id": "9c3942d2-5eeb-5410-8d41-30586cad20ce",
+  "skill_id": "2d1f8325-79ae-58b7-9018-867ce847e0c5",
+  "skill_key": "bn-typing"
+ },
+ {
+  "task_id": "9c3942d2-5eeb-5410-8d41-30586cad20ce",
+  "skill_id": "6a7dfc12-c556-54e2-81da-3ded2e065e3c",
+  "skill_key": "typing-speed"
+ },
+ {
+  "task_id": "7042ff54-13a2-54dc-9851-67c534cf764b",
+  "skill_id": "1ea94f21-ac89-5d37-b368-a623495b63a1",
+  "skill_key": "record-keeping"
+ },
+ {
+  "task_id": "b1324458-fd4d-580e-9f1f-a9571216f9a4",
+  "skill_id": "1ea94f21-ac89-5d37-b368-a623495b63a1",
+  "skill_key": "record-keeping"
+ },
+ {
+  "task_id": "dbd0c4ac-05a2-5452-889f-a9d7814b1876",
+  "skill_id": "42c3209c-f240-594b-b4c4-9e570eed7366",
+  "skill_key": "data-entry"
+ },
+ {
+  "task_id": "bf2a9413-a886-5ec7-af17-b7ab314c33a8",
+  "skill_id": "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+  "skill_key": "data-cleaning"
+ },
+ {
+  "task_id": "bf2a9413-a886-5ec7-af17-b7ab314c33a8",
+  "skill_id": "8ec89e44-235f-5e55-bfee-168e042646f0",
+  "skill_key": "confidentiality"
+ },
+ {
+  "task_id": "f7964bed-8b0e-577d-9cb9-e107217488da",
+  "skill_id": "42c3209c-f240-594b-b4c4-9e570eed7366",
+  "skill_key": "data-entry"
+ },
+ {
+  "task_id": "510a233f-f5ee-5111-8f3c-3afb1fc90c20",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "510a233f-f5ee-5111-8f3c-3afb1fc90c20",
+  "skill_id": "2af1fbb1-383b-55f3-840f-bcfdcbe567ac",
+  "skill_key": "live-chat"
+ },
+ {
+  "task_id": "5f01d8c7-827a-5485-943c-cbc065641717",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "5f01d8c7-827a-5485-943c-cbc065641717",
+  "skill_id": "31d53ada-8b42-5f02-9284-c0060fe13d64",
+  "skill_key": "customer-satisfaction"
+ },
+ {
+  "task_id": "63caaca9-6297-56ac-97d3-299955185d8b",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "c8b94c9b-bde5-5e03-9ffe-6a9c2b7214e2",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "bfade280-b52f-5786-a8e9-60059930938f",
+  "skill_id": "372aedf8-4f58-5b7c-b58f-9e584746e99b",
+  "skill_key": "complaint-handling"
+ },
+ {
+  "task_id": "4d4ab02c-fafa-5943-8746-395908fd6788",
+  "skill_id": "b5b4292f-eed1-595a-9185-3b7efc7d0285",
+  "skill_key": "ticketing-systems"
+ },
+ {
+  "task_id": "68f42444-c8ed-599d-8400-d242a622fded",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "68f42444-c8ed-599d-8400-d242a622fded",
+  "skill_id": "31d53ada-8b42-5f02-9284-c0060fe13d64",
+  "skill_key": "customer-satisfaction"
+ },
+ {
+  "task_id": "7463bda9-9661-5955-8402-1a837f8989a7",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "2d45bd6f-28ca-5b34-a817-ac3c97f6adbc",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "0efc0f6c-892d-50c6-92c3-451f02049292",
+  "skill_id": "a6ac9266-18d6-560d-9204-0f0361868e43",
+  "skill_key": "multilingual-support"
+ },
+ {
+  "task_id": "0efc0f6c-892d-50c6-92c3-451f02049292",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "a683bd21-4b1e-5fce-9e93-cf8efbcf9cd1",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "22fe170e-e942-52db-a43f-4a6bf70fdaed",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "22fe170e-e942-52db-a43f-4a6bf70fdaed",
+  "skill_id": "31d53ada-8b42-5f02-9284-c0060fe13d64",
+  "skill_key": "customer-satisfaction"
+ },
+ {
+  "task_id": "18d59e89-ed84-53c9-9d70-1ade2d890f47",
+  "skill_id": "17c2bafc-b70c-5e3f-a621-6a8487179430",
+  "skill_key": "problem-solving"
+ },
+ {
+  "task_id": "16181c2d-638f-5239-bd80-a60c26d974ab",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "56d6d734-3042-5678-84fb-7063529b931b",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "2e463d28-389a-5be7-9ad5-3f1d013f9105",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "2e463d28-389a-5be7-9ad5-3f1d013f9105",
+  "skill_id": "31d53ada-8b42-5f02-9284-c0060fe13d64",
+  "skill_key": "customer-satisfaction"
+ },
+ {
+  "task_id": "e1afb5fe-3260-533f-b263-b5b1c00a01f5",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "e1afb5fe-3260-533f-b263-b5b1c00a01f5",
+  "skill_id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "skill_key": "call-handling"
+ },
+ {
+  "task_id": "f2225ba8-f57b-5ea7-8cf9-0482445f3cb3",
+  "skill_id": "097d68bf-c08e-5c85-afc7-768d776cbe36",
+  "skill_key": "cold-calling"
+ },
+ {
+  "task_id": "f2225ba8-f57b-5ea7-8cf9-0482445f3cb3",
+  "skill_id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "skill_key": "call-handling"
+ },
+ {
+  "task_id": "11d5fba9-ff36-5dbb-ba5c-d1207d0060e6",
+  "skill_id": "02722680-314d-55cd-bc7b-39413b05bc30",
+  "skill_key": "crm-basic"
+ },
+ {
+  "task_id": "11d5fba9-ff36-5dbb-ba5c-d1207d0060e6",
+  "skill_id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "skill_key": "call-handling"
+ },
+ {
+  "task_id": "3e99a31b-2c14-5f4c-a2c6-24948f800240",
+  "skill_id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "skill_key": "call-handling"
+ },
+ {
+  "task_id": "7bc58966-66ed-50f1-8d19-af112be7b3d7",
+  "skill_id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "skill_key": "call-handling"
+ },
+ {
+  "task_id": "a436f626-1b91-5e21-81d8-627cd487b211",
+  "skill_id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "skill_key": "call-handling"
+ },
+ {
+  "task_id": "a436f626-1b91-5e21-81d8-627cd487b211",
+  "skill_id": "097d68bf-c08e-5c85-afc7-768d776cbe36",
+  "skill_key": "cold-calling"
+ },
+ {
+  "task_id": "fd5ef4f1-6802-509b-b205-895101993bca",
+  "skill_id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "skill_key": "call-handling"
+ },
+ {
+  "task_id": "fd5ef4f1-6802-509b-b205-895101993bca",
+  "skill_id": "f8191fac-7a92-5849-840a-8ed12d81ad4e",
+  "skill_key": "call-scripting"
+ },
+ {
+  "task_id": "46452a90-96e0-596c-b580-6b295110334d",
+  "skill_id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "skill_key": "call-handling"
+ },
+ {
+  "task_id": "9b7e4264-0a60-5a05-a7ae-3cd92d00910f",
+  "skill_id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "skill_key": "call-handling"
+ },
+ {
+  "task_id": "9b7e4264-0a60-5a05-a7ae-3cd92d00910f",
+  "skill_id": "f8191fac-7a92-5849-840a-8ed12d81ad4e",
+  "skill_key": "call-scripting"
+ },
+ {
+  "task_id": "06e67ac1-641b-5ab9-9e0b-08faf807251f",
+  "skill_id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "skill_key": "call-handling"
+ },
+ {
+  "task_id": "5bcf6d0e-debd-5c9d-8237-03f1354dd470",
+  "skill_id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "skill_key": "call-handling"
+ },
+ {
+  "task_id": "5bcf6d0e-debd-5c9d-8237-03f1354dd470",
+  "skill_id": "f8191fac-7a92-5849-840a-8ed12d81ad4e",
+  "skill_key": "call-scripting"
+ },
+ {
+  "task_id": "d5423cf0-52f1-5d6b-a212-f5a352887b78",
+  "skill_id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "skill_key": "call-handling"
+ },
+ {
+  "task_id": "0fbbe0cd-8dbb-56a3-a8b8-77f179e377a0",
+  "skill_id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "skill_key": "call-handling"
+ },
+ {
+  "task_id": "0fbbe0cd-8dbb-56a3-a8b8-77f179e377a0",
+  "skill_id": "097d68bf-c08e-5c85-afc7-768d776cbe36",
+  "skill_key": "cold-calling"
+ },
+ {
+  "task_id": "df13d299-503f-5245-bded-431f84b71b6e",
+  "skill_id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "skill_key": "call-handling"
+ },
+ {
+  "task_id": "df13d299-503f-5245-bded-431f84b71b6e",
+  "skill_id": "f8191fac-7a92-5849-840a-8ed12d81ad4e",
+  "skill_key": "call-scripting"
+ },
+ {
+  "task_id": "4c18d645-e59c-5b01-b925-bc1cfd78ab03",
+  "skill_id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "skill_key": "call-handling"
+ },
+ {
+  "task_id": "a278a39a-8684-5a4c-9d98-0337bb522159",
+  "skill_id": "3239725a-23f5-5d5f-b810-5a2e4ccf091f",
+  "skill_key": "time-management"
+ },
+ {
+  "task_id": "a985346e-29a0-5d58-937d-df0a0cc9bb40",
+  "skill_id": "d18c019e-681c-5456-8999-27f3db548a7f",
+  "skill_key": "bookkeeping"
+ },
+ {
+  "task_id": "a985346e-29a0-5d58-937d-df0a0cc9bb40",
+  "skill_id": "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+  "skill_key": "financial-modelling"
+ },
+ {
+  "task_id": "8636d44e-1b96-550c-9837-f2b7b0aeb26a",
+  "skill_id": "592e2463-1649-502c-849c-ab9555b11c42",
+  "skill_key": "auditing"
+ },
+ {
+  "task_id": "8636d44e-1b96-550c-9837-f2b7b0aeb26a",
+  "skill_id": "87f7f665-2328-5577-9005-bd64b51266e8",
+  "skill_key": "reconciliation"
+ },
+ {
+  "task_id": "f78c6848-dd73-5f5e-a52b-84a55672a3e7",
+  "skill_id": "e482a71b-1f46-5c87-9262-a59b7c2d3c71",
+  "skill_key": "financial-reporting"
+ },
+ {
+  "task_id": "f78c6848-dd73-5f5e-a52b-84a55672a3e7",
+  "skill_id": "76d468d1-e0e0-58bc-888e-b27826a8f7f4",
+  "skill_key": "vat"
+ },
+ {
+  "task_id": "8e9c15ce-dff4-5c67-a1bb-234797167ada",
+  "skill_id": "76d468d1-e0e0-58bc-888e-b27826a8f7f4",
+  "skill_key": "vat"
+ },
+ {
+  "task_id": "8e9c15ce-dff4-5c67-a1bb-234797167ada",
+  "skill_id": "cbbe19f0-dec9-5075-ae43-e676460b558e",
+  "skill_key": "ifrs"
+ },
+ {
+  "task_id": "f0961f6c-0147-5b23-87c9-74f3ea090c71",
+  "skill_id": "76d468d1-e0e0-58bc-888e-b27826a8f7f4",
+  "skill_key": "vat"
+ },
+ {
+  "task_id": "f0961f6c-0147-5b23-87c9-74f3ea090c71",
+  "skill_id": "cbbe19f0-dec9-5075-ae43-e676460b558e",
+  "skill_key": "ifrs"
+ },
+ {
+  "task_id": "c7204b59-2173-502c-9810-587cba272417",
+  "skill_id": "9da7bdb8-b236-555e-a3c4-5a4cc8c7b5be",
+  "skill_key": "payroll"
+ },
+ {
+  "task_id": "c7204b59-2173-502c-9810-587cba272417",
+  "skill_id": "76d468d1-e0e0-58bc-888e-b27826a8f7f4",
+  "skill_key": "vat"
+ },
+ {
+  "task_id": "afae4830-757f-5bea-b138-242e15255be2",
+  "skill_id": "8bb6f44c-267a-5245-9f10-0bb23df42515",
+  "skill_key": "financial-accounting"
+ },
+ {
+  "task_id": "960c7735-9c34-5031-9483-6313e7a8ed87",
+  "skill_id": "8bb6f44c-267a-5245-9f10-0bb23df42515",
+  "skill_key": "financial-accounting"
+ },
+ {
+  "task_id": "60f7f647-f99f-5c6d-90dd-740659c55aba",
+  "skill_id": "8bb6f44c-267a-5245-9f10-0bb23df42515",
+  "skill_key": "financial-accounting"
+ },
+ {
+  "task_id": "f03f5e45-cd07-56d4-90fe-64acf8b7824f",
+  "skill_id": "b05c2926-dba5-5f22-ba98-cdb428a32b00",
+  "skill_key": "budgeting"
+ },
+ {
+  "task_id": "f03f5e45-cd07-56d4-90fe-64acf8b7824f",
+  "skill_id": "76d468d1-e0e0-58bc-888e-b27826a8f7f4",
+  "skill_key": "vat"
+ },
+ {
+  "task_id": "97670c1d-e3b9-57bb-aeda-f196f3464174",
+  "skill_id": "8bb6f44c-267a-5245-9f10-0bb23df42515",
+  "skill_key": "financial-accounting"
+ },
+ {
+  "task_id": "97670c1d-e3b9-57bb-aeda-f196f3464174",
+  "skill_id": "cbbe19f0-dec9-5075-ae43-e676460b558e",
+  "skill_key": "ifrs"
+ },
+ {
+  "task_id": "8027f753-d537-539b-a084-997eee6b2330",
+  "skill_id": "02eda977-63c7-5031-bae6-1ac145fd0de7",
+  "skill_key": "taxation"
+ },
+ {
+  "task_id": "8027f753-d537-539b-a084-997eee6b2330",
+  "skill_id": "76d468d1-e0e0-58bc-888e-b27826a8f7f4",
+  "skill_key": "vat"
+ },
+ {
+  "task_id": "cc810033-b489-5d9f-a68c-7f6f4ba6db8b",
+  "skill_id": "76d468d1-e0e0-58bc-888e-b27826a8f7f4",
+  "skill_key": "vat"
+ },
+ {
+  "task_id": "cc810033-b489-5d9f-a68c-7f6f4ba6db8b",
+  "skill_id": "cbbe19f0-dec9-5075-ae43-e676460b558e",
+  "skill_key": "ifrs"
+ },
+ {
+  "task_id": "ddc30506-81df-565d-a207-c928e516568c",
+  "skill_id": "6d0e38dd-3fcc-5bf9-894f-49557b95ecb3",
+  "skill_key": "quickbooks"
+ },
+ {
+  "task_id": "8cd50dac-5e0e-5ba4-b147-ea24e7c4a24f",
+  "skill_id": "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+  "skill_key": "financial-modelling"
+ },
+ {
+  "task_id": "8cd50dac-5e0e-5ba4-b147-ea24e7c4a24f",
+  "skill_id": "a9a65a29-3346-5797-b3c2-ab5330805e50",
+  "skill_key": "ifrs-standards"
+ },
+ {
+  "task_id": "f1a543d2-4598-53dd-89f6-e8c4d729561c",
+  "skill_id": "8bb6f44c-267a-5245-9f10-0bb23df42515",
+  "skill_key": "financial-accounting"
+ },
+ {
+  "task_id": "bd6ef271-2f30-58f2-9721-e818ae2dfec2",
+  "skill_id": "5e4bf5d9-1cb1-5b33-b014-f355505719ad",
+  "skill_key": "kyc"
+ },
+ {
+  "task_id": "bd6ef271-2f30-58f2-9721-e818ae2dfec2",
+  "skill_id": "2d07f074-7a3f-54aa-a154-b7e2eed49edb",
+  "skill_key": "customer-onboarding"
+ },
+ {
+  "task_id": "8e084a14-72da-538e-abb4-b8f7c8c83211",
+  "skill_id": "5e4bf5d9-1cb1-5b33-b014-f355505719ad",
+  "skill_key": "kyc"
+ },
+ {
+  "task_id": "8e084a14-72da-538e-abb4-b8f7c8c83211",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "42030914-d17f-5726-b9a8-81e0cc7e3c29",
+  "skill_id": "ab22ed2b-592a-5044-8fb4-f78a9875b348",
+  "skill_key": "retail-banking"
+ },
+ {
+  "task_id": "10816925-bb18-5f11-bd8c-17593dbf44a2",
+  "skill_id": "6667f03a-ba0c-5780-9cdd-023034e1a656",
+  "skill_key": "aml"
+ },
+ {
+  "task_id": "2bf1af71-6136-5385-97f9-4c31576e13f7",
+  "skill_id": "9d101b7e-4851-5cd9-ae9e-8ed72c87e998",
+  "skill_key": "core-banking"
+ },
+ {
+  "task_id": "2bf1af71-6136-5385-97f9-4c31576e13f7",
+  "skill_id": "ab22ed2b-592a-5044-8fb4-f78a9875b348",
+  "skill_key": "retail-banking"
+ },
+ {
+  "task_id": "c10e12b2-2712-5331-bff2-3f5677ba57b2",
+  "skill_id": "5e4bf5d9-1cb1-5b33-b014-f355505719ad",
+  "skill_key": "kyc"
+ },
+ {
+  "task_id": "c10e12b2-2712-5331-bff2-3f5677ba57b2",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "da52e51d-100a-584e-8de3-f84a13c2ad2c",
+  "skill_id": "5e4bf5d9-1cb1-5b33-b014-f355505719ad",
+  "skill_key": "kyc"
+ },
+ {
+  "task_id": "da52e51d-100a-584e-8de3-f84a13c2ad2c",
+  "skill_id": "46327855-7656-5566-84ac-476f0a0becfb",
+  "skill_key": "loan-processing"
+ },
+ {
+  "task_id": "b0092e7a-4fd1-50ba-aff5-60257eebc712",
+  "skill_id": "5e4bf5d9-1cb1-5b33-b014-f355505719ad",
+  "skill_key": "kyc"
+ },
+ {
+  "task_id": "b0092e7a-4fd1-50ba-aff5-60257eebc712",
+  "skill_id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "skill_key": "customer-support"
+ },
+ {
+  "task_id": "434a0698-b1cd-54f5-afff-4ee330fc07a6",
+  "skill_id": "ab22ed2b-592a-5044-8fb4-f78a9875b348",
+  "skill_key": "retail-banking"
+ },
+ {
+  "task_id": "bf550ad8-bf83-5c21-b3b8-36882c7a3ad0",
+  "skill_id": "03c7504a-40d9-58f4-a1f5-e3fee5437ac4",
+  "skill_key": "financial-regulation"
+ },
+ {
+  "task_id": "b2cf37d6-7a87-5d11-8f77-45cc649177f8",
+  "skill_id": "1b40c5a3-4103-564f-8753-0e9e1757d10a",
+  "skill_key": "cross-selling"
+ },
+ {
+  "task_id": "f84f238e-9389-53fa-92b1-3cf843a1c869",
+  "skill_id": "ab22ed2b-592a-5044-8fb4-f78a9875b348",
+  "skill_key": "retail-banking"
+ },
+ {
+  "task_id": "c3b395e5-0065-5fbd-a40f-befc6f6f5cde",
+  "skill_id": "ba41a44f-e000-53bf-adf6-312fff3bbb64",
+  "skill_key": "regulatory-compliance"
+ },
+ {
+  "task_id": "0c4f50bb-6246-53e0-b5c9-eda774a262b2",
+  "skill_id": "ab22ed2b-592a-5044-8fb4-f78a9875b348",
+  "skill_key": "retail-banking"
+ },
+ {
+  "task_id": "0c4f50bb-6246-53e0-b5c9-eda774a262b2",
+  "skill_id": "5e4bf5d9-1cb1-5b33-b014-f355505719ad",
+  "skill_key": "kyc"
+ },
+ {
+  "task_id": "e417a86a-3e27-5769-b0b6-4b0a5fcf7fc4",
+  "skill_id": "ab22ed2b-592a-5044-8fb4-f78a9875b348",
+  "skill_key": "retail-banking"
+ },
+ {
+  "task_id": "0f1ed47f-de2f-55cc-8445-c975352fd669",
+  "skill_id": "ab22ed2b-592a-5044-8fb4-f78a9875b348",
+  "skill_key": "retail-banking"
+ },
+ {
+  "task_id": "5efb2173-35bb-557c-bb8c-b8a7573395eb",
+  "skill_id": "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+  "skill_key": "financial-modelling"
+ },
+ {
+  "task_id": "5efb2173-35bb-557c-bb8c-b8a7573395eb",
+  "skill_id": "c15cecfc-4b2d-56da-bd02-3e823f607308",
+  "skill_key": "financial-forecasting"
+ },
+ {
+  "task_id": "d720b89f-4f5a-5d69-b4fb-5d871203ea0a",
+  "skill_id": "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+  "skill_key": "financial-modelling"
+ },
+ {
+  "task_id": "7a643825-cb34-5bcb-b69a-ffa1179109e6",
+  "skill_id": "26539bee-58df-5a71-8f25-845c6aa04627",
+  "skill_key": "valuation"
+ },
+ {
+  "task_id": "7a643825-cb34-5bcb-b69a-ffa1179109e6",
+  "skill_id": "5f0e0052-aa93-592a-bc5f-5719de82b345",
+  "skill_key": "investment-analysis"
+ },
+ {
+  "task_id": "17cf7f75-9468-5a33-aa6c-02a8e770dfd4",
+  "skill_id": "5f0e0052-aa93-592a-bc5f-5719de82b345",
+  "skill_key": "investment-analysis"
+ },
+ {
+  "task_id": "5ff45cf2-307d-5789-9eb2-8c61ef49c34c",
+  "skill_id": "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+  "skill_key": "financial-modelling"
+ },
+ {
+  "task_id": "0d12514b-0c25-5114-ad65-e7d0fdcefa05",
+  "skill_id": "26539bee-58df-5a71-8f25-845c6aa04627",
+  "skill_key": "valuation"
+ },
+ {
+  "task_id": "49f9ec58-b4e3-53da-81b1-3335f345d9c3",
+  "skill_id": "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+  "skill_key": "financial-modelling"
+ },
+ {
+  "task_id": "06813946-a576-5a1c-8c39-38484b0a6c90",
+  "skill_id": "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+  "skill_key": "financial-modelling"
+ },
+ {
+  "task_id": "dcdaacdd-d8e2-5fe0-8841-16af4743d00c",
+  "skill_id": "f98aab84-e7c3-5ab2-98db-7532be9102ca",
+  "skill_key": "risk-analysis"
+ },
+ {
+  "task_id": "dcdaacdd-d8e2-5fe0-8841-16af4743d00c",
+  "skill_id": "5f0e0052-aa93-592a-bc5f-5719de82b345",
+  "skill_key": "investment-analysis"
+ },
+ {
+  "task_id": "ebfaa764-a897-5928-aea0-8ab736b56cf0",
+  "skill_id": "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+  "skill_key": "financial-modelling"
+ },
+ {
+  "task_id": "d371a184-92b4-553e-ad67-5e9fae211c8f",
+  "skill_id": "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+  "skill_key": "financial-modelling"
+ },
+ {
+  "task_id": "05c0ac1b-1d5e-52a3-8aa4-e0fb2cf524b6",
+  "skill_id": "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+  "skill_key": "financial-modelling"
+ },
+ {
+  "task_id": "028af7b4-a442-53a9-ad24-8073cbe97d15",
+  "skill_id": "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+  "skill_key": "financial-modelling"
+ },
+ {
+  "task_id": "931f0063-be5a-5b79-9602-db052dd8033c",
+  "skill_id": "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+  "skill_key": "financial-modelling"
+ },
+ {
+  "task_id": "19015364-2262-575b-953a-582abb12cd8d",
+  "skill_id": "5f0e0052-aa93-592a-bc5f-5719de82b345",
+  "skill_key": "investment-analysis"
+ },
+ {
+  "task_id": "99febd18-1289-509d-89ef-c40ecfb3306d",
+  "skill_id": "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+  "skill_key": "financial-modelling"
+ },
+ {
+  "task_id": "1700d8ce-9e3b-5a4e-9f7c-fb618b785582",
+  "skill_id": "6f0ba27d-005f-57f9-af80-f6f1d02e84e4",
+  "skill_key": "branding"
+ },
+ {
+  "task_id": "1700d8ce-9e3b-5a4e-9f7c-fb618b785582",
+  "skill_id": "67cd235f-fde2-51ff-b250-7fc7fbd9b346",
+  "skill_key": "social-media-design"
+ },
+ {
+  "task_id": "eaabfba2-8dc0-56b1-8165-f4b1492a55e8",
+  "skill_id": "6f0ba27d-005f-57f9-af80-f6f1d02e84e4",
+  "skill_key": "branding"
+ },
+ {
+  "task_id": "bed4df12-36ba-5354-b09d-602977ebf307",
+  "skill_id": "93123806-6eeb-52b6-baf7-933d119cd749",
+  "skill_key": "feedback-handling"
+ },
+ {
+  "task_id": "bed4df12-36ba-5354-b09d-602977ebf307",
+  "skill_id": "c0eaed41-ab47-5bdb-ac3b-222f6d457098",
+  "skill_key": "visual-storytelling"
+ },
+ {
+  "task_id": "a32620f7-1a9a-52d2-b56f-6658971f788f",
+  "skill_id": "2f0efb0b-c39a-51d3-83b0-047720fabaa9",
+  "skill_key": "photoshop"
+ },
+ {
+  "task_id": "9f82c150-2bd4-5460-a961-813369cb2354",
+  "skill_id": "6f0ba27d-005f-57f9-af80-f6f1d02e84e4",
+  "skill_key": "branding"
+ },
+ {
+  "task_id": "9f82c150-2bd4-5460-a961-813369cb2354",
+  "skill_id": "67cd235f-fde2-51ff-b250-7fc7fbd9b346",
+  "skill_key": "social-media-design"
+ },
+ {
+  "task_id": "7e6f96aa-b08a-5e3f-aaf5-0dd57f426276",
+  "skill_id": "6f0ba27d-005f-57f9-af80-f6f1d02e84e4",
+  "skill_key": "branding"
+ },
+ {
+  "task_id": "7e6f96aa-b08a-5e3f-aaf5-0dd57f426276",
+  "skill_id": "93123806-6eeb-52b6-baf7-933d119cd749",
+  "skill_key": "feedback-handling"
+ },
+ {
+  "task_id": "ad3bfaee-6dcf-5cc3-8541-cb23ed124778",
+  "skill_id": "6f0ba27d-005f-57f9-af80-f6f1d02e84e4",
+  "skill_key": "branding"
+ },
+ {
+  "task_id": "ad3bfaee-6dcf-5cc3-8541-cb23ed124778",
+  "skill_id": "93123806-6eeb-52b6-baf7-933d119cd749",
+  "skill_key": "feedback-handling"
+ },
+ {
+  "task_id": "18de364f-b742-5d69-8f4d-5a715aa6a52e",
+  "skill_id": "6f0ba27d-005f-57f9-af80-f6f1d02e84e4",
+  "skill_key": "branding"
+ },
+ {
+  "task_id": "18de364f-b742-5d69-8f4d-5a715aa6a52e",
+  "skill_id": "67cd235f-fde2-51ff-b250-7fc7fbd9b346",
+  "skill_key": "social-media-design"
+ },
+ {
+  "task_id": "c2b3eaba-2ec0-580e-99f2-9d966bd0a44e",
+  "skill_id": "17c4da4b-0a24-533c-8ab9-3263648a8873",
+  "skill_key": "color-theory"
+ },
+ {
+  "task_id": "3a4c43d2-2891-5f44-877b-3d613d530e38",
+  "skill_id": "2f0efb0b-c39a-51d3-83b0-047720fabaa9",
+  "skill_key": "photoshop"
+ },
+ {
+  "task_id": "7777d8bd-41a8-516d-b56f-779d6b9f0eea",
+  "skill_id": "2f0efb0b-c39a-51d3-83b0-047720fabaa9",
+  "skill_key": "photoshop"
+ },
+ {
+  "task_id": "ee1b0ade-501c-58c5-aa7b-9ab7f82756ff",
+  "skill_id": "6f0ba27d-005f-57f9-af80-f6f1d02e84e4",
+  "skill_key": "branding"
+ },
+ {
+  "task_id": "ee1b0ade-501c-58c5-aa7b-9ab7f82756ff",
+  "skill_id": "67cd235f-fde2-51ff-b250-7fc7fbd9b346",
+  "skill_key": "social-media-design"
+ },
+ {
+  "task_id": "8288a3a5-5827-5a7d-b67c-89394871ce5b",
+  "skill_id": "2f0efb0b-c39a-51d3-83b0-047720fabaa9",
+  "skill_key": "photoshop"
+ },
+ {
+  "task_id": "1b9399dc-291f-5e85-9134-c21903b97ffd",
+  "skill_id": "6f0ba27d-005f-57f9-af80-f6f1d02e84e4",
+  "skill_key": "branding"
+ },
+ {
+  "task_id": "1b9399dc-291f-5e85-9134-c21903b97ffd",
+  "skill_id": "67cd235f-fde2-51ff-b250-7fc7fbd9b346",
+  "skill_key": "social-media-design"
+ },
+ {
+  "task_id": "cfeeef1b-454c-5462-a32f-c631d90a788d",
+  "skill_id": "c0eaed41-ab47-5bdb-ac3b-222f6d457098",
+  "skill_key": "visual-storytelling"
+ },
+ {
+  "task_id": "b2ba688c-4a67-51ef-bf5d-24dd9435d999",
+  "skill_id": "6f0ba27d-005f-57f9-af80-f6f1d02e84e4",
+  "skill_key": "branding"
+ },
+ {
+  "task_id": "b2ba688c-4a67-51ef-bf5d-24dd9435d999",
+  "skill_id": "67cd235f-fde2-51ff-b250-7fc7fbd9b346",
+  "skill_key": "social-media-design"
+ },
+ {
+  "task_id": "de033be1-732d-5cec-9414-4ff042ae733a",
+  "skill_id": "64b08f36-cddf-514a-838a-5ab4a542e241",
+  "skill_key": "ux-research"
+ },
+ {
+  "task_id": "de033be1-732d-5cec-9414-4ff042ae733a",
+  "skill_id": "81870f62-fbdb-51e3-835c-41e6a7905875",
+  "skill_key": "user-journeys"
+ },
+ {
+  "task_id": "640e24c9-253b-5a0a-8c12-7c7993a02c78",
+  "skill_id": "dc6afc4b-0301-509b-8d14-d61f3ad402f5",
+  "skill_key": "figma"
+ },
+ {
+  "task_id": "640e24c9-253b-5a0a-8c12-7c7993a02c78",
+  "skill_id": "23b11ec5-330f-5c68-8903-e38be11218f5",
+  "skill_key": "ui-design"
+ },
+ {
+  "task_id": "c97740d7-0f67-5daa-bd55-71e5ab4c3a9a",
+  "skill_id": "dc6afc4b-0301-509b-8d14-d61f3ad402f5",
+  "skill_key": "figma"
+ },
+ {
+  "task_id": "22b10514-d429-5a24-9205-e1f3f712c5c8",
+  "skill_id": "0b11185f-50c9-564f-ad83-5d1ade9aba9f",
+  "skill_key": "usability-testing"
+ },
+ {
+  "task_id": "52191ab6-ab20-5086-b54e-a2ab3e6d2354",
+  "skill_id": "dc6afc4b-0301-509b-8d14-d61f3ad402f5",
+  "skill_key": "figma"
+ },
+ {
+  "task_id": "e7dbc94d-688a-5bee-99ab-ee18bb9102b3",
+  "skill_id": "23b11ec5-330f-5c68-8903-e38be11218f5",
+  "skill_key": "ui-design"
+ },
+ {
+  "task_id": "e7dbc94d-688a-5bee-99ab-ee18bb9102b3",
+  "skill_id": "b2384ec2-fea8-5a3f-a882-6fc7f0d1370c",
+  "skill_key": "interaction-design"
+ },
+ {
+  "task_id": "f76deb0f-1e11-5151-b9d4-6234277a11e5",
+  "skill_id": "1e78717d-0b30-5662-aad4-06f79c279b67",
+  "skill_key": "html-css-basics"
+ },
+ {
+  "task_id": "5d0e2c5b-75c7-58d3-b6b7-032c9db14b4d",
+  "skill_id": "1e78717d-0b30-5662-aad4-06f79c279b67",
+  "skill_key": "html-css-basics"
+ },
+ {
+  "task_id": "9ad97356-5a30-5e79-b5c5-efc7ebf6ec26",
+  "skill_id": "23b11ec5-330f-5c68-8903-e38be11218f5",
+  "skill_key": "ui-design"
+ },
+ {
+  "task_id": "9ad97356-5a30-5e79-b5c5-efc7ebf6ec26",
+  "skill_id": "b2384ec2-fea8-5a3f-a882-6fc7f0d1370c",
+  "skill_key": "interaction-design"
+ },
+ {
+  "task_id": "a896a952-d910-568e-88da-dbc63d56f85f",
+  "skill_id": "dc6afc4b-0301-509b-8d14-d61f3ad402f5",
+  "skill_key": "figma"
+ },
+ {
+  "task_id": "f611373b-2625-56b5-bb58-47cfc4b5aeef",
+  "skill_id": "81870f62-fbdb-51e3-835c-41e6a7905875",
+  "skill_key": "user-journeys"
+ },
+ {
+  "task_id": "f611373b-2625-56b5-bb58-47cfc4b5aeef",
+  "skill_id": "64b08f36-cddf-514a-838a-5ab4a542e241",
+  "skill_key": "ux-research"
+ },
+ {
+  "task_id": "909a8960-666e-56dc-b724-98407d76a768",
+  "skill_id": "23b11ec5-330f-5c68-8903-e38be11218f5",
+  "skill_key": "ui-design"
+ },
+ {
+  "task_id": "909a8960-666e-56dc-b724-98407d76a768",
+  "skill_id": "b2384ec2-fea8-5a3f-a882-6fc7f0d1370c",
+  "skill_key": "interaction-design"
+ },
+ {
+  "task_id": "3fec40fc-7da2-5f77-8e0a-d8430c8e2f3f",
+  "skill_id": "1e78717d-0b30-5662-aad4-06f79c279b67",
+  "skill_key": "html-css-basics"
+ },
+ {
+  "task_id": "0b0ab3b2-c5db-5067-9b69-622f568f7783",
+  "skill_id": "23b11ec5-330f-5c68-8903-e38be11218f5",
+  "skill_key": "ui-design"
+ },
+ {
+  "task_id": "0b0ab3b2-c5db-5067-9b69-622f568f7783",
+  "skill_id": "b2384ec2-fea8-5a3f-a882-6fc7f0d1370c",
+  "skill_key": "interaction-design"
+ },
+ {
+  "task_id": "282f3469-c4f7-5f30-8548-83a7605d9e3d",
+  "skill_id": "17c2bafc-b70c-5e3f-a621-6a8487179430",
+  "skill_key": "problem-solving"
+ },
+ {
+  "task_id": "c8d807dc-1eec-5c24-bb1b-d26909b128d0",
+  "skill_id": "02d15966-789d-541b-b944-ea596ad5bbe2",
+  "skill_key": "design-systems"
+ },
+ {
+  "task_id": "56bdb4a0-cc70-5d89-ae0f-d7ede37f9c88",
+  "skill_id": "60c96133-cc0b-5494-b6e2-e70a1daeb1f9",
+  "skill_key": "content-writing"
+ },
+ {
+  "task_id": "56bdb4a0-cc70-5d89-ae0f-d7ede37f9c88",
+  "skill_id": "68fe3e8a-0547-591f-a418-aef24d43d429",
+  "skill_key": "grammar"
+ },
+ {
+  "task_id": "609d1158-9aab-54f4-b2f6-17a65250cef2",
+  "skill_id": "7f12d6ba-545c-5b8b-a807-e96693f5ea8a",
+  "skill_key": "research"
+ },
+ {
+  "task_id": "609d1158-9aab-54f4-b2f6-17a65250cef2",
+  "skill_id": "68fe3e8a-0547-591f-a418-aef24d43d429",
+  "skill_key": "grammar"
+ },
+ {
+  "task_id": "3fe92f16-eac1-5075-9efd-152cd5d3ebbf",
+  "skill_id": "68fe3e8a-0547-591f-a418-aef24d43d429",
+  "skill_key": "grammar"
+ },
+ {
+  "task_id": "bd9afe90-77eb-5845-ab53-a061ce146cb2",
+  "skill_id": "cf91b594-77ac-5161-a962-d544fe4ff54a",
+  "skill_key": "seo-writing"
+ },
+ {
+  "task_id": "bd9afe90-77eb-5845-ab53-a061ce146cb2",
+  "skill_id": "26ed28ab-69ff-5cda-b6ca-90459a33f894",
+  "skill_key": "copywriting"
+ },
+ {
+  "task_id": "118baf50-39ac-5b2e-9ae9-4a4e2197849d",
+  "skill_id": "60c96133-cc0b-5494-b6e2-e70a1daeb1f9",
+  "skill_key": "content-writing"
+ },
+ {
+  "task_id": "57bd4ae6-f584-5dc2-b552-70e8f4c97f5b",
+  "skill_id": "36ef63b4-ef5b-581e-b009-9a98dd9ff7a5",
+  "skill_key": "social-copy"
+ },
+ {
+  "task_id": "552c162e-6deb-5aff-94c0-35713f7e4e93",
+  "skill_id": "60c96133-cc0b-5494-b6e2-e70a1daeb1f9",
+  "skill_key": "content-writing"
+ },
+ {
+  "task_id": "3642f59b-14ca-52b7-a9ef-f82d4dbbab4a",
+  "skill_id": "68fe3e8a-0547-591f-a418-aef24d43d429",
+  "skill_key": "grammar"
+ },
+ {
+  "task_id": "3642f59b-14ca-52b7-a9ef-f82d4dbbab4a",
+  "skill_id": "4b47f46a-a190-544e-a3c3-dd233edbdf32",
+  "skill_key": "cms-basic"
+ },
+ {
+  "task_id": "b9e92a07-7100-51f5-8255-3fdb1b22d5bd",
+  "skill_id": "68fe3e8a-0547-591f-a418-aef24d43d429",
+  "skill_key": "grammar"
+ },
+ {
+  "task_id": "b9e92a07-7100-51f5-8255-3fdb1b22d5bd",
+  "skill_id": "4b47f46a-a190-544e-a3c3-dd233edbdf32",
+  "skill_key": "cms-basic"
+ },
+ {
+  "task_id": "95038809-57ce-5517-a40a-4bf8567f7576",
+  "skill_id": "60c96133-cc0b-5494-b6e2-e70a1daeb1f9",
+  "skill_key": "content-writing"
+ },
+ {
+  "task_id": "85e826a3-23ed-511a-b201-eef2bc31dda5",
+  "skill_id": "60c96133-cc0b-5494-b6e2-e70a1daeb1f9",
+  "skill_key": "content-writing"
+ },
+ {
+  "task_id": "fca439ec-f5d0-5743-8555-a5bfc8a84b53",
+  "skill_id": "60c96133-cc0b-5494-b6e2-e70a1daeb1f9",
+  "skill_key": "content-writing"
+ },
+ {
+  "task_id": "db0f5591-a49c-5cb6-98ce-7d37757ad53c",
+  "skill_id": "60c96133-cc0b-5494-b6e2-e70a1daeb1f9",
+  "skill_key": "content-writing"
+ },
+ {
+  "task_id": "ced3b957-44d4-5c9b-9d8a-c5dce8a0aee8",
+  "skill_id": "4b47f46a-a190-544e-a3c3-dd233edbdf32",
+  "skill_key": "cms-basic"
+ },
+ {
+  "task_id": "49f34450-59d8-5aa0-8bc0-b309f2d935a2",
+  "skill_id": "60c96133-cc0b-5494-b6e2-e70a1daeb1f9",
+  "skill_key": "content-writing"
+ },
+ {
+  "task_id": "d29e4d3a-def2-5aaa-8516-1b6c4bab91a1",
+  "skill_id": "eb520d63-bed8-5096-bd42-258db667458f",
+  "skill_key": "script-writing"
+ },
+ {
+  "task_id": "e947f7d5-7922-5e32-ae67-b65843e375ba",
+  "skill_id": "73bd5ec7-6665-5eea-a973-169e9c23cd79",
+  "skill_key": "facebook-ads"
+ },
+ {
+  "task_id": "e947f7d5-7922-5e32-ae67-b65843e375ba",
+  "skill_id": "51329c56-6a75-52b7-bbb2-b7feba469569",
+  "skill_key": "marketing-analytics"
+ },
+ {
+  "task_id": "903ebaa4-09ad-5821-9fe0-5dd5533253a9",
+  "skill_id": "3ce6da9a-4324-5a06-bc6f-29c4dd4e5d22",
+  "skill_key": "google-ads"
+ },
+ {
+  "task_id": "903ebaa4-09ad-5821-9fe0-5dd5533253a9",
+  "skill_id": "26ed28ab-69ff-5cda-b6ca-90459a33f894",
+  "skill_key": "copywriting"
+ },
+ {
+  "task_id": "e334a15c-1540-5559-817a-d10c162ea9fc",
+  "skill_id": "6dfcc637-852d-50b7-9a0c-4afe97909d5d",
+  "skill_key": "google-analytics"
+ },
+ {
+  "task_id": "e334a15c-1540-5559-817a-d10c162ea9fc",
+  "skill_id": "51329c56-6a75-52b7-bbb2-b7feba469569",
+  "skill_key": "marketing-analytics"
+ },
+ {
+  "task_id": "d9b67cf4-fafe-56b6-8e43-20d3ddf9dd11",
+  "skill_id": "b3dc0448-ebf4-5e18-ad53-bfca5ddaf635",
+  "skill_key": "digital-marketing"
+ },
+ {
+  "task_id": "bbaf4097-4b55-5d6e-a1f4-546b991b5a3a",
+  "skill_id": "578cdb0c-a707-5da4-b82c-2f4dd91b243a",
+  "skill_key": "social-media-marketing"
+ },
+ {
+  "task_id": "bbaf4097-4b55-5d6e-a1f4-546b991b5a3a",
+  "skill_id": "939cbf33-6b41-5a13-a723-332dea25f31d",
+  "skill_key": "content-marketing"
+ },
+ {
+  "task_id": "cec3d87c-3266-5438-b1d5-874ebddd78f3",
+  "skill_id": "73bd5ec7-6665-5eea-a973-169e9c23cd79",
+  "skill_key": "facebook-ads"
+ },
+ {
+  "task_id": "cec3d87c-3266-5438-b1d5-874ebddd78f3",
+  "skill_id": "332c9633-6be1-56a5-a712-45b40523614f",
+  "skill_key": "facebook-pixel"
+ },
+ {
+  "task_id": "923b77bc-966a-5db7-9814-36217b2f6a8a",
+  "skill_id": "8540d88e-1c65-54a1-9152-15495ae9157f",
+  "skill_key": "seo"
+ },
+ {
+  "task_id": "ac4ae9fd-8756-5ff4-9a41-b9c79e3f2edd",
+  "skill_id": "51329c56-6a75-52b7-bbb2-b7feba469569",
+  "skill_key": "marketing-analytics"
+ },
+ {
+  "task_id": "ac4ae9fd-8756-5ff4-9a41-b9c79e3f2edd",
+  "skill_id": "73bd5ec7-6665-5eea-a973-169e9c23cd79",
+  "skill_key": "facebook-ads"
+ },
+ {
+  "task_id": "02d92260-9b88-55f8-b919-1c4fb31aa17d",
+  "skill_id": "b3dc0448-ebf4-5e18-ad53-bfca5ddaf635",
+  "skill_key": "digital-marketing"
+ },
+ {
+  "task_id": "45e82701-a7b4-5e70-9b65-42207652fc13",
+  "skill_id": "73bd5ec7-6665-5eea-a973-169e9c23cd79",
+  "skill_key": "facebook-ads"
+ },
+ {
+  "task_id": "45e82701-a7b4-5e70-9b65-42207652fc13",
+  "skill_id": "332c9633-6be1-56a5-a712-45b40523614f",
+  "skill_key": "facebook-pixel"
+ },
+ {
+  "task_id": "cfc8f773-9727-52f1-8553-ce58a431b691",
+  "skill_id": "332c9633-6be1-56a5-a712-45b40523614f",
+  "skill_key": "facebook-pixel"
+ },
+ {
+  "task_id": "cfc8f773-9727-52f1-8553-ce58a431b691",
+  "skill_id": "73bd5ec7-6665-5eea-a973-169e9c23cd79",
+  "skill_key": "facebook-ads"
+ },
+ {
+  "task_id": "88c7d90f-ef32-5293-8c60-2bdcfae3bdfe",
+  "skill_id": "b3dc0448-ebf4-5e18-ad53-bfca5ddaf635",
+  "skill_key": "digital-marketing"
+ },
+ {
+  "task_id": "d77d955a-6fa4-5bff-8f4f-1c900bc47b35",
+  "skill_id": "b3dc0448-ebf4-5e18-ad53-bfca5ddaf635",
+  "skill_key": "digital-marketing"
+ },
+ {
+  "task_id": "416cf9ad-0542-5af4-85eb-1d1cd5532d8d",
+  "skill_id": "73bd5ec7-6665-5eea-a973-169e9c23cd79",
+  "skill_key": "facebook-ads"
+ },
+ {
+  "task_id": "416cf9ad-0542-5af4-85eb-1d1cd5532d8d",
+  "skill_id": "332c9633-6be1-56a5-a712-45b40523614f",
+  "skill_key": "facebook-pixel"
+ },
+ {
+  "task_id": "6b16fc1d-6b6e-503b-a0b7-59669d8fb787",
+  "skill_id": "51329c56-6a75-52b7-bbb2-b7feba469569",
+  "skill_key": "marketing-analytics"
+ },
+ {
+  "task_id": "6b16fc1d-6b6e-503b-a0b7-59669d8fb787",
+  "skill_id": "d5d8f3ff-d019-5fcb-ade6-50befd1fc4b7",
+  "skill_key": "campaign-management"
+ },
+ {
+  "task_id": "87f1187a-354d-5fa5-a639-3338e6ea494b",
+  "skill_id": "b3dc0448-ebf4-5e18-ad53-bfca5ddaf635",
+  "skill_key": "digital-marketing"
+ },
+ {
+  "task_id": "afba4060-8158-5de3-89c2-2246d13d75d1",
+  "skill_id": "d01f7ed9-ca3c-5706-832d-3443e9ee5ff9",
+  "skill_key": "costing"
+ },
+ {
+  "task_id": "afba4060-8158-5de3-89c2-2246d13d75d1",
+  "skill_id": "7e2340de-b3ac-5359-80cd-797d5a691418",
+  "skill_key": "buyer-communication"
+ },
+ {
+  "task_id": "eb111ad3-8e9c-5290-a8e5-051badcc5807",
+  "skill_id": "2295edbe-9105-53b3-a675-606d9cf5af25",
+  "skill_key": "garment-sampling"
+ },
+ {
+  "task_id": "eb111ad3-8e9c-5290-a8e5-051badcc5807",
+  "skill_id": "e7f2c12f-4518-5bd3-b4d1-90e7f622eee6",
+  "skill_key": "production-followup"
+ },
+ {
+  "task_id": "3261296c-f8f3-5ea6-bf2a-a3a43469c1a6",
+  "skill_id": "7e2340de-b3ac-5359-80cd-797d5a691418",
+  "skill_key": "buyer-communication"
+ },
+ {
+  "task_id": "b621775e-bfcd-53e4-a288-4b0041e7f658",
+  "skill_id": "4a7adce4-9066-538c-a89e-5800d033ef55",
+  "skill_key": "time-and-action"
+ },
+ {
+  "task_id": "b621775e-bfcd-53e4-a288-4b0041e7f658",
+  "skill_id": "2295edbe-9105-53b3-a675-606d9cf5af25",
+  "skill_key": "garment-sampling"
+ },
+ {
+  "task_id": "32894384-2a59-51f2-948c-4871966881cc",
+  "skill_id": "d3e5c9ad-baa7-5a57-a844-c0dda79a2c90",
+  "skill_key": "fabric-knowledge"
+ },
+ {
+  "task_id": "32894384-2a59-51f2-948c-4871966881cc",
+  "skill_id": "2295edbe-9105-53b3-a675-606d9cf5af25",
+  "skill_key": "garment-sampling"
+ },
+ {
+  "task_id": "4055b373-5c72-5033-862f-b8acc5719816",
+  "skill_id": "7e2340de-b3ac-5359-80cd-797d5a691418",
+  "skill_key": "buyer-communication"
+ },
+ {
+  "task_id": "8b05d5b3-e24f-5858-a956-ffe1229e6aa0",
+  "skill_id": "7e2340de-b3ac-5359-80cd-797d5a691418",
+  "skill_key": "buyer-communication"
+ },
+ {
+  "task_id": "8b05d5b3-e24f-5858-a956-ffe1229e6aa0",
+  "skill_id": "e7f2c12f-4518-5bd3-b4d1-90e7f622eee6",
+  "skill_key": "production-followup"
+ },
+ {
+  "task_id": "2e2640fa-df15-5bd5-99b2-4280a096d0cd",
+  "skill_id": "e7f2c12f-4518-5bd3-b4d1-90e7f622eee6",
+  "skill_key": "production-followup"
+ },
+ {
+  "task_id": "43738337-fee6-58c8-aae7-99639ae3b9ed",
+  "skill_id": "2295edbe-9105-53b3-a675-606d9cf5af25",
+  "skill_key": "garment-sampling"
+ },
+ {
+  "task_id": "43738337-fee6-58c8-aae7-99639ae3b9ed",
+  "skill_id": "d3e5c9ad-baa7-5a57-a844-c0dda79a2c90",
+  "skill_key": "fabric-knowledge"
+ },
+ {
+  "task_id": "921d184a-2e27-5fe8-9c05-d227eaa98742",
+  "skill_id": "d3e5c9ad-baa7-5a57-a844-c0dda79a2c90",
+  "skill_key": "fabric-knowledge"
+ },
+ {
+  "task_id": "d6b2b24c-f280-534b-b240-68ed2c000c53",
+  "skill_id": "0d77ba6c-fb40-530a-97a5-8714d1e26892",
+  "skill_key": "merchandising"
+ },
+ {
+  "task_id": "457a24ee-9f21-5ec8-ac2c-2d287d3fcd7c",
+  "skill_id": "7e2340de-b3ac-5359-80cd-797d5a691418",
+  "skill_key": "buyer-communication"
+ },
+ {
+  "task_id": "457a24ee-9f21-5ec8-ac2c-2d287d3fcd7c",
+  "skill_id": "2295edbe-9105-53b3-a675-606d9cf5af25",
+  "skill_key": "garment-sampling"
+ },
+ {
+  "task_id": "d16a479b-d4ae-5a13-9fa1-dafa945cdfb8",
+  "skill_id": "0d77ba6c-fb40-530a-97a5-8714d1e26892",
+  "skill_key": "merchandising"
+ },
+ {
+  "task_id": "21d4b019-cdd1-5ced-99ad-bc5223a41127",
+  "skill_id": "2295edbe-9105-53b3-a675-606d9cf5af25",
+  "skill_key": "garment-sampling"
+ },
+ {
+  "task_id": "21d4b019-cdd1-5ced-99ad-bc5223a41127",
+  "skill_id": "d3e5c9ad-baa7-5a57-a844-c0dda79a2c90",
+  "skill_key": "fabric-knowledge"
+ },
+ {
+  "task_id": "8b0fc250-113a-5154-961b-af4c5b1ebcb3",
+  "skill_id": "66a0ef64-d7f8-596c-9f20-32c9831f44a3",
+  "skill_key": "social-compliance-audit"
+ },
+ {
+  "task_id": "d0aff34f-dbc1-5e7d-be5e-66c75779d2b2",
+  "skill_id": "0d77ba6c-fb40-530a-97a5-8714d1e26892",
+  "skill_key": "merchandising"
+ },
+ {
+  "task_id": "bcb2dbf5-a2dd-5b63-84f5-f694833e8c36",
+  "skill_id": "b89f4474-f9f1-59e7-9132-f8cc5f952ee7",
+  "skill_key": "garment-construction"
+ },
+ {
+  "task_id": "bcb2dbf5-a2dd-5b63-84f5-f694833e8c36",
+  "skill_id": "98bd44f8-c564-5762-b872-06566950113e",
+  "skill_key": "line-balancing"
+ },
+ {
+  "task_id": "8dd3a2d4-0ae5-5af3-9baa-3ab4cd40510f",
+  "skill_id": "98bd44f8-c564-5762-b872-06566950113e",
+  "skill_key": "line-balancing"
+ },
+ {
+  "task_id": "9dd9d1c3-c08c-5937-84df-490de25399bc",
+  "skill_id": "091e8abf-0972-5eb6-8395-b1c973bcf042",
+  "skill_key": "quality-control"
+ },
+ {
+  "task_id": "9dd9d1c3-c08c-5937-84df-490de25399bc",
+  "skill_id": "98bd44f8-c564-5762-b872-06566950113e",
+  "skill_key": "line-balancing"
+ },
+ {
+  "task_id": "77b75e3c-627c-5360-9056-cb8b1a7628dc",
+  "skill_id": "761f2c3a-b127-52b7-9b18-51d9f2bead56",
+  "skill_key": "production-planning"
+ },
+ {
+  "task_id": "77b75e3c-627c-5360-9056-cb8b1a7628dc",
+  "skill_id": "1ea94f21-ac89-5d37-b368-a623495b63a1",
+  "skill_key": "record-keeping"
+ },
+ {
+  "task_id": "32914a3f-d748-587a-a105-58fa723334ce",
+  "skill_id": "761f2c3a-b127-52b7-9b18-51d9f2bead56",
+  "skill_key": "production-planning"
+ },
+ {
+  "task_id": "7bf1f938-5061-5e20-bece-8288fbf03828",
+  "skill_id": "761f2c3a-b127-52b7-9b18-51d9f2bead56",
+  "skill_key": "production-planning"
+ },
+ {
+  "task_id": "74c40b43-48b2-50a0-9c58-90c38bfe1315",
+  "skill_id": "98bd44f8-c564-5762-b872-06566950113e",
+  "skill_key": "line-balancing"
+ },
+ {
+  "task_id": "65a5a95f-e445-54f0-a67d-ac2879257012",
+  "skill_id": "091e8abf-0972-5eb6-8395-b1c973bcf042",
+  "skill_key": "quality-control"
+ },
+ {
+  "task_id": "2b99e306-ddd9-52ac-8258-5697676a39b5",
+  "skill_id": "8ca9da86-39cc-5e3e-8462-d80791d9dfe8",
+  "skill_key": "health-safety"
+ },
+ {
+  "task_id": "45bc66e7-58f0-5235-a811-6ca265b0ff7b",
+  "skill_id": "8ca9da86-39cc-5e3e-8462-d80791d9dfe8",
+  "skill_key": "health-safety"
+ },
+ {
+  "task_id": "45bc66e7-58f0-5235-a811-6ca265b0ff7b",
+  "skill_id": "1ea94f21-ac89-5d37-b368-a623495b63a1",
+  "skill_key": "record-keeping"
+ },
+ {
+  "task_id": "9236fc6e-d3c0-52e3-a508-c26fe83069d7",
+  "skill_id": "98bd44f8-c564-5762-b872-06566950113e",
+  "skill_key": "line-balancing"
+ },
+ {
+  "task_id": "b096d99a-0c49-5349-8ef0-78a928592df2",
+  "skill_id": "761f2c3a-b127-52b7-9b18-51d9f2bead56",
+  "skill_key": "production-planning"
+ },
+ {
+  "task_id": "ea5d9e6a-47ae-54b8-86fc-7bc7b2c25447",
+  "skill_id": "761f2c3a-b127-52b7-9b18-51d9f2bead56",
+  "skill_key": "production-planning"
+ },
+ {
+  "task_id": "e531fce3-ca9e-5065-858e-c761fd890786",
+  "skill_id": "761f2c3a-b127-52b7-9b18-51d9f2bead56",
+  "skill_key": "production-planning"
+ },
+ {
+  "task_id": "e5705d3b-a548-5125-a623-54ffd1b6abcf",
+  "skill_id": "98bd44f8-c564-5762-b872-06566950113e",
+  "skill_key": "line-balancing"
+ },
+ {
+  "task_id": "45f8ed5d-525a-5017-923f-113026184ea9",
+  "skill_id": "761f2c3a-b127-52b7-9b18-51d9f2bead56",
+  "skill_key": "production-planning"
+ },
+ {
+  "task_id": "05e8d18c-0af0-5d2a-ada8-05d1e5655ffc",
+  "skill_id": "53610a11-cc0f-5703-b09b-3da9e97513cb",
+  "skill_key": "lesson-planning"
+ },
+ {
+  "task_id": "05e8d18c-0af0-5d2a-ada8-05d1e5655ffc",
+  "skill_id": "5efdd0f7-b6e5-58c0-9e8b-d827bb34049f",
+  "skill_key": "mentoring"
+ },
+ {
+  "task_id": "b53c309a-4eec-5c72-8c2d-659c4bc72969",
+  "skill_id": "53610a11-cc0f-5703-b09b-3da9e97513cb",
+  "skill_key": "lesson-planning"
+ },
+ {
+  "task_id": "f8f173fc-6f56-5621-8748-67a8acf9634c",
+  "skill_id": "5efdd0f7-b6e5-58c0-9e8b-d827bb34049f",
+  "skill_key": "mentoring"
+ },
+ {
+  "task_id": "f8f173fc-6f56-5621-8748-67a8acf9634c",
+  "skill_id": "1ea94f21-ac89-5d37-b368-a623495b63a1",
+  "skill_key": "record-keeping"
+ },
+ {
+  "task_id": "ddca0ede-37bd-5e28-a7bd-452ac0cb9696",
+  "skill_id": "08177828-3291-592c-8f2d-532f8fc7c955",
+  "skill_key": "student-assessment"
+ },
+ {
+  "task_id": "ddca0ede-37bd-5e28-a7bd-452ac0cb9696",
+  "skill_id": "1ea94f21-ac89-5d37-b368-a623495b63a1",
+  "skill_key": "record-keeping"
+ },
+ {
+  "task_id": "6861a20a-4532-5c8e-b4b4-6325d589a892",
+  "skill_id": "74d52272-defe-5f36-8bde-c2438dbdf93d",
+  "skill_key": "curriculum-development"
+ },
+ {
+  "task_id": "4d6dd162-df78-5e7a-9621-e81421e5f4b7",
+  "skill_id": "08177828-3291-592c-8f2d-532f8fc7c955",
+  "skill_key": "student-assessment"
+ },
+ {
+  "task_id": "c0a4ee4a-ab17-55a0-81dc-2cf583a2a753",
+  "skill_id": "08177828-3291-592c-8f2d-532f8fc7c955",
+  "skill_key": "student-assessment"
+ },
+ {
+  "task_id": "3096b948-4ef9-544a-8207-513a2af5ebba",
+  "skill_id": "a7fa39f9-1fce-59d6-9af7-23833bd07668",
+  "skill_key": "public-speaking"
+ },
+ {
+  "task_id": "1152558d-2c63-51ef-aa78-81560ef5a63a",
+  "skill_id": "c6e6dc63-2e1b-5086-8d9a-afb9df957294",
+  "skill_key": "child-safeguarding"
+ },
+ {
+  "task_id": "c4c17d60-727d-5f6c-b740-728ebd614b4b",
+  "skill_id": "5efdd0f7-b6e5-58c0-9e8b-d827bb34049f",
+  "skill_key": "mentoring"
+ },
+ {
+  "task_id": "c4c17d60-727d-5f6c-b740-728ebd614b4b",
+  "skill_id": "1ea94f21-ac89-5d37-b368-a623495b63a1",
+  "skill_key": "record-keeping"
+ },
+ {
+  "task_id": "285087ee-b4a7-5a73-b521-bf640f0b362a",
+  "skill_id": "f88824b6-f77e-5a3c-8983-4a68a499622d",
+  "skill_key": "online-teaching"
+ },
+ {
+  "task_id": "40b54bd9-993c-5cd5-9ea0-127bdee83ce0",
+  "skill_id": "53610a11-cc0f-5703-b09b-3da9e97513cb",
+  "skill_key": "lesson-planning"
+ },
+ {
+  "task_id": "576a17d8-c078-5dd8-8cdd-16a1a7596be8",
+  "skill_id": "53610a11-cc0f-5703-b09b-3da9e97513cb",
+  "skill_key": "lesson-planning"
+ },
+ {
+  "task_id": "979c4c80-8293-520d-8a37-d9adcc2ee81e",
+  "skill_id": "08177828-3291-592c-8f2d-532f8fc7c955",
+  "skill_key": "student-assessment"
+ },
+ {
+  "task_id": "066caacb-196c-52be-841e-2b47b4873ac6",
+  "skill_id": "c6e6dc63-2e1b-5086-8d9a-afb9df957294",
+  "skill_key": "child-safeguarding"
+ },
+ {
+  "task_id": "40b8a83f-1377-5a04-b807-868b7bf1f03c",
+  "skill_id": "53610a11-cc0f-5703-b09b-3da9e97513cb",
+  "skill_key": "lesson-planning"
+ },
+ {
+  "task_id": "6049a85a-765e-5a40-9304-2663329d28fb",
+  "skill_id": "5959a4c1-e1fd-589a-8ac9-498426f4f4b0",
+  "skill_key": "autocad"
+ },
+ {
+  "task_id": "6049a85a-765e-5a40-9304-2663329d28fb",
+  "skill_id": "264cbb5c-53f4-5ef6-89d6-f5f61bfd1dd3",
+  "skill_key": "staad-pro"
+ },
+ {
+  "task_id": "b939d1b2-ed4f-5977-8d7f-f06626b5d06b",
+  "skill_id": "a08e9918-886a-5bd9-8f5e-30e542ab26d4",
+  "skill_key": "site-supervision"
+ },
+ {
+  "task_id": "b939d1b2-ed4f-5977-8d7f-f06626b5d06b",
+  "skill_id": "957d5a63-f22d-599c-84eb-66ec4039fa4a",
+  "skill_key": "concrete-technology"
+ },
+ {
+  "task_id": "11ee1f4c-9715-5c17-82d8-3bdf5b039d16",
+  "skill_id": "33f86761-aeee-5d75-9122-055676bd05e4",
+  "skill_key": "project-planning"
+ },
+ {
+  "task_id": "11ee1f4c-9715-5c17-82d8-3bdf5b039d16",
+  "skill_id": "c7ba5218-23f1-503a-976c-acb0e91394e4",
+  "skill_key": "quantity-surveying"
+ },
+ {
+  "task_id": "8f32b8b4-306a-5708-9af9-fed30ba08fdc",
+  "skill_id": "a08e9918-886a-5bd9-8f5e-30e542ab26d4",
+  "skill_key": "site-supervision"
+ },
+ {
+  "task_id": "8f32b8b4-306a-5708-9af9-fed30ba08fdc",
+  "skill_id": "8ca9da86-39cc-5e3e-8462-d80791d9dfe8",
+  "skill_key": "health-safety"
+ },
+ {
+  "task_id": "7473cb44-1b9c-5d2f-bd78-a0d6be9bf70b",
+  "skill_id": "8ca9da86-39cc-5e3e-8462-d80791d9dfe8",
+  "skill_key": "health-safety"
+ },
+ {
+  "task_id": "7473cb44-1b9c-5d2f-bd78-a0d6be9bf70b",
+  "skill_id": "a797e649-8e6d-58df-a1cd-2b093bb0ba89",
+  "skill_key": "soil-mechanics"
+ },
+ {
+  "task_id": "3b6619af-3142-590c-becb-bc721b052554",
+  "skill_id": "264cbb5c-53f4-5ef6-89d6-f5f61bfd1dd3",
+  "skill_key": "staad-pro"
+ },
+ {
+  "task_id": "3b6619af-3142-590c-becb-bc721b052554",
+  "skill_id": "b114150a-94f7-5e54-9ee3-c275e8807d3f",
+  "skill_key": "structural-design"
+ },
+ {
+  "task_id": "0398f349-bbe9-5416-8a4e-3f0d5808de21",
+  "skill_id": "5959a4c1-e1fd-589a-8ac9-498426f4f4b0",
+  "skill_key": "autocad"
+ },
+ {
+  "task_id": "ec9d2be7-fcc1-5beb-9308-2875ac92e7e2",
+  "skill_id": "957d5a63-f22d-599c-84eb-66ec4039fa4a",
+  "skill_key": "concrete-technology"
+ },
+ {
+  "task_id": "ec9d2be7-fcc1-5beb-9308-2875ac92e7e2",
+  "skill_id": "8ca9da86-39cc-5e3e-8462-d80791d9dfe8",
+  "skill_key": "health-safety"
+ },
+ {
+  "task_id": "c965a0f9-945b-5dea-9e47-198eb82dff8a",
+  "skill_id": "5959a4c1-e1fd-589a-8ac9-498426f4f4b0",
+  "skill_key": "autocad"
+ },
+ {
+  "task_id": "0e551774-f442-564c-b231-42ed1cc2d9de",
+  "skill_id": "a08e9918-886a-5bd9-8f5e-30e542ab26d4",
+  "skill_key": "site-supervision"
+ },
+ {
+  "task_id": "0e551774-f442-564c-b231-42ed1cc2d9de",
+  "skill_id": "17c2bafc-b70c-5e3f-a621-6a8487179430",
+  "skill_key": "problem-solving"
+ },
+ {
+  "task_id": "ece958f5-3c29-53d7-8b87-a4db1cb65d88",
+  "skill_id": "a08e9918-886a-5bd9-8f5e-30e542ab26d4",
+  "skill_key": "site-supervision"
+ },
+ {
+  "task_id": "ece958f5-3c29-53d7-8b87-a4db1cb65d88",
+  "skill_id": "8ca9da86-39cc-5e3e-8462-d80791d9dfe8",
+  "skill_key": "health-safety"
+ },
+ {
+  "task_id": "18cbac47-2993-52b6-8d9f-f8e6d5069a7e",
+  "skill_id": "a08e9918-886a-5bd9-8f5e-30e542ab26d4",
+  "skill_key": "site-supervision"
+ },
+ {
+  "task_id": "ce8565a8-0727-57f3-8525-e66fff833d74",
+  "skill_id": "b114150a-94f7-5e54-9ee3-c275e8807d3f",
+  "skill_key": "structural-design"
+ },
+ {
+  "task_id": "ce8565a8-0727-57f3-8525-e66fff833d74",
+  "skill_id": "957d5a63-f22d-599c-84eb-66ec4039fa4a",
+  "skill_key": "concrete-technology"
+ },
+ {
+  "task_id": "34ac6c06-6810-54ac-bc35-5d36e0fa8963",
+  "skill_id": "5959a4c1-e1fd-589a-8ac9-498426f4f4b0",
+  "skill_key": "autocad"
+ },
+ {
+  "task_id": "9853e1e0-118d-5b67-a777-7d78d07a0c52",
+  "skill_id": "5959a4c1-e1fd-589a-8ac9-498426f4f4b0",
+  "skill_key": "autocad"
+ },
+ {
+  "task_id": "89d03fab-07ba-55c4-ad49-eeb092ec4810",
+  "skill_id": "ffe3aadd-4d7e-5fb2-9316-075de3ab78ce",
+  "skill_key": "technical-drawings"
+ },
+ {
+  "task_id": "ca71927d-1b0b-53f5-a5df-e32f363021de",
+  "skill_id": "adb7dbbf-1363-5aa2-b2e9-6f5a7ca0753b",
+  "skill_key": "circuit-design"
+ },
+ {
+  "task_id": "ca71927d-1b0b-53f5-a5df-e32f363021de",
+  "skill_id": "c78950f1-9ec2-50d5-866a-b79f60bda0c5",
+  "skill_key": "electrical-maintenance"
+ },
+ {
+  "task_id": "f3892645-50eb-5a2a-be44-ae2bc522b781",
+  "skill_id": "0144d6cc-296a-54f1-96b7-5db68cff9085",
+  "skill_key": "load-calculation"
+ },
+ {
+  "task_id": "f3892645-50eb-5a2a-be44-ae2bc522b781",
+  "skill_id": "8ca9da86-39cc-5e3e-8462-d80791d9dfe8",
+  "skill_key": "health-safety"
+ },
+ {
+  "task_id": "4b343e04-98fc-57fc-903f-fe2c028f7e03",
+  "skill_id": "adb7dbbf-1363-5aa2-b2e9-6f5a7ca0753b",
+  "skill_key": "circuit-design"
+ },
+ {
+  "task_id": "eb5a1a07-21b3-596f-bf7e-f31e9f50acfa",
+  "skill_id": "9acab61d-a6cb-5831-8918-c9c7ff3463fe",
+  "skill_key": "power-systems"
+ },
+ {
+  "task_id": "eb5a1a07-21b3-596f-bf7e-f31e9f50acfa",
+  "skill_id": "8ca9da86-39cc-5e3e-8462-d80791d9dfe8",
+  "skill_key": "health-safety"
+ },
+ {
+  "task_id": "72106e71-8848-5ba1-b969-16958cb086b7",
+  "skill_id": "8ca9da86-39cc-5e3e-8462-d80791d9dfe8",
+  "skill_key": "health-safety"
+ },
+ {
+  "task_id": "72106e71-8848-5ba1-b969-16958cb086b7",
+  "skill_id": "829c4af0-5632-5c8c-842b-3e5c75f7f41d",
+  "skill_key": "transformers"
+ },
+ {
+  "task_id": "5789d7ed-8b09-51b7-8f80-a69a246295bc",
+  "skill_id": "8ca9da86-39cc-5e3e-8462-d80791d9dfe8",
+  "skill_key": "health-safety"
+ },
+ {
+  "task_id": "5789d7ed-8b09-51b7-8f80-a69a246295bc",
+  "skill_id": "829c4af0-5632-5c8c-842b-3e5c75f7f41d",
+  "skill_key": "transformers"
+ },
+ {
+  "task_id": "938fd893-69db-5b26-a858-8018d94ae11b",
+  "skill_id": "27621178-3098-5a74-b751-4dbc01c7ecfc",
+  "skill_key": "plc"
+ },
+ {
+  "task_id": "75ff96ba-f41c-512a-b519-4c1477a0cb97",
+  "skill_id": "c78950f1-9ec2-50d5-866a-b79f60bda0c5",
+  "skill_key": "electrical-maintenance"
+ },
+ {
+  "task_id": "94141de7-be59-5561-96dc-f001bc7f3315",
+  "skill_id": "5ecac94c-516c-5248-84be-9e3173be800b",
+  "skill_key": "electrical-safety"
+ },
+ {
+  "task_id": "94141de7-be59-5561-96dc-f001bc7f3315",
+  "skill_id": "8ca9da86-39cc-5e3e-8462-d80791d9dfe8",
+  "skill_key": "health-safety"
+ },
+ {
+  "task_id": "6ca02d4b-c089-5a4e-b436-196b37d8ba0a",
+  "skill_id": "c78950f1-9ec2-50d5-866a-b79f60bda0c5",
+  "skill_key": "electrical-maintenance"
+ },
+ {
+  "task_id": "2d95375d-b389-594f-87cf-f7cf634053f8",
+  "skill_id": "9acab61d-a6cb-5831-8918-c9c7ff3463fe",
+  "skill_key": "power-systems"
+ },
+ {
+  "task_id": "2d95375d-b389-594f-87cf-f7cf634053f8",
+  "skill_id": "8ca9da86-39cc-5e3e-8462-d80791d9dfe8",
+  "skill_key": "health-safety"
+ },
+ {
+  "task_id": "de1d0b7a-5dd0-5488-a3a5-10d747050bf0",
+  "skill_id": "6d1a42a9-55bd-5b93-950a-677d7f0b49e7",
+  "skill_key": "renewable-energy"
+ },
+ {
+  "task_id": "de1d0b7a-5dd0-5488-a3a5-10d747050bf0",
+  "skill_id": "adb7dbbf-1363-5aa2-b2e9-6f5a7ca0753b",
+  "skill_key": "circuit-design"
+ },
+ {
+  "task_id": "a6414c52-b3ab-5adb-8876-7788ca987b49",
+  "skill_id": "ffe3aadd-4d7e-5fb2-9316-075de3ab78ce",
+  "skill_key": "technical-drawings"
+ },
+ {
+  "task_id": "39d747b8-ef42-5560-83a0-6faa26c418a3",
+  "skill_id": "adb7dbbf-1363-5aa2-b2e9-6f5a7ca0753b",
+  "skill_key": "circuit-design"
+ },
+ {
+  "task_id": "ce98f900-ea9a-5db8-93a6-f67a3223044f",
+  "skill_id": "5ecac94c-516c-5248-84be-9e3173be800b",
+  "skill_key": "electrical-safety"
+ },
+ {
+  "task_id": "ce98f900-ea9a-5db8-93a6-f67a3223044f",
+  "skill_id": "8ca9da86-39cc-5e3e-8462-d80791d9dfe8",
+  "skill_key": "health-safety"
+ },
+ {
+  "task_id": "01071314-8505-542e-8e7d-b0339af28f8a",
+  "skill_id": "c78950f1-9ec2-50d5-866a-b79f60bda0c5",
+  "skill_key": "electrical-maintenance"
+ },
+ {
+  "task_id": "01071314-8505-542e-8e7d-b0339af28f8a",
+  "skill_id": "5ecac94c-516c-5248-84be-9e3173be800b",
+  "skill_key": "electrical-safety"
+ },
+ {
+  "task_id": "56249914-693b-56bf-9534-7ced29d69acf",
+  "skill_id": "69a1f422-4d3d-5170-a731-b3617f1f1515",
+  "skill_key": "recruitment"
+ },
+ {
+  "task_id": "56249914-693b-56bf-9534-7ced29d69acf",
+  "skill_id": "f32de2a6-31ec-50a8-9a1f-e6da445d6a55",
+  "skill_key": "compensation-benefits"
+ },
+ {
+  "task_id": "452560d1-ccde-5f5c-9227-22890f88eab0",
+  "skill_id": "69a1f422-4d3d-5170-a731-b3617f1f1515",
+  "skill_key": "recruitment"
+ },
+ {
+  "task_id": "452560d1-ccde-5f5c-9227-22890f88eab0",
+  "skill_id": "f32de2a6-31ec-50a8-9a1f-e6da445d6a55",
+  "skill_key": "compensation-benefits"
+ },
+ {
+  "task_id": "b7d97971-ae82-5b5b-86ab-4663f720ca58",
+  "skill_id": "69a1f422-4d3d-5170-a731-b3617f1f1515",
+  "skill_key": "recruitment"
+ },
+ {
+  "task_id": "b7d97971-ae82-5b5b-86ab-4663f720ca58",
+  "skill_id": "f32de2a6-31ec-50a8-9a1f-e6da445d6a55",
+  "skill_key": "compensation-benefits"
+ },
+ {
+  "task_id": "17882d74-b0c7-5ee1-8262-2adc80493f5e",
+  "skill_id": "c7d904a4-8c12-5f19-bef6-29ca91ee38b3",
+  "skill_key": "onboarding"
+ },
+ {
+  "task_id": "28d97a61-d233-52a1-a6db-77cc35c10ceb",
+  "skill_id": "c7d904a4-8c12-5f19-bef6-29ca91ee38b3",
+  "skill_key": "onboarding"
+ },
+ {
+  "task_id": "28d97a61-d233-52a1-a6db-77cc35c10ceb",
+  "skill_id": "da2e1b06-7391-5cbd-b221-e57a25741d73",
+  "skill_key": "employee-relations"
+ },
+ {
+  "task_id": "83e32740-0366-51ba-908b-b628bbde9f0e",
+  "skill_id": "c7d904a4-8c12-5f19-bef6-29ca91ee38b3",
+  "skill_key": "onboarding"
+ },
+ {
+  "task_id": "83e32740-0366-51ba-908b-b628bbde9f0e",
+  "skill_id": "da2e1b06-7391-5cbd-b221-e57a25741d73",
+  "skill_key": "employee-relations"
+ },
+ {
+  "task_id": "f2b32ff6-f35b-541a-b915-a3a414be1f1f",
+  "skill_id": "69a1f422-4d3d-5170-a731-b3617f1f1515",
+  "skill_key": "recruitment"
+ },
+ {
+  "task_id": "1a5e4112-6066-5222-a366-8af2044d9541",
+  "skill_id": "69a1f422-4d3d-5170-a731-b3617f1f1515",
+  "skill_key": "recruitment"
+ },
+ {
+  "task_id": "1a5e4112-6066-5222-a366-8af2044d9541",
+  "skill_id": "f32de2a6-31ec-50a8-9a1f-e6da445d6a55",
+  "skill_key": "compensation-benefits"
+ },
+ {
+  "task_id": "34e8782b-5749-5d2b-b13c-681e14a7e0b4",
+  "skill_id": "88ce6df3-4a2f-5c2f-9fb5-9abf7b9d774c",
+  "skill_key": "performance-management"
+ },
+ {
+  "task_id": "270c7488-6e58-5ed2-90e9-c1768a135ff0",
+  "skill_id": "527f7d11-f13b-5f60-8352-948b5c688c63",
+  "skill_key": "labour-law"
+ },
+ {
+  "task_id": "14ce08ea-85a4-5c28-a07d-deb127063d0e",
+  "skill_id": "69a1f422-4d3d-5170-a731-b3617f1f1515",
+  "skill_key": "recruitment"
+ },
+ {
+  "task_id": "14ce08ea-85a4-5c28-a07d-deb127063d0e",
+  "skill_id": "f32de2a6-31ec-50a8-9a1f-e6da445d6a55",
+  "skill_key": "compensation-benefits"
+ },
+ {
+  "task_id": "f6f21aa4-243b-59a7-a905-9f685b3e6f56",
+  "skill_id": "b32b07c5-9287-5858-9f07-f00287ad45c2",
+  "skill_key": "training-development"
+ },
+ {
+  "task_id": "b8828972-e3c6-5883-a440-8a0122c18a58",
+  "skill_id": "8ec89e44-235f-5e55-bfee-168e042646f0",
+  "skill_key": "confidentiality"
+ },
+ {
+  "task_id": "b8828972-e3c6-5883-a440-8a0122c18a58",
+  "skill_id": "178cfe43-1d30-541d-a3c2-7f6d61f04d5b",
+  "skill_key": "hris"
+ },
+ {
+  "task_id": "0cbbc2c1-0beb-5802-9f73-0ffebfa3a512",
+  "skill_id": "69a1f422-4d3d-5170-a731-b3617f1f1515",
+  "skill_key": "recruitment"
+ },
+ {
+  "task_id": "2bfc5d9a-5524-517a-8593-e5afaa3839b9",
+  "skill_id": "69a1f422-4d3d-5170-a731-b3617f1f1515",
+  "skill_key": "recruitment"
+ },
+ {
+  "task_id": "2bfc5d9a-5524-517a-8593-e5afaa3839b9",
+  "skill_id": "f32de2a6-31ec-50a8-9a1f-e6da445d6a55",
+  "skill_key": "compensation-benefits"
+ },
+ {
+  "task_id": "ca65fde8-00d1-5aac-811b-33c0c25267c1",
+  "skill_id": "69a1f422-4d3d-5170-a731-b3617f1f1515",
+  "skill_key": "recruitment"
+ },
+ {
+  "task_id": "83a13132-5246-5abd-959b-e51f517d4e0c",
+  "skill_id": "4818f84b-5a4c-5fa7-b4b6-11eb190c67e7",
+  "skill_key": "upselling"
+ },
+ {
+  "task_id": "31086b8c-6918-56d1-8840-66750e3fc7e7",
+  "skill_id": "d00e411d-6ad5-5182-88bf-07893a576638",
+  "skill_key": "client-relationship"
+ },
+ {
+  "task_id": "31086b8c-6918-56d1-8840-66750e3fc7e7",
+  "skill_id": "4818f84b-5a4c-5fa7-b4b6-11eb190c67e7",
+  "skill_key": "upselling"
+ },
+ {
+  "task_id": "36f3cc0c-ef8a-5381-91c0-ae887bad50f3",
+  "skill_id": "4c7db466-8aa1-5708-87e7-341f39936a12",
+  "skill_key": "negotiation"
+ },
+ {
+  "task_id": "36f3cc0c-ef8a-5381-91c0-ae887bad50f3",
+  "skill_id": "b488f4bc-38c5-5a25-8194-2aa8775f1c42",
+  "skill_key": "closing"
+ },
+ {
+  "task_id": "1e59e50b-29e7-5ea9-8348-6db61ed27fd5",
+  "skill_id": "cc2fe800-eefc-54a4-8acc-2464890dd6e8",
+  "skill_key": "prospecting"
+ },
+ {
+  "task_id": "1e59e50b-29e7-5ea9-8348-6db61ed27fd5",
+  "skill_id": "b6ce4518-7361-5e9c-bb93-04a16624f2c2",
+  "skill_key": "after-sales"
+ },
+ {
+  "task_id": "9392f203-44af-5355-adfc-e48a9848da56",
+  "skill_id": "02722680-314d-55cd-bc7b-39413b05bc30",
+  "skill_key": "crm-basic"
+ },
+ {
+  "task_id": "e9a40785-4200-5c40-a0ba-28fd9b7d7509",
+  "skill_id": "d00e411d-6ad5-5182-88bf-07893a576638",
+  "skill_key": "client-relationship"
+ },
+ {
+  "task_id": "ec8acaf8-9fba-5be9-85a5-84a3f0769bbb",
+  "skill_id": "8d0abb26-686c-5dae-ab22-d5df35ce0a37",
+  "skill_key": "retail-sales"
+ },
+ {
+  "task_id": "ec8acaf8-9fba-5be9-85a5-84a3f0769bbb",
+  "skill_id": "e485f32a-d364-5c83-b3df-6b7e206bb76f",
+  "skill_key": "b2b-sales"
+ },
+ {
+  "task_id": "83c22fbc-64b1-5f7d-8916-f9df021ed932",
+  "skill_id": "d00e411d-6ad5-5182-88bf-07893a576638",
+  "skill_key": "client-relationship"
+ },
+ {
+  "task_id": "030a7c51-452d-5b8d-895e-85f3c29fc976",
+  "skill_id": "d00e411d-6ad5-5182-88bf-07893a576638",
+  "skill_key": "client-relationship"
+ },
+ {
+  "task_id": "393b6d05-b022-5c38-8f8f-712a2b74782f",
+  "skill_id": "8d0abb26-686c-5dae-ab22-d5df35ce0a37",
+  "skill_key": "retail-sales"
+ },
+ {
+  "task_id": "393b6d05-b022-5c38-8f8f-712a2b74782f",
+  "skill_id": "e485f32a-d364-5c83-b3df-6b7e206bb76f",
+  "skill_key": "b2b-sales"
+ },
+ {
+  "task_id": "9e1e16f4-8c88-5df6-8826-77114172b29f",
+  "skill_id": "4818f84b-5a4c-5fa7-b4b6-11eb190c67e7",
+  "skill_key": "upselling"
+ },
+ {
+  "task_id": "838cdf41-89b5-5cfc-be55-a36d0c48d984",
+  "skill_id": "b6ce4518-7361-5e9c-bb93-04a16624f2c2",
+  "skill_key": "after-sales"
+ },
+ {
+  "task_id": "8f1eced1-d3de-585c-a649-9bd05cc0e5a0",
+  "skill_id": "b6ce4518-7361-5e9c-bb93-04a16624f2c2",
+  "skill_key": "after-sales"
+ },
+ {
+  "task_id": "addbda55-71b2-5818-88de-7b0ab58f10cb",
+  "skill_id": "d00e411d-6ad5-5182-88bf-07893a576638",
+  "skill_key": "client-relationship"
+ },
+ {
+  "task_id": "3e1b2e85-d774-596a-b473-906d8e999649",
+  "skill_id": "d00e411d-6ad5-5182-88bf-07893a576638",
+  "skill_key": "client-relationship"
+ },
+ {
+  "task_id": "0800a274-0a11-5370-af55-8efbc9c3c230",
+  "skill_id": "b6ce4518-7361-5e9c-bb93-04a16624f2c2",
+  "skill_key": "after-sales"
+ },
+ {
+  "task_id": "7595b99c-4a33-5cc9-95ed-dcfd16f65f5e",
+  "skill_id": "33f86761-aeee-5d75-9122-055676bd05e4",
+  "skill_key": "project-planning"
+ },
+ {
+  "task_id": "7595b99c-4a33-5cc9-95ed-dcfd16f65f5e",
+  "skill_id": "409e1f9a-1f28-5a05-872f-1480f9869139",
+  "skill_key": "scheduling"
+ },
+ {
+  "task_id": "f322df43-96d6-56ad-8d91-802e326c1f46",
+  "skill_id": "28c67590-eaac-5d5f-afe4-6fc4863fad4c",
+  "skill_key": "communication"
+ },
+ {
+  "task_id": "44d1980d-618b-58a1-80c4-e0c72427f841",
+  "skill_id": "cb5f0810-a77e-5372-9a85-dadb390dd89b",
+  "skill_key": "status-reporting"
+ },
+ {
+  "task_id": "894d46e7-df13-5fdd-baaf-262dec91cfea",
+  "skill_id": "33f86761-aeee-5d75-9122-055676bd05e4",
+  "skill_key": "project-planning"
+ },
+ {
+  "task_id": "894d46e7-df13-5fdd-baaf-262dec91cfea",
+  "skill_id": "409e1f9a-1f28-5a05-872f-1480f9869139",
+  "skill_key": "scheduling"
+ },
+ {
+  "task_id": "ec072b10-dbdd-5702-804c-0635d1e80ebe",
+  "skill_id": "28c67590-eaac-5d5f-afe4-6fc4863fad4c",
+  "skill_key": "communication"
+ },
+ {
+  "task_id": "2fb6089d-421f-5a10-b52a-1ee35d7197ec",
+  "skill_id": "33f86761-aeee-5d75-9122-055676bd05e4",
+  "skill_key": "project-planning"
+ },
+ {
+  "task_id": "2fb6089d-421f-5a10-b52a-1ee35d7197ec",
+  "skill_id": "409e1f9a-1f28-5a05-872f-1480f9869139",
+  "skill_key": "scheduling"
+ },
+ {
+  "task_id": "66db455f-3f48-52b2-8b56-409713e149ae",
+  "skill_id": "28c67590-eaac-5d5f-afe4-6fc4863fad4c",
+  "skill_key": "communication"
+ },
+ {
+  "task_id": "a5900a28-419f-52fb-a77f-2d25be66830d",
+  "skill_id": "33f86761-aeee-5d75-9122-055676bd05e4",
+  "skill_key": "project-planning"
+ },
+ {
+  "task_id": "a5900a28-419f-52fb-a77f-2d25be66830d",
+  "skill_id": "409e1f9a-1f28-5a05-872f-1480f9869139",
+  "skill_key": "scheduling"
+ },
+ {
+  "task_id": "3ec22403-4872-534b-a19f-f14c6e147ca3",
+  "skill_id": "33f86761-aeee-5d75-9122-055676bd05e4",
+  "skill_key": "project-planning"
+ },
+ {
+  "task_id": "3ec22403-4872-534b-a19f-f14c6e147ca3",
+  "skill_id": "409e1f9a-1f28-5a05-872f-1480f9869139",
+  "skill_key": "scheduling"
+ },
+ {
+  "task_id": "cdb31527-322f-52d3-9984-77b26c0d7d5f",
+  "skill_id": "3239725a-23f5-5d5f-b810-5a2e4ccf091f",
+  "skill_key": "time-management"
+ },
+ {
+  "task_id": "b96d1085-4371-5052-ab9e-5c23f1388439",
+  "skill_id": "33f86761-aeee-5d75-9122-055676bd05e4",
+  "skill_key": "project-planning"
+ },
+ {
+  "task_id": "b96d1085-4371-5052-ab9e-5c23f1388439",
+  "skill_id": "409e1f9a-1f28-5a05-872f-1480f9869139",
+  "skill_key": "scheduling"
+ },
+ {
+  "task_id": "f41289b4-c74d-5aa5-b8a5-050c51571e40",
+  "skill_id": "28c67590-eaac-5d5f-afe4-6fc4863fad4c",
+  "skill_key": "communication"
+ },
+ {
+  "task_id": "ec3be3cf-e87d-5437-8648-b852333463dc",
+  "skill_id": "28c67590-eaac-5d5f-afe4-6fc4863fad4c",
+  "skill_key": "communication"
+ },
+ {
+  "task_id": "53268afe-2841-574d-abcf-f3c99a2cb8af",
+  "skill_id": "28c67590-eaac-5d5f-afe4-6fc4863fad4c",
+  "skill_key": "communication"
+ },
+ {
+  "task_id": "0bfc75d2-5f77-58be-9d93-cfc15f804615",
+  "skill_id": "339e9878-1fb2-51f2-81c6-6a6ec0cd4786",
+  "skill_key": "facilitation"
+ },
+ {
+  "task_id": "6e8388b1-c5a1-590c-ba59-cd9571772981",
+  "skill_id": "33f86761-aeee-5d75-9122-055676bd05e4",
+  "skill_key": "project-planning"
+ },
+ {
+  "task_id": "6e8388b1-c5a1-590c-ba59-cd9571772981",
+  "skill_id": "409e1f9a-1f28-5a05-872f-1480f9869139",
+  "skill_key": "scheduling"
+ },
+ {
+  "task_id": "df4cca95-c136-5796-b99a-c52045b17b0c",
+  "skill_id": "9677278b-e3d1-555c-8821-b0f3b5aeaea8",
+  "skill_key": "en-bn-translation"
+ },
+ {
+  "task_id": "df4cca95-c136-5796-b99a-c52045b17b0c",
+  "skill_id": "2d1f8325-79ae-58b7-9018-867ce847e0c5",
+  "skill_key": "bn-typing"
+ },
+ {
+  "task_id": "98267e8d-c838-5752-ae62-47e61588cbd0",
+  "skill_id": "9c1af445-d6d4-545f-a15f-d9e204eb2cdd",
+  "skill_key": "attention-to-detail"
+ },
+ {
+  "task_id": "98267e8d-c838-5752-ae62-47e61588cbd0",
+  "skill_id": "9677278b-e3d1-555c-8821-b0f3b5aeaea8",
+  "skill_key": "en-bn-translation"
+ },
+ {
+  "task_id": "29157a69-6654-5d1b-bf1c-65ada1931d40",
+  "skill_id": "9677278b-e3d1-555c-8821-b0f3b5aeaea8",
+  "skill_key": "en-bn-translation"
+ },
+ {
+  "task_id": "29157a69-6654-5d1b-bf1c-65ada1931d40",
+  "skill_id": "2d1f8325-79ae-58b7-9018-867ce847e0c5",
+  "skill_key": "bn-typing"
+ },
+ {
+  "task_id": "7897b953-67cb-5837-9d91-a68e3f9f203a",
+  "skill_id": "d51bed4b-1ccf-579f-a3a0-6d3b7127dee1",
+  "skill_key": "terminology-management"
+ },
+ {
+  "task_id": "2071bf6b-0b5c-5a4d-9b2f-f9419db447f1",
+  "skill_id": "9677278b-e3d1-555c-8821-b0f3b5aeaea8",
+  "skill_key": "en-bn-translation"
+ },
+ {
+  "task_id": "f78968e0-2db5-53d5-813a-70e7e5f3256d",
+  "skill_id": "2d1f8325-79ae-58b7-9018-867ce847e0c5",
+  "skill_key": "bn-typing"
+ },
+ {
+  "task_id": "f78968e0-2db5-53d5-813a-70e7e5f3256d",
+  "skill_id": "9677278b-e3d1-555c-8821-b0f3b5aeaea8",
+  "skill_key": "en-bn-translation"
+ },
+ {
+  "task_id": "9339b6f8-1816-53ff-a0c3-097983f5f018",
+  "skill_id": "9677278b-e3d1-555c-8821-b0f3b5aeaea8",
+  "skill_key": "en-bn-translation"
+ },
+ {
+  "task_id": "9339b6f8-1816-53ff-a0c3-097983f5f018",
+  "skill_id": "68fe3e8a-0547-591f-a418-aef24d43d429",
+  "skill_key": "grammar"
+ },
+ {
+  "task_id": "8bb209fe-01af-52f6-be57-9b858475638f",
+  "skill_id": "7f12d6ba-545c-5b8b-a807-e96693f5ea8a",
+  "skill_key": "research"
+ },
+ {
+  "task_id": "8bb209fe-01af-52f6-be57-9b858475638f",
+  "skill_id": "9677278b-e3d1-555c-8821-b0f3b5aeaea8",
+  "skill_key": "en-bn-translation"
+ },
+ {
+  "task_id": "613133f8-a397-5915-98eb-011e3a97681d",
+  "skill_id": "9677278b-e3d1-555c-8821-b0f3b5aeaea8",
+  "skill_key": "en-bn-translation"
+ },
+ {
+  "task_id": "ea019c9c-98c0-5da1-b955-334137a38333",
+  "skill_id": "9677278b-e3d1-555c-8821-b0f3b5aeaea8",
+  "skill_key": "en-bn-translation"
+ },
+ {
+  "task_id": "502b1785-f7ff-5f6b-a12b-5cd12e9a6864",
+  "skill_id": "9677278b-e3d1-555c-8821-b0f3b5aeaea8",
+  "skill_key": "en-bn-translation"
+ },
+ {
+  "task_id": "4547ccee-2bba-5534-a5f9-278aaf9251d4",
+  "skill_id": "9677278b-e3d1-555c-8821-b0f3b5aeaea8",
+  "skill_key": "en-bn-translation"
+ },
+ {
+  "task_id": "0e78e882-dde3-5d24-bd8c-a866cab55436",
+  "skill_id": "2d1f8325-79ae-58b7-9018-867ce847e0c5",
+  "skill_key": "bn-typing"
+ },
+ {
+  "task_id": "0e78e882-dde3-5d24-bd8c-a866cab55436",
+  "skill_id": "9677278b-e3d1-555c-8821-b0f3b5aeaea8",
+  "skill_key": "en-bn-translation"
+ },
+ {
+  "task_id": "5af91ae7-0366-5b09-8fb6-8dddd1fc7950",
+  "skill_id": "68fe3e8a-0547-591f-a418-aef24d43d429",
+  "skill_key": "grammar"
+ },
+ {
+  "task_id": "3a66220f-19e8-528c-ab81-4497e83bb4ad",
+  "skill_id": "9677278b-e3d1-555c-8821-b0f3b5aeaea8",
+  "skill_key": "en-bn-translation"
+ },
+ {
+  "task_id": "3a66220f-19e8-528c-ab81-4497e83bb4ad",
+  "skill_id": "68fe3e8a-0547-591f-a418-aef24d43d429",
+  "skill_key": "grammar"
+ },
+ {
+  "task_id": "19b2b225-52d6-5bf8-81a1-b1fae110b046",
+  "skill_id": "9677278b-e3d1-555c-8821-b0f3b5aeaea8",
+  "skill_key": "en-bn-translation"
+ },
+ {
+  "task_id": "b4419b21-b950-5b44-90f9-31899a613c51",
+  "skill_id": "7b9c9c6d-19f3-57e5-a265-f80a65c177ac",
+  "skill_key": "networking-basics"
+ },
+ {
+  "task_id": "b4419b21-b950-5b44-90f9-31899a613c51",
+  "skill_id": "16a58ede-7e75-5f40-b339-60ad48b5812e",
+  "skill_key": "network-troubleshooting"
+ },
+ {
+  "task_id": "bc3ab0ce-3625-5b60-92d2-86de81545cc9",
+  "skill_id": "ca9ba355-dced-5412-9ba4-dfe8a0d45c46",
+  "skill_key": "routing-switching"
+ },
+ {
+  "task_id": "241dd6cb-0e75-5b21-b6d7-aab874344c3f",
+  "skill_id": "41e07af1-2935-5e0b-b6d4-d5c4816cc627",
+  "skill_key": "tcp-ip"
+ },
+ {
+  "task_id": "241dd6cb-0e75-5b21-b6d7-aab874344c3f",
+  "skill_id": "ca9ba355-dced-5412-9ba4-dfe8a0d45c46",
+  "skill_key": "routing-switching"
+ },
+ {
+  "task_id": "d8a66cc1-031e-547c-8262-b2578d10f0ae",
+  "skill_id": "41e07af1-2935-5e0b-b6d4-d5c4816cc627",
+  "skill_key": "tcp-ip"
+ },
+ {
+  "task_id": "d8a66cc1-031e-547c-8262-b2578d10f0ae",
+  "skill_id": "ca9ba355-dced-5412-9ba4-dfe8a0d45c46",
+  "skill_key": "routing-switching"
+ },
+ {
+  "task_id": "a8aecd80-91a1-502c-82d4-4ed58529a12f",
+  "skill_id": "455548d3-901e-5c8e-926c-cb2de46847d8",
+  "skill_key": "linux"
+ },
+ {
+  "task_id": "a8aecd80-91a1-502c-82d4-4ed58529a12f",
+  "skill_id": "85ac6bf9-da9b-553f-b6a8-83b5082b8d21",
+  "skill_key": "windows-server"
+ },
+ {
+  "task_id": "f25e5796-8ba0-5b8d-90cb-84f7e737a153",
+  "skill_id": "41e07af1-2935-5e0b-b6d4-d5c4816cc627",
+  "skill_key": "tcp-ip"
+ },
+ {
+  "task_id": "f25e5796-8ba0-5b8d-90cb-84f7e737a153",
+  "skill_id": "ca9ba355-dced-5412-9ba4-dfe8a0d45c46",
+  "skill_key": "routing-switching"
+ },
+ {
+  "task_id": "c56f3314-d6fb-54d6-aa87-dbaa3613a5b7",
+  "skill_id": "92652078-d960-5be8-ae44-669775882c42",
+  "skill_key": "vpn"
+ },
+ {
+  "task_id": "8b2054ba-5e7d-51fd-a1e8-49d306abc15c",
+  "skill_id": "41e07af1-2935-5e0b-b6d4-d5c4816cc627",
+  "skill_key": "tcp-ip"
+ },
+ {
+  "task_id": "8b2054ba-5e7d-51fd-a1e8-49d306abc15c",
+  "skill_id": "ca9ba355-dced-5412-9ba4-dfe8a0d45c46",
+  "skill_key": "routing-switching"
+ },
+ {
+  "task_id": "1a387e45-9da6-5ce0-bc2d-4e940f474605",
+  "skill_id": "7b9c9c6d-19f3-57e5-a265-f80a65c177ac",
+  "skill_key": "networking-basics"
+ },
+ {
+  "task_id": "1a387e45-9da6-5ce0-bc2d-4e940f474605",
+  "skill_id": "16a58ede-7e75-5f40-b339-60ad48b5812e",
+  "skill_key": "network-troubleshooting"
+ },
+ {
+  "task_id": "3bf1cfad-6a17-5d66-b437-a8466db1d290",
+  "skill_id": "7b9c9c6d-19f3-57e5-a265-f80a65c177ac",
+  "skill_key": "networking-basics"
+ },
+ {
+  "task_id": "3bf1cfad-6a17-5d66-b437-a8466db1d290",
+  "skill_id": "16a58ede-7e75-5f40-b339-60ad48b5812e",
+  "skill_key": "network-troubleshooting"
+ },
+ {
+  "task_id": "68820a39-78d4-56af-a8bb-b292cd8085de",
+  "skill_id": "17c2bafc-b70c-5e3f-a621-6a8487179430",
+  "skill_key": "problem-solving"
+ },
+ {
+  "task_id": "68820a39-78d4-56af-a8bb-b292cd8085de",
+  "skill_id": "92652078-d960-5be8-ae44-669775882c42",
+  "skill_key": "vpn"
+ },
+ {
+  "task_id": "009d07b7-1ca7-5849-941e-a814986a578d",
+  "skill_id": "7b9c9c6d-19f3-57e5-a265-f80a65c177ac",
+  "skill_key": "networking-basics"
+ },
+ {
+  "task_id": "8f0dfb3f-ec86-550d-90c4-8dd7f5c1cde7",
+  "skill_id": "7b9c9c6d-19f3-57e5-a265-f80a65c177ac",
+  "skill_key": "networking-basics"
+ },
+ {
+  "task_id": "e82e316c-d9db-5323-8b39-dac21a9b1f06",
+  "skill_id": "7b9c9c6d-19f3-57e5-a265-f80a65c177ac",
+  "skill_key": "networking-basics"
+ },
+ {
+  "task_id": "77913aa3-2ffc-5180-a2c9-d80bc8dbf5ca",
+  "skill_id": "7b9c9c6d-19f3-57e5-a265-f80a65c177ac",
+  "skill_key": "networking-basics"
+ },
+ {
+  "task_id": "ecee8d55-2c62-5c3b-9adb-2dfc1deddc65",
+  "skill_id": "7b9c9c6d-19f3-57e5-a265-f80a65c177ac",
+  "skill_key": "networking-basics"
+ },
+ {
+  "task_id": "050e0c55-64b0-56e6-9e8d-bf43e4931fa5",
+  "skill_id": "aa9f2c5b-72cf-5573-9470-c894363d221b",
+  "skill_key": "siem"
+ },
+ {
+  "task_id": "050e0c55-64b0-56e6-9e8d-bf43e4931fa5",
+  "skill_id": "7b9c9c6d-19f3-57e5-a265-f80a65c177ac",
+  "skill_key": "networking-basics"
+ },
+ {
+  "task_id": "ca16e7da-fef1-59f9-aac4-8116274ba33f",
+  "skill_id": "af0cad51-606d-5ca2-8cb0-f9017f70de4e",
+  "skill_key": "critical-thinking"
+ },
+ {
+  "task_id": "d915af7a-c859-5680-a851-f3a27ea4301d",
+  "skill_id": "20e4efc5-2e4a-53e0-9f72-a5ada94d7bde",
+  "skill_key": "incident-response"
+ },
+ {
+  "task_id": "37cbdf06-d042-5d3d-98ee-170fd4aed5b4",
+  "skill_id": "aa9f2c5b-72cf-5573-9470-c894363d221b",
+  "skill_key": "siem"
+ },
+ {
+  "task_id": "37cbdf06-d042-5d3d-98ee-170fd4aed5b4",
+  "skill_id": "6e0c2738-d398-5a03-aff9-6571ea037ebf",
+  "skill_key": "iam"
+ },
+ {
+  "task_id": "14a20082-c62a-5c40-af61-de98cdf51253",
+  "skill_id": "aa9f2c5b-72cf-5573-9470-c894363d221b",
+  "skill_key": "siem"
+ },
+ {
+  "task_id": "14a20082-c62a-5c40-af61-de98cdf51253",
+  "skill_id": "19a72b7b-a934-56be-8b2d-9def3d07f667",
+  "skill_key": "vulnerability-assessment"
+ },
+ {
+  "task_id": "890bcb1a-e990-5b50-a668-68d7c859c291",
+  "skill_id": "20e4efc5-2e4a-53e0-9f72-a5ada94d7bde",
+  "skill_key": "incident-response"
+ },
+ {
+  "task_id": "890bcb1a-e990-5b50-a668-68d7c859c291",
+  "skill_id": "aa9f2c5b-72cf-5573-9470-c894363d221b",
+  "skill_key": "siem"
+ },
+ {
+  "task_id": "ea4c9111-c133-576d-8778-1a7dec66939b",
+  "skill_id": "af0cad51-606d-5ca2-8cb0-f9017f70de4e",
+  "skill_key": "critical-thinking"
+ },
+ {
+  "task_id": "1769e9ad-c4eb-5197-82e4-9b1757a1b0c2",
+  "skill_id": "19a72b7b-a934-56be-8b2d-9def3d07f667",
+  "skill_key": "vulnerability-assessment"
+ },
+ {
+  "task_id": "827da7b7-7d54-5623-a5d9-f5561ee49768",
+  "skill_id": "aa9f2c5b-72cf-5573-9470-c894363d221b",
+  "skill_key": "siem"
+ },
+ {
+  "task_id": "827da7b7-7d54-5623-a5d9-f5561ee49768",
+  "skill_id": "6e0c2738-d398-5a03-aff9-6571ea037ebf",
+  "skill_key": "iam"
+ },
+ {
+  "task_id": "bd1da7c2-4dbf-5ed5-8bdf-3f347be0dedb",
+  "skill_id": "de341ec6-4569-5433-a915-68f18d38288c",
+  "skill_key": "firewalls"
+ },
+ {
+  "task_id": "a72a91ed-4e12-5a9d-a760-af3e96a67d4c",
+  "skill_id": "af0cad51-606d-5ca2-8cb0-f9017f70de4e",
+  "skill_key": "critical-thinking"
+ },
+ {
+  "task_id": "34ccde54-854b-558b-ab42-8274232d6b1c",
+  "skill_id": "aa9f2c5b-72cf-5573-9470-c894363d221b",
+  "skill_key": "siem"
+ },
+ {
+  "task_id": "34ccde54-854b-558b-ab42-8274232d6b1c",
+  "skill_id": "6e0c2738-d398-5a03-aff9-6571ea037ebf",
+  "skill_key": "iam"
+ },
+ {
+  "task_id": "4ea5a01b-b15a-5a8e-b37e-643309e6a804",
+  "skill_id": "20e4efc5-2e4a-53e0-9f72-a5ada94d7bde",
+  "skill_key": "incident-response"
+ },
+ {
+  "task_id": "dce71ff8-ccef-542a-a5a5-2684cca9a015",
+  "skill_id": "19a72b7b-a934-56be-8b2d-9def3d07f667",
+  "skill_key": "vulnerability-assessment"
+ },
+ {
+  "task_id": "bd0c36a1-70e9-539f-ad8e-f0f4a50ef122",
+  "skill_id": "8f6f8e2e-ecd0-50ed-bf50-c98bfd5bc6a7",
+  "skill_key": "stress-management"
+ },
+ {
+  "task_id": "bd0c36a1-70e9-539f-ad8e-f0f4a50ef122",
+  "skill_id": "6e0c2738-d398-5a03-aff9-6571ea037ebf",
+  "skill_key": "iam"
+ },
+ {
+  "task_id": "ebad0a44-817f-55b7-9a99-462c55c596ba",
+  "skill_id": "7b9c9c6d-19f3-57e5-a265-f80a65c177ac",
+  "skill_key": "networking-basics"
+ },
+ {
+  "task_id": "ebad0a44-817f-55b7-9a99-462c55c596ba",
+  "skill_id": "10d563b5-ce7f-5cbb-986a-a53962ac31ec",
+  "skill_key": "cloud-security"
+ },
+ {
+  "task_id": "24a916fe-7d86-5cdd-b136-3194d292ba01",
+  "skill_id": "9a827f6e-25cc-58a2-9873-2cc21bd6b763",
+  "skill_key": "logistics-coordination"
+ },
+ {
+  "task_id": "d2c94bc5-1333-5cb4-b249-b68bba780000",
+  "skill_id": "9a827f6e-25cc-58a2-9873-2cc21bd6b763",
+  "skill_key": "logistics-coordination"
+ },
+ {
+  "task_id": "10091923-5b1e-5a56-bd42-911f7ff714da",
+  "skill_id": "759a56bd-8f42-5cd1-bfeb-83dca9399d5b",
+  "skill_key": "inventory-management"
+ },
+ {
+  "task_id": "4fe261d5-2d61-5661-9f95-3d9a611a5fee",
+  "skill_id": "9a827f6e-25cc-58a2-9873-2cc21bd6b763",
+  "skill_key": "logistics-coordination"
+ },
+ {
+  "task_id": "34880f69-3beb-509a-b0cc-b8165f9b1c82",
+  "skill_id": "9a827f6e-25cc-58a2-9873-2cc21bd6b763",
+  "skill_key": "logistics-coordination"
+ },
+ {
+  "task_id": "34880f69-3beb-509a-b0cc-b8165f9b1c82",
+  "skill_id": "a599b207-fdec-5304-870c-605028630664",
+  "skill_key": "customs-documentation"
+ },
+ {
+  "task_id": "30f56ad7-1368-5e0b-b2c7-42c1b1565022",
+  "skill_id": "a4970b37-8fc8-5e62-8b89-78fd2266314b",
+  "skill_key": "erp"
+ },
+ {
+  "task_id": "30f56ad7-1368-5e0b-b2c7-42c1b1565022",
+  "skill_id": "759a56bd-8f42-5cd1-bfeb-83dca9399d5b",
+  "skill_key": "inventory-management"
+ },
+ {
+  "task_id": "00faa270-4008-5ca9-bcc0-290a28ec8b6c",
+  "skill_id": "759a56bd-8f42-5cd1-bfeb-83dca9399d5b",
+  "skill_key": "inventory-management"
+ },
+ {
+  "task_id": "429e2d2d-50a1-56d9-8f19-698ff07c4da7",
+  "skill_id": "1e40d408-7cb6-5a72-83fd-0144d50bb74c",
+  "skill_key": "vendor-management"
+ },
+ {
+  "task_id": "ad36ffb9-fbc6-569c-bb53-4b94f7ee7b3c",
+  "skill_id": "9a827f6e-25cc-58a2-9873-2cc21bd6b763",
+  "skill_key": "logistics-coordination"
+ },
+ {
+  "task_id": "9d9f4256-a27e-5edc-bc65-128d54716906",
+  "skill_id": "759a56bd-8f42-5cd1-bfeb-83dca9399d5b",
+  "skill_key": "inventory-management"
+ },
+ {
+  "task_id": "dd526a4e-a5ca-5163-ae96-77c1692c8bec",
+  "skill_id": "9a827f6e-25cc-58a2-9873-2cc21bd6b763",
+  "skill_key": "logistics-coordination"
+ },
+ {
+  "task_id": "896dc2f8-55fd-52c9-8afa-23a23cfb3e1d",
+  "skill_id": "9a827f6e-25cc-58a2-9873-2cc21bd6b763",
+  "skill_key": "logistics-coordination"
+ },
+ {
+  "task_id": "308d3b7a-2868-52e3-85dd-0dfaf5aedb01",
+  "skill_id": "b2de454c-b33c-51cc-8668-1cd12322b031",
+  "skill_key": "demand-planning"
+ },
+ {
+  "task_id": "59cb695a-ec69-5387-909b-b46cc5e6f3fc",
+  "skill_id": "1e40d408-7cb6-5a72-83fd-0144d50bb74c",
+  "skill_key": "vendor-management"
+ },
+ {
+  "task_id": "2da8650d-1912-535e-8053-95c8fc1588e0",
+  "skill_id": "9a827f6e-25cc-58a2-9873-2cc21bd6b763",
+  "skill_key": "logistics-coordination"
+ },
+ {
+  "task_id": "981a207a-788e-5ecc-8326-c38a761c6285",
+  "skill_id": "1e40d408-7cb6-5a72-83fd-0144d50bb74c",
+  "skill_key": "vendor-management"
+ },
+ {
+  "task_id": "aadefe73-596e-5cc2-88f9-ca9d2693e81b",
+  "skill_id": "0f768196-6d9f-52ce-9f4b-1a13faaeb8cf",
+  "skill_key": "community-mobilisation"
+ },
+ {
+  "task_id": "fc3dc656-7a9a-5f20-a5e1-21adc2423559",
+  "skill_id": "ec33973e-5b16-5f84-ad05-1ed8bc4abb99",
+  "skill_key": "training-facilitation"
+ },
+ {
+  "task_id": "5323f01d-5abf-52db-9825-e09313b95014",
+  "skill_id": "9b87f37f-f91d-5f08-a689-b740aba4cd0b",
+  "skill_key": "field-facilitation"
+ },
+ {
+  "task_id": "5323f01d-5abf-52db-9825-e09313b95014",
+  "skill_id": "3a3b2db3-4804-5674-b31f-00c9adcddccb",
+  "skill_key": "data-collection"
+ },
+ {
+  "task_id": "828d62ec-7a19-59f5-ab96-5cd84dd60d98",
+  "skill_id": "0f768196-6d9f-52ce-9f4b-1a13faaeb8cf",
+  "skill_key": "community-mobilisation"
+ },
+ {
+  "task_id": "39a36799-9829-5f3a-8f53-4f164f2a8f20",
+  "skill_id": "9b87f37f-f91d-5f08-a689-b740aba4cd0b",
+  "skill_key": "field-facilitation"
+ },
+ {
+  "task_id": "39a36799-9829-5f3a-8f53-4f164f2a8f20",
+  "skill_id": "3a3b2db3-4804-5674-b31f-00c9adcddccb",
+  "skill_key": "data-collection"
+ },
+ {
+  "task_id": "f0917bfa-dcc9-5d1e-94e0-4418034a9b96",
+  "skill_id": "0f768196-6d9f-52ce-9f4b-1a13faaeb8cf",
+  "skill_key": "community-mobilisation"
+ },
+ {
+  "task_id": "f0917bfa-dcc9-5d1e-94e0-4418034a9b96",
+  "skill_id": "22125213-48e9-58b3-b6ac-5e1f517efb5d",
+  "skill_key": "budget-tracking"
+ },
+ {
+  "task_id": "28cc5498-f204-58a7-8d37-16daf28edeb6",
+  "skill_id": "0df738b7-8c02-54c4-aa19-7e7cb5d92527",
+  "skill_key": "safeguarding"
+ },
+ {
+  "task_id": "d916af25-f6be-551b-9a43-158769a2ded3",
+  "skill_id": "22125213-48e9-58b3-b6ac-5e1f517efb5d",
+  "skill_key": "budget-tracking"
+ },
+ {
+  "task_id": "ff3cb0ff-0ea2-52ba-8a9b-e12c74df4d0b",
+  "skill_id": "0f768196-6d9f-52ce-9f4b-1a13faaeb8cf",
+  "skill_key": "community-mobilisation"
+ },
+ {
+  "task_id": "89dff532-a394-5a60-8ab2-a36f647ba952",
+  "skill_id": "0f768196-6d9f-52ce-9f4b-1a13faaeb8cf",
+  "skill_key": "community-mobilisation"
+ },
+ {
+  "task_id": "535ddd23-f4a6-5776-ab08-10a0ebbddf03",
+  "skill_id": "0f768196-6d9f-52ce-9f4b-1a13faaeb8cf",
+  "skill_key": "community-mobilisation"
+ },
+ {
+  "task_id": "115c5a09-8cca-5cda-98f7-ce976a6de4e8",
+  "skill_id": "9b87f37f-f91d-5f08-a689-b740aba4cd0b",
+  "skill_key": "field-facilitation"
+ },
+ {
+  "task_id": "115c5a09-8cca-5cda-98f7-ce976a6de4e8",
+  "skill_id": "3a3b2db3-4804-5674-b31f-00c9adcddccb",
+  "skill_key": "data-collection"
+ },
+ {
+  "task_id": "ecebee4b-e33f-5ed5-a989-91f3339f341e",
+  "skill_id": "0f768196-6d9f-52ce-9f4b-1a13faaeb8cf",
+  "skill_key": "community-mobilisation"
+ },
+ {
+  "task_id": "03a9d08f-8af3-5bc2-8fc0-5817577a2d8c",
+  "skill_id": "0df738b7-8c02-54c4-aa19-7e7cb5d92527",
+  "skill_key": "safeguarding"
+ },
+ {
+  "task_id": "03a9d08f-8af3-5bc2-8fc0-5817577a2d8c",
+  "skill_id": "0292878e-6d73-5988-b43a-3170d0ef8523",
+  "skill_key": "report-writing"
+ },
+ {
+  "task_id": "753f0eb7-09b8-5380-97e4-0de3ff8fea2d",
+  "skill_id": "9b87f37f-f91d-5f08-a689-b740aba4cd0b",
+  "skill_key": "field-facilitation"
+ },
+ {
+  "task_id": "753f0eb7-09b8-5380-97e4-0de3ff8fea2d",
+  "skill_id": "3a3b2db3-4804-5674-b31f-00c9adcddccb",
+  "skill_key": "data-collection"
+ },
+ {
+  "task_id": "efa9d51f-0be0-5e29-b15a-0849dd761065",
+  "skill_id": "0f768196-6d9f-52ce-9f4b-1a13faaeb8cf",
+  "skill_key": "community-mobilisation"
+ },
+ {
+  "task_id": "93ef9ee9-0322-5bdc-b1d8-987b6a33e4ef",
+  "skill_id": "248a4f15-74ed-5ad8-b253-0d000fedc9c6",
+  "skill_key": "media-ethics"
+ },
+ {
+  "task_id": "f77c5093-acea-5e6f-a727-aee33a0a28c7",
+  "skill_id": "70f453a3-ae3a-5377-947c-4ac29d1b6bec",
+  "skill_key": "journalistic-interviewing"
+ },
+ {
+  "task_id": "f77c5093-acea-5e6f-a727-aee33a0a28c7",
+  "skill_id": "248a4f15-74ed-5ad8-b253-0d000fedc9c6",
+  "skill_key": "media-ethics"
+ },
+ {
+  "task_id": "91481210-a80f-521a-9863-ffe745deb47a",
+  "skill_id": "70f453a3-ae3a-5377-947c-4ac29d1b6bec",
+  "skill_key": "journalistic-interviewing"
+ },
+ {
+  "task_id": "84977f6a-dcfb-54aa-ac92-7e8b600796a0",
+  "skill_id": "5d7eecac-8230-5508-988d-5fea62dbd0dd",
+  "skill_key": "news-writing"
+ },
+ {
+  "task_id": "84977f6a-dcfb-54aa-ac92-7e8b600796a0",
+  "skill_id": "248a4f15-74ed-5ad8-b253-0d000fedc9c6",
+  "skill_key": "media-ethics"
+ },
+ {
+  "task_id": "2f7da596-98e5-51e7-bc3d-114bd0d5c765",
+  "skill_id": "248a4f15-74ed-5ad8-b253-0d000fedc9c6",
+  "skill_key": "media-ethics"
+ },
+ {
+  "task_id": "9d94b338-ffb1-5f76-b838-08a21fa50a55",
+  "skill_id": "5d7eecac-8230-5508-988d-5fea62dbd0dd",
+  "skill_key": "news-writing"
+ },
+ {
+  "task_id": "30410cc3-8443-51d0-8e57-6741cb8f514c",
+  "skill_id": "248a4f15-74ed-5ad8-b253-0d000fedc9c6",
+  "skill_key": "media-ethics"
+ },
+ {
+  "task_id": "30410cc3-8443-51d0-8e57-6741cb8f514c",
+  "skill_id": "51235f45-8c4b-565a-abda-151d8b157624",
+  "skill_key": "press-releases"
+ },
+ {
+  "task_id": "11e16155-2838-5273-ab2e-4973b2914008",
+  "skill_id": "5d7eecac-8230-5508-988d-5fea62dbd0dd",
+  "skill_key": "news-writing"
+ },
+ {
+  "task_id": "11e16155-2838-5273-ab2e-4973b2914008",
+  "skill_id": "51235f45-8c4b-565a-abda-151d8b157624",
+  "skill_key": "press-releases"
+ },
+ {
+  "task_id": "e256d5b5-07ee-5022-bb7d-3cb23bb57482",
+  "skill_id": "5d7eecac-8230-5508-988d-5fea62dbd0dd",
+  "skill_key": "news-writing"
+ },
+ {
+  "task_id": "e256d5b5-07ee-5022-bb7d-3cb23bb57482",
+  "skill_id": "694e5243-b9d7-5ffc-b87d-411968474853",
+  "skill_key": "social-newsgathering"
+ },
+ {
+  "task_id": "2b1662c0-f2f1-5ff8-9c1e-33af6ca25ad2",
+  "skill_id": "aff2a3c7-58d6-5af2-96b4-9c3ec55b4e57",
+  "skill_key": "video-reporting"
+ },
+ {
+  "task_id": "59123815-ef87-5fe8-a6a0-d08212da15fc",
+  "skill_id": "70f453a3-ae3a-5377-947c-4ac29d1b6bec",
+  "skill_key": "journalistic-interviewing"
+ },
+ {
+  "task_id": "59123815-ef87-5fe8-a6a0-d08212da15fc",
+  "skill_id": "3239725a-23f5-5d5f-b810-5a2e4ccf091f",
+  "skill_key": "time-management"
+ },
+ {
+  "task_id": "5cd104a0-9d4b-54c2-a03b-7bfcb0d24838",
+  "skill_id": "5d7eecac-8230-5508-988d-5fea62dbd0dd",
+  "skill_key": "news-writing"
+ },
+ {
+  "task_id": "7948fff7-9491-5b96-ad6c-32acf0469e35",
+  "skill_id": "248a4f15-74ed-5ad8-b253-0d000fedc9c6",
+  "skill_key": "media-ethics"
+ },
+ {
+  "task_id": "15802b20-2f0f-5204-ba70-9e47d38b5b60",
+  "skill_id": "5d7eecac-8230-5508-988d-5fea62dbd0dd",
+  "skill_key": "news-writing"
+ },
+ {
+  "task_id": "e9e62162-c7cd-5aa9-bfef-5a381d079006",
+  "skill_id": "243e5850-2806-5901-b1d8-c8de437536bc",
+  "skill_key": "basic-english"
+ },
+ {
+  "task_id": "5b3ffbdf-fcd5-5489-9465-1f38a73f841e",
+  "skill_id": "1917b2f1-a524-5e9b-8f5b-5a969ec6e68b",
+  "skill_key": "editorial-planning"
+ },
+ {
+  "task_id": "f38d732d-5212-51ef-86e8-872de125fd11",
+  "skill_id": "0f2d5349-a4a8-5ec9-bbd6-297cc434c98c",
+  "skill_key": "academic-writing"
+ },
+ {
+  "task_id": "f38d732d-5212-51ef-86e8-872de125fd11",
+  "skill_id": "2d610c73-2bb5-5698-8d07-248fc3cdc7c1",
+  "skill_key": "ethical-research"
+ },
+ {
+  "task_id": "740f659b-b593-5880-90ba-8d92b77c1af8",
+  "skill_id": "2d610c73-2bb5-5698-8d07-248fc3cdc7c1",
+  "skill_key": "ethical-research"
+ },
+ {
+  "task_id": "ad6f74cf-b93f-5b2b-9854-a41ba365aea3",
+  "skill_id": "1604df5e-7409-5840-92a3-e9d2a982202f",
+  "skill_key": "statistics"
+ },
+ {
+  "task_id": "ad6f74cf-b93f-5b2b-9854-a41ba365aea3",
+  "skill_id": "2d610c73-2bb5-5698-8d07-248fc3cdc7c1",
+  "skill_key": "ethical-research"
+ },
+ {
+  "task_id": "7fb6e638-40a4-5e45-9120-9a8b8356a710",
+  "skill_id": "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+  "skill_key": "data-cleaning"
+ },
+ {
+  "task_id": "7fb6e638-40a4-5e45-9120-9a8b8356a710",
+  "skill_id": "3a3b2db3-4804-5674-b31f-00c9adcddccb",
+  "skill_key": "data-collection"
+ },
+ {
+  "task_id": "5cee8b56-23a3-58e5-b765-62077e0d90a1",
+  "skill_id": "2d610c73-2bb5-5698-8d07-248fc3cdc7c1",
+  "skill_key": "ethical-research"
+ },
+ {
+  "task_id": "c3311732-74d1-5a73-95c5-8c0a6c0b7dd9",
+  "skill_id": "1fc6b751-20bb-57fa-906e-9ae51be7698a",
+  "skill_key": "citation-management"
+ },
+ {
+  "task_id": "92aa6604-82c3-5b2b-9669-f0a0a9f520ef",
+  "skill_id": "d00d5297-dd1c-528c-9d62-e6c0ecf9bc7d",
+  "skill_key": "literature-review"
+ },
+ {
+  "task_id": "97dff884-194c-5882-875d-7b24ed4abe1a",
+  "skill_id": "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+  "skill_key": "data-cleaning"
+ },
+ {
+  "task_id": "97dff884-194c-5882-875d-7b24ed4abe1a",
+  "skill_id": "1604df5e-7409-5840-92a3-e9d2a982202f",
+  "skill_key": "statistics"
+ },
+ {
+  "task_id": "ce042a92-57cc-554c-842a-0b6c5762b3e4",
+  "skill_id": "d00d5297-dd1c-528c-9d62-e6c0ecf9bc7d",
+  "skill_key": "literature-review"
+ },
+ {
+  "task_id": "010f9481-bfc4-59bd-8b7e-9eb561c4df2a",
+  "skill_id": "2d610c73-2bb5-5698-8d07-248fc3cdc7c1",
+  "skill_key": "ethical-research"
+ },
+ {
+  "task_id": "09925325-53db-5113-b562-4a75a2840ce6",
+  "skill_id": "2d610c73-2bb5-5698-8d07-248fc3cdc7c1",
+  "skill_key": "ethical-research"
+ },
+ {
+  "task_id": "e9e6dc90-22ab-5adb-93d4-e27c8ed81cba",
+  "skill_id": "d00d5297-dd1c-528c-9d62-e6c0ecf9bc7d",
+  "skill_key": "literature-review"
+ },
+ {
+  "task_id": "fbc833cc-9a45-56ff-9b1c-9a0f63c69948",
+  "skill_id": "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+  "skill_key": "data-cleaning"
+ },
+ {
+  "task_id": "fbc833cc-9a45-56ff-9b1c-9a0f63c69948",
+  "skill_id": "2d610c73-2bb5-5698-8d07-248fc3cdc7c1",
+  "skill_key": "ethical-research"
+ },
+ {
+  "task_id": "2c4dbefa-8f27-52f0-bd85-de54cfff5ad9",
+  "skill_id": "2d610c73-2bb5-5698-8d07-248fc3cdc7c1",
+  "skill_key": "ethical-research"
+ },
+ {
+  "task_id": "022c2858-dc4b-5df2-a9fb-06bdeb72e0c3",
+  "skill_id": "d00d5297-dd1c-528c-9d62-e6c0ecf9bc7d",
+  "skill_key": "literature-review"
+ },
+ {
+  "task_id": "b39eecf3-cb7d-57db-bc0d-2598c10816f3",
+  "skill_id": "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+  "skill_key": "data-cleaning"
+ },
+ {
+  "task_id": "b39eecf3-cb7d-57db-bc0d-2598c10816f3",
+  "skill_id": "1604df5e-7409-5840-92a3-e9d2a982202f",
+  "skill_key": "statistics"
+ }
+]

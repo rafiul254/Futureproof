@@ -1,0 +1,1569 @@
+[
+ {
+  "id": "a00d98e8-2026-589a-a6d3-9e0fd1b64276",
+  "key": "fcc-scientific-python",
+  "title": "Scientific Computing with Python",
+  "provider": "freeCodeCamp",
+  "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 25.0,
+  "level": "beginner",
+  "skill_ids": [
+   "f70df858-378b-5934-805a-4e9001931174",
+   "278ec5b2-bc6f-55fa-baa3-383fe92e7d96",
+   "079e28ac-3170-57d1-aebc-ad1e3d20a264"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "21068313-1323-53de-9da7-5e695d89ceaf",
+  "key": "fcc-data-analysis-python",
+  "title": "Data Analysis with Python",
+  "provider": "freeCodeCamp",
+  "url": "https://www.freecodecamp.org/learn/data-analysis-with-python/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 30.0,
+  "level": "beginner",
+  "skill_ids": [
+   "f70df858-378b-5934-805a-4e9001931174",
+   "079e28ac-3170-57d1-aebc-ad1e3d20a264",
+   "278ec5b2-bc6f-55fa-baa3-383fe92e7d96",
+   "1cd29bfc-6b5e-5ca3-a037-34010dca01e8"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "2561874c-6cbe-5d32-9391-d5aba6dc1569",
+  "key": "fcc-machine-learning-python",
+  "title": "Machine Learning with Python",
+  "provider": "freeCodeCamp",
+  "url": "https://www.freecodecamp.org/learn/machine-learning-with-python/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 30.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "f70df858-378b-5934-805a-4e9001931174",
+   "879a4e5c-f63e-5b06-8dd7-5b152d63fe0e",
+   "98853150-7a6c-5eee-b6e8-0254e5386639",
+   "179308c3-f8b1-55cf-a198-84f7ebeceebe"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "80a030b1-9ddf-5b26-9089-af61772a64ac",
+  "key": "fcc-responsive-web",
+  "title": "Responsive Web Design Certification",
+  "provider": "freeCodeCamp",
+  "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 300.0,
+  "level": "beginner",
+  "skill_ids": [
+   "28209e6e-171f-52b4-9fd2-60bffeff2a93",
+   "46fa1eff-deb7-5c26-94d2-102cfcdecaca",
+   "fe2f2a03-5f8f-5211-8155-3fda74a6f5c0",
+   "355ed118-7d15-5e9e-a6a0-4d58f813ed9f"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "e7dc79da-abb0-5ff1-a515-cb5f484b8207",
+  "key": "fcc-javascript-algorithms",
+  "title": "JavaScript Algorithms and Data Structures",
+  "provider": "freeCodeCamp",
+  "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 300.0,
+  "level": "beginner",
+  "skill_ids": [
+   "855787fd-f277-5fa2-889c-672e6962ca10",
+   "5220502e-b6ea-5976-a87b-09a20a8ba8e4",
+   "17c2bafc-b70c-5e3f-a621-6a8487179430"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "29d22fa1-dc1d-5a12-97a1-626dffb07ff1",
+  "key": "fcc-front-end-libraries",
+  "title": "Front End Development Libraries",
+  "provider": "freeCodeCamp",
+  "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 300.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "acacb29f-ae41-578c-9e37-e1041ae48e42",
+   "48136dcf-3181-5adf-8799-f081c4589f0f",
+   "855787fd-f277-5fa2-889c-672e6962ca10",
+   "fc166256-ddf7-518f-80b1-820a209bc6bf"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "26267226-9a14-53ff-8cc5-99f8a1f728f3",
+  "key": "fcc-back-end-apis",
+  "title": "Back End Development and APIs",
+  "provider": "freeCodeCamp",
+  "url": "https://www.freecodecamp.org/learn/back-end-development-and-apis/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 300.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "bc2d558b-4ac4-52b4-b850-487784e71adc",
+   "ab7d8d1c-6957-5062-a9fe-a1f7962ac4bf",
+   "be9bf965-ae5f-50cb-8257-4c79ee5e0568",
+   "4c9e6490-7701-5b4f-a89a-4e9472a3b845"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "2b427ff6-f35b-51d4-ad0e-50aca079eca5",
+  "key": "fcc-relational-database",
+  "title": "Relational Database Certification",
+  "provider": "freeCodeCamp",
+  "url": "https://www.freecodecamp.org/learn/relational-database/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 120.0,
+  "level": "beginner",
+  "skill_ids": [
+   "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+   "f9de4858-ad60-54bc-9a8b-f3e678093d08",
+   "8a14116a-fce5-5195-af41-7d39fd41bd4f",
+   "666a8322-f389-58bf-84d7-7c984b262b02"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "631c7d90-a876-54ba-9435-9debdd936024",
+  "key": "fcc-college-algebra",
+  "title": "College Algebra with Python",
+  "provider": "freeCodeCamp",
+  "url": "https://www.freecodecamp.org/learn/college-algebra-with-python/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 25.0,
+  "level": "beginner",
+  "skill_ids": [
+   "f70df858-378b-5934-805a-4e9001931174",
+   "1604df5e-7409-5840-92a3-e9d2a982202f"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "a9b23d1f-ad98-5a7a-ac39-139766290e92",
+  "key": "cs50x",
+  "title": "CS50x: Introduction to Computer Science",
+  "provider": "Harvard University",
+  "url": "https://cs50.harvard.edu/x/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 100.0,
+  "level": "beginner",
+  "skill_ids": [
+   "81f01235-e6cc-5181-9dda-724b64815bdb",
+   "f70df858-378b-5934-805a-4e9001931174",
+   "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+   "5220502e-b6ea-5976-a87b-09a20a8ba8e4",
+   "17c2bafc-b70c-5e3f-a621-6a8487179430"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "51bb68ed-0cc6-52c7-bd5d-9627ff4c1bb1",
+  "key": "cs50p",
+  "title": "CS50P: Introduction to Programming with Python",
+  "provider": "Harvard University",
+  "url": "https://cs50.harvard.edu/python/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 35.0,
+  "level": "beginner",
+  "skill_ids": [
+   "f70df858-378b-5934-805a-4e9001931174",
+   "d7240490-8285-5fb9-bb34-bf205d854517",
+   "1fa53545-2e8f-5b4f-ab26-229e86c2956e"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "42b64480-3416-5153-afee-11c6fb33badb",
+  "key": "cs50-sql",
+  "title": "CS50's Introduction to Databases with SQL",
+  "provider": "Harvard University",
+  "url": "https://cs50.harvard.edu/sql/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 20.0,
+  "level": "beginner",
+  "skill_ids": [
+   "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+   "8a14116a-fce5-5195-af41-7d39fd41bd4f",
+   "f9de4858-ad60-54bc-9a8b-f3e678093d08"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "ab2d7094-c131-5b6c-9801-ad40e311182b",
+  "key": "cs50-ai",
+  "title": "CS50's Introduction to Artificial Intelligence with Python",
+  "provider": "Harvard University",
+  "url": "https://cs50.harvard.edu/ai/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 60.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "f70df858-378b-5934-805a-4e9001931174",
+   "879a4e5c-f63e-5b06-8dd7-5b152d63fe0e",
+   "179308c3-f8b1-55cf-a198-84f7ebeceebe",
+   "17c2bafc-b70c-5e3f-a621-6a8487179430"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "2e919895-af00-502b-9253-92d5ebd341a2",
+  "key": "cs50-web",
+  "title": "CS50's Web Programming with Python and JavaScript",
+  "provider": "Harvard University",
+  "url": "https://cs50.harvard.edu/web/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 70.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "f70df858-378b-5934-805a-4e9001931174",
+   "855787fd-f277-5fa2-889c-672e6962ca10",
+   "a551ef3c-100c-5bb3-b040-f398f07c6783",
+   "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+   "bcbe802c-09f0-5766-82cc-104d690d1d60"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "0e7b214f-f762-58a0-b6bc-a0876799fa8f",
+  "key": "khan-statistics",
+  "title": "Statistics and probability",
+  "provider": "Khan Academy",
+  "url": "https://www.khanacademy.org/math/statistics-probability",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 40.0,
+  "level": "beginner",
+  "skill_ids": [
+   "1604df5e-7409-5840-92a3-e9d2a982202f",
+   "609ef35b-0f35-5390-9586-fa6cd3cb2b46"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "62284c7f-253e-5571-9012-754532c15135",
+  "key": "khan-algebra",
+  "title": "Algebra 1",
+  "provider": "Khan Academy",
+  "url": "https://www.khanacademy.org/math/algebra",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 50.0,
+  "level": "beginner",
+  "skill_ids": [
+   "1604df5e-7409-5840-92a3-e9d2a982202f"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "9f54757d-8000-5bdd-a5b3-234bccee270e",
+  "key": "khan-finance",
+  "title": "Finance and capital markets",
+  "provider": "Khan Academy",
+  "url": "https://www.khanacademy.org/economics-finance-domain/core-finance",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 30.0,
+  "level": "beginner",
+  "skill_ids": [
+   "8bb6f44c-267a-5245-9f10-0bb23df42515",
+   "5f0e0052-aa93-592a-bc5f-5719de82b345",
+   "101ee13d-5ff0-5239-9546-0769ad3d6e7b"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "f53bc9e6-73f5-53f1-b744-1e8bea29d114",
+  "key": "khan-grammar",
+  "title": "Grammar",
+  "provider": "Khan Academy",
+  "url": "https://www.khanacademy.org/humanities/grammar",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 20.0,
+  "level": "beginner",
+  "skill_ids": [
+   "68fe3e8a-0547-591f-a418-aef24d43d429",
+   "514de2e8-0ac7-5632-8e1e-a8fb77311f29",
+   "0e77479f-e9ca-5c72-a512-2d18f271ba32"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "a5c6e89b-fce3-513f-8941-997fe5a2875d",
+  "key": "google-digital-garage",
+  "title": "Fundamentals of Digital Marketing",
+  "provider": "Google Digital Garage",
+  "url": "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 40.0,
+  "level": "beginner",
+  "skill_ids": [
+   "8540d88e-1c65-54a1-9152-15495ae9157f",
+   "1a62969b-43a9-56eb-9138-770f76e3381a",
+   "578cdb0c-a707-5da4-b82c-2f4dd91b243a",
+   "b761bed2-8774-5702-9af3-f705e1d4201e",
+   "6dfcc637-852d-50b7-9a0c-4afe97909d5d"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "1604251d-5496-5c88-aab5-10dcad5736fe",
+  "key": "google-ml-crash-course",
+  "title": "Machine Learning Crash Course",
+  "provider": "Google",
+  "url": "https://developers.google.com/machine-learning/crash-course",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 15.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "879a4e5c-f63e-5b06-8dd7-5b152d63fe0e",
+   "179308c3-f8b1-55cf-a198-84f7ebeceebe",
+   "a86adb28-2747-5991-92f2-fe7827941eba",
+   "64267ee8-0ccf-5df8-b769-67a867ffece7"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "1ab32028-4f69-55a0-ace9-ef3841c1572e",
+  "key": "google-seo-starter",
+  "title": "SEO Starter Guide",
+  "provider": "Google Search Central",
+  "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 4.0,
+  "level": "beginner",
+  "skill_ids": [
+   "8540d88e-1c65-54a1-9152-15495ae9157f",
+   "cf91b594-77ac-5161-a962-d544fe4ff54a"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "ca4ed4be-74f2-5952-9f8b-bd9da779efe8",
+  "key": "google-data-analytics",
+  "title": "Google Data Analytics Professional Certificate",
+  "provider": "Google (Coursera)",
+  "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 150.0,
+  "level": "beginner",
+  "skill_ids": [
+   "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+   "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+   "d26a4447-0f12-5024-bc29-e95732289799",
+   "f450e261-eeea-5553-a946-5c2a1274502c",
+   "74904b5d-6b94-5bba-b7ac-d0034394478b"
+  ],
+  "verified": true,
+  "notes": "Audit free; certificate paid"
+ },
+ {
+  "id": "fdeaea97-adba-53c8-bfff-af07a0e09f42",
+  "key": "google-ux-design",
+  "title": "Google UX Design Professional Certificate",
+  "provider": "Google (Coursera)",
+  "url": "https://www.coursera.org/professional-certificates/google-ux-design",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 140.0,
+  "level": "beginner",
+  "skill_ids": [
+   "64b08f36-cddf-514a-838a-5ab4a542e241",
+   "fe64a0db-938f-5060-9cac-d62b49cf726f",
+   "ade7874f-13a0-5425-85f3-ac1aba9c3aae",
+   "23b11ec5-330f-5c68-8903-e38be11218f5",
+   "dc6afc4b-0301-509b-8d14-d61f3ad402f5"
+  ],
+  "verified": true,
+  "notes": "Audit free; certificate paid"
+ },
+ {
+  "id": "5a4ee9fc-6e0c-54d7-86e2-4afe9b2d875d",
+  "key": "mdn-learn-web",
+  "title": "Learn web development",
+  "provider": "MDN Web Docs",
+  "url": "https://developer.mozilla.org/en-US/docs/Learn",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 60.0,
+  "level": "beginner",
+  "skill_ids": [
+   "28209e6e-171f-52b4-9fd2-60bffeff2a93",
+   "46fa1eff-deb7-5c26-94d2-102cfcdecaca",
+   "855787fd-f277-5fa2-889c-672e6962ca10",
+   "355ed118-7d15-5e9e-a6a0-4d58f813ed9f"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "a518d684-6d88-5a2e-aa76-c3fb045a6e36",
+  "key": "mdn-html",
+  "title": "Learn HTML",
+  "provider": "MDN Web Docs",
+  "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 10.0,
+  "level": "beginner",
+  "skill_ids": [
+   "28209e6e-171f-52b4-9fd2-60bffeff2a93",
+   "355ed118-7d15-5e9e-a6a0-4d58f813ed9f"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "ac82e232-5d6e-58b9-b5b9-4778aa578cab",
+  "key": "mdn-css",
+  "title": "Learn CSS",
+  "provider": "MDN Web Docs",
+  "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 15.0,
+  "level": "beginner",
+  "skill_ids": [
+   "46fa1eff-deb7-5c26-94d2-102cfcdecaca",
+   "fe2f2a03-5f8f-5211-8155-3fda74a6f5c0"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "23841f3e-4d64-5031-bc9d-f1062d115b57",
+  "key": "mdn-javascript",
+  "title": "Learn JavaScript",
+  "provider": "MDN Web Docs",
+  "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 25.0,
+  "level": "beginner",
+  "skill_ids": [
+   "855787fd-f277-5fa2-889c-672e6962ca10",
+   "1fa53545-2e8f-5b4f-ab26-229e86c2956e"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "4e11c74b-d609-55d2-bb69-6aef1eb168f7",
+  "key": "ms-azure-fundamentals",
+  "title": "Azure Fundamentals (AZ-900)",
+  "provider": "Microsoft Learn",
+  "url": "https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 10.0,
+  "level": "beginner",
+  "skill_ids": [
+   "500c36d3-6402-514f-9ba1-943f76c8500b",
+   "a0e0126d-fc5a-5a15-9400-4b3c72597732"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "7481865f-9d1b-5187-bea7-9f30e0c3cf2f",
+  "key": "ms-power-bi",
+  "title": "Power BI learning path",
+  "provider": "Microsoft Learn",
+  "url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 20.0,
+  "level": "beginner",
+  "skill_ids": [
+   "481b2dc0-edcb-5767-88ce-c62756a83d44",
+   "d26a4447-0f12-5024-bc29-e95732289799",
+   "f450e261-eeea-5553-a946-5c2a1274502c"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "453b3268-0db5-5ba3-96e7-d7f2f56471cf",
+  "key": "ms-security-fundamentals",
+  "title": "Security compliance and identity fundamentals (SC-900)",
+  "provider": "Microsoft Learn",
+  "url": "https://learn.microsoft.com/en-us/training/paths/describe-security-compliance-identity-concepts/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 8.0,
+  "level": "beginner",
+  "skill_ids": [
+   "6e0c2738-d398-5a03-aff9-6571ea037ebf",
+   "10d563b5-ce7f-5cbb-986a-a53962ac31ec",
+   "ba41a44f-e000-53bf-adf6-312fff3bbb64"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "4f7ab8ac-26d7-504e-999e-65613340887e",
+  "key": "odin-foundations",
+  "title": "The Odin Project: Foundations",
+  "provider": "The Odin Project",
+  "url": "https://www.theodinproject.com/paths/foundations/courses/foundations",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 120.0,
+  "level": "beginner",
+  "skill_ids": [
+   "28209e6e-171f-52b4-9fd2-60bffeff2a93",
+   "46fa1eff-deb7-5c26-94d2-102cfcdecaca",
+   "855787fd-f277-5fa2-889c-672e6962ca10",
+   "bcbe802c-09f0-5766-82cc-104d690d1d60",
+   "666a8322-f389-58bf-84d7-7c984b262b02"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "723aaa26-4c4c-5337-94b5-a147fee0ded6",
+  "key": "sqlbolt",
+  "title": "Learn SQL: SQLBolt",
+  "provider": "SQLBolt",
+  "url": "https://sqlbolt.com/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 6.0,
+  "level": "beginner",
+  "skill_ids": [
+   "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+   "8a14116a-fce5-5195-af41-7d39fd41bd4f"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "c211a0b5-6c16-5ef8-b05b-e131b2d73bae",
+  "key": "mode-sql",
+  "title": "SQL Tutorial",
+  "provider": "Mode",
+  "url": "https://mode.com/sql-tutorial/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 12.0,
+  "level": "beginner",
+  "skill_ids": [
+   "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+   "f9a419fd-f7be-5dfe-a184-f4fb1b869ab0"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "0458a225-d8cf-599b-88d1-3075d70fb978",
+  "key": "kaggle-intro-ml",
+  "title": "Intro to Machine Learning",
+  "provider": "Kaggle Learn",
+  "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 4.0,
+  "level": "beginner",
+  "skill_ids": [
+   "879a4e5c-f63e-5b06-8dd7-5b152d63fe0e",
+   "079e28ac-3170-57d1-aebc-ad1e3d20a264",
+   "64267ee8-0ccf-5df8-b769-67a867ffece7"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "852f22ef-158c-5a57-b77b-223de32ed988",
+  "key": "kaggle-pandas",
+  "title": "Pandas",
+  "provider": "Kaggle Learn",
+  "url": "https://www.kaggle.com/learn/pandas",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 4.0,
+  "level": "beginner",
+  "skill_ids": [
+   "079e28ac-3170-57d1-aebc-ad1e3d20a264",
+   "1cd29bfc-6b5e-5ca3-a037-34010dca01e8"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "6b838054-740c-559d-ae31-b0b57d4349ba",
+  "key": "kaggle-data-cleaning",
+  "title": "Data Cleaning",
+  "provider": "Kaggle Learn",
+  "url": "https://www.kaggle.com/learn/data-cleaning",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 3.0,
+  "level": "beginner",
+  "skill_ids": [
+   "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+   "079e28ac-3170-57d1-aebc-ad1e3d20a264"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "59579905-50de-5086-9d2d-7b5fa1713c95",
+  "key": "kaggle-intro-sql",
+  "title": "Intro to SQL",
+  "provider": "Kaggle Learn",
+  "url": "https://www.kaggle.com/learn/intro-to-sql",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 4.0,
+  "level": "beginner",
+  "skill_ids": [
+   "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+   "88f846d2-f9c9-5069-9e59-7f5d3a2cb842"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "d8ee5b26-ec41-596e-91be-b26a3231ad66",
+  "key": "kaggle-feature-engineering",
+  "title": "Feature Engineering",
+  "provider": "Kaggle Learn",
+  "url": "https://www.kaggle.com/learn/feature-engineering",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 5.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "a86adb28-2747-5991-92f2-fe7827941eba",
+   "879a4e5c-f63e-5b06-8dd7-5b152d63fe0e"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "27a4414b-7569-52f4-9d65-be4d828db6ef",
+  "key": "fastai-coders",
+  "title": "Practical Deep Learning for Coders",
+  "provider": "fast.ai",
+  "url": "https://course.fast.ai/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 60.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "179308c3-f8b1-55cf-a198-84f7ebeceebe",
+   "edb0f3a2-82b9-5f02-b282-7a58aadd4e88",
+   "f70df858-378b-5934-805a-4e9001931174",
+   "64267ee8-0ccf-5df8-b769-67a867ffece7"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "43540025-a203-5034-a15c-0594b96dd275",
+  "key": "fullstackopen",
+  "title": "Full Stack Open",
+  "provider": "University of Helsinki",
+  "url": "https://fullstackopen.com/en/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 150.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "acacb29f-ae41-578c-9e37-e1041ae48e42",
+   "bc2d558b-4ac4-52b4-b850-487784e71adc",
+   "855787fd-f277-5fa2-889c-672e6962ca10",
+   "be9bf965-ae5f-50cb-8257-4c79ee5e0568",
+   "275e562c-82c5-5a64-a1c3-ee326f39c4a6",
+   "09a0e1d1-390b-5e4e-aca6-d3b20773b783",
+   "2947ebc8-3eef-5964-a093-731f91bb73fc"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "c098ae9c-dfad-5fd0-9691-87bf1b83749e",
+  "key": "roadmap-frontend",
+  "title": "Frontend Developer Roadmap",
+  "provider": "roadmap.sh",
+  "url": "https://roadmap.sh/frontend",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 8.0,
+  "level": "beginner",
+  "skill_ids": [
+   "28209e6e-171f-52b4-9fd2-60bffeff2a93",
+   "46fa1eff-deb7-5c26-94d2-102cfcdecaca",
+   "855787fd-f277-5fa2-889c-672e6962ca10",
+   "acacb29f-ae41-578c-9e37-e1041ae48e42",
+   "fe2f2a03-5f8f-5211-8155-3fda74a6f5c0"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "4e791f75-f562-5538-b741-c2312d2323a6",
+  "key": "roadmap-backend",
+  "title": "Backend Developer Roadmap",
+  "provider": "roadmap.sh",
+  "url": "https://roadmap.sh/backend",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 8.0,
+  "level": "beginner",
+  "skill_ids": [
+   "bc2d558b-4ac4-52b4-b850-487784e71adc",
+   "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+   "4c9e6490-7701-5b4f-a89a-4e9472a3b845",
+   "a8c9897e-fb3f-5414-8ba2-7657fd1b3546",
+   "bcbe802c-09f0-5766-82cc-104d690d1d60"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "7dd73bfa-5b78-557a-ad0d-effa808fd427",
+  "key": "coursera-ml-specialization",
+  "title": "Machine Learning Specialization",
+  "provider": "DeepLearning.AI (Coursera)",
+  "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 80.0,
+  "level": "beginner",
+  "skill_ids": [
+   "879a4e5c-f63e-5b06-8dd7-5b152d63fe0e",
+   "f70df858-378b-5934-805a-4e9001931174",
+   "76245e2b-1697-5a98-9dfc-67e47a0c29d3"
+  ],
+  "verified": true,
+  "notes": "Audit free; certificate paid"
+ },
+ {
+  "id": "0230432a-a30d-5599-85ef-0df0b5250b7c",
+  "key": "coursera-ai-for-everyone",
+  "title": "AI For Everyone",
+  "provider": "DeepLearning.AI (Coursera)",
+  "url": "https://www.coursera.org/learn/ai-for-everyone",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 6.0,
+  "level": "beginner",
+  "skill_ids": [
+   "ac1b4265-b976-5eeb-aa7b-b10c6a4499e0",
+   "17c2bafc-b70c-5e3f-a621-6a8487179430"
+  ],
+  "verified": true,
+  "notes": "Audit free; certificate paid"
+ },
+ {
+  "id": "53ab8ea7-feb4-50b0-98d4-a98f1ead81e1",
+  "key": "edx-r-basics",
+  "title": "Data Science: R Basics",
+  "provider": "HarvardX (edX)",
+  "url": "https://www.edx.org/course/data-science-r-basics",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 15.0,
+  "level": "beginner",
+  "skill_ids": [
+   "94e65b26-ce85-57d5-a5bf-997ca7bca6e9",
+   "1604df5e-7409-5840-92a3-e9d2a982202f",
+   "f450e261-eeea-5553-a946-5c2a1274502c"
+  ],
+  "verified": true,
+  "notes": "Audit free; certificate paid"
+ },
+ {
+  "id": "57e98a1e-a690-5d07-aba3-ae5e38030f1d",
+  "key": "codecademy-sql",
+  "title": "Learn SQL",
+  "provider": "Codecademy",
+  "url": "https://www.codecademy.com/learn/learn-sql",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 8.0,
+  "level": "beginner",
+  "skill_ids": [
+   "0e9b427b-7767-5ff6-a482-2b86a98bf125"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "e37f6d0b-5c5e-5fba-8de2-f19add553218",
+  "key": "w3schools-sql",
+  "title": "SQL Tutorial",
+  "provider": "W3Schools",
+  "url": "https://www.w3schools.com/sql/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 6.0,
+  "level": "beginner",
+  "skill_ids": [
+   "0e9b427b-7767-5ff6-a482-2b86a98bf125"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "d071c851-3a2f-5be4-93dc-73fc683d6125",
+  "key": "tableau-training",
+  "title": "Free Training Videos",
+  "provider": "Tableau",
+  "url": "https://www.tableau.com/learn/training",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 12.0,
+  "level": "beginner",
+  "skill_ids": [
+   "9411d30f-4af4-5983-a187-f9cf72744fa9",
+   "d26a4447-0f12-5024-bc29-e95732289799",
+   "f450e261-eeea-5553-a946-5c2a1274502c"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "2cbe8b48-9290-5db6-96f8-f9d6daa92cec",
+  "key": "excel-training",
+  "title": "Excel help and training",
+  "provider": "Microsoft Support",
+  "url": "https://support.microsoft.com/en-us/excel",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 20.0,
+  "level": "beginner",
+  "skill_ids": [
+   "74904b5d-6b94-5bba-b7ac-d0034394478b",
+   "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+   "f9a419fd-f7be-5dfe-a184-f4fb1b869ab0"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "51c97d8f-2f1d-5c62-b31d-29737edfe6ad",
+  "key": "docker-101",
+  "title": "Docker 101 Tutorial",
+  "provider": "Docker",
+  "url": "https://docs.docker.com/get-started/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 5.0,
+  "level": "beginner",
+  "skill_ids": [
+   "a8c9897e-fb3f-5414-8ba2-7657fd1b3546",
+   "500c36d3-6402-514f-9ba1-943f76c8500b"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "b5cebdbd-4d2d-56c9-bf25-e1260a0fbc6f",
+  "key": "k8s-basics",
+  "title": "Kubernetes Basics",
+  "provider": "Kubernetes",
+  "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 6.0,
+  "level": "beginner",
+  "skill_ids": [
+   "f933d27f-7bda-5970-847a-a10b58abbdf5",
+   "a8c9897e-fb3f-5414-8ba2-7657fd1b3546"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "3e6a4ece-c1c1-5476-9f71-e71a5622c96f",
+  "key": "git-handbook",
+  "title": "Git Handbook",
+  "provider": "GitHub",
+  "url": "https://docs.github.com/en/get-started/using-git/about-git",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 3.0,
+  "level": "beginner",
+  "skill_ids": [
+   "bcbe802c-09f0-5766-82cc-104d690d1d60"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "2b5c7b69-b0ff-52be-ab7a-b8860545492f",
+  "key": "prompt-engineering-guide",
+  "title": "Prompt Engineering Guide",
+  "provider": "DAIR.AI",
+  "url": "https://www.promptingguide.ai/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 6.0,
+  "level": "beginner",
+  "skill_ids": [
+   "883e256d-dda5-56c9-82de-cc35aaa8d849",
+   "f6a5cf44-d1bf-5299-a09f-30ed7bfd955c"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "53406d2e-c3b9-5138-83c1-93554a2fe538",
+  "key": "huggingface-llm-course",
+  "title": "LLM Course",
+  "provider": "Hugging Face",
+  "url": "https://huggingface.co/learn/llm-course/chapter1/1",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 12.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "f6a5cf44-d1bf-5299-a09f-30ed7bfd955c",
+   "b7ce6086-d21b-55ab-8b4c-8787471349b6",
+   "829c4af0-5632-5c8c-842b-3e5c75f7f41d"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "36354b87-0592-560e-8764-1f45ddc9277b",
+  "key": "10ms-home",
+  "title": "১০ মিনিট স্কুল (10 Minute School)",
+  "provider": "10 Minute School",
+  "url": "https://10minuteschool.com/",
+  "language": "bn",
+  "cost_usd": 0.0,
+  "duration_hours": 0.0,
+  "level": "beginner",
+  "skill_ids": [
+   "ac1b4265-b976-5eeb-aa7b-b10c6a4499e0"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY landing page only; link a specific course before enabling"
+ },
+ {
+  "id": "bea63a67-4dda-5e7e-90e2-97f7ed093dbb",
+  "key": "shikho-home",
+  "title": "Shikho (Bangla skill courses)",
+  "provider": "Shikho",
+  "url": "https://shikho.com/",
+  "language": "bn",
+  "cost_usd": 0.0,
+  "duration_hours": 0.0,
+  "level": "beginner",
+  "skill_ids": [
+   "ac1b4265-b976-5eeb-aa7b-b10c6a4499e0"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "ed4376a2-3102-502b-b5be-c74d130d4e30",
+  "key": "bohubrihi-home",
+  "title": "Bohubrihi (Bangla professional courses)",
+  "provider": "Bohubrihi",
+  "url": "https://www.bohubrihi.com/",
+  "language": "bn",
+  "cost_usd": 0.0,
+  "duration_hours": 0.0,
+  "level": "beginner",
+  "skill_ids": [
+   "ac1b4265-b976-5eeb-aa7b-b10c6a4499e0"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "83c06e39-4c72-5160-a22e-ba28e59e6c05",
+  "key": "bd-skills-ict",
+  "title": "ICT Division skills training portal",
+  "provider": "ICT Division (Bangladesh)",
+  "url": "https://ictd.gov.bd/",
+  "language": "bn",
+  "cost_usd": 0.0,
+  "duration_hours": 0.0,
+  "level": "beginner",
+  "skill_ids": [
+   "ac1b4265-b976-5eeb-aa7b-b10c6a4499e0"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY find the specific training portal URL"
+ },
+ {
+  "id": "74767adf-20b7-5f81-b046-58d3df696e64",
+  "key": "avro-bangla-typing",
+  "title": "Avro Keyboard: Bangla typing guide",
+  "provider": "Omicron Lab",
+  "url": "https://www.omicronlab.com/avro-keyboard.html",
+  "language": "bn",
+  "cost_usd": 0.0,
+  "duration_hours": 2.0,
+  "level": "beginner",
+  "skill_ids": [
+   "2d1f8325-79ae-58b7-9018-867ce847e0c5"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "dcc9987d-e6ab-5dc1-8a58-8870da384ee4",
+  "key": "bangla-unicode-typing",
+  "title": "Bangla (Unicode) typing practice",
+  "provider": "Bangla Academy",
+  "url": "https://www.banglaacademy.org.bd/",
+  "language": "bn",
+  "cost_usd": 0.0,
+  "duration_hours": 2.0,
+  "level": "beginner",
+  "skill_ids": [
+   "2d1f8325-79ae-58b7-9018-867ce847e0c5"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "83dd1495-64a1-516e-8439-1c6273ff2871",
+  "key": "tally-course",
+  "title": "Tally ERP 9 training",
+  "provider": "Tally Solutions",
+  "url": "https://tallysolutions.com/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 10.0,
+  "level": "beginner",
+  "skill_ids": [
+   "6fa9a089-6aca-5c3f-b252-1c3c12367574",
+   "d18c019e-681c-5456-8999-27f3db548a7f",
+   "8bb6f44c-267a-5245-9f10-0bb23df42515"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY direct course URL"
+ },
+ {
+  "id": "5f4bf1fe-eec3-5321-8861-01709d153e27",
+  "key": "bangladesh-labour-law",
+  "title": "বাংলাদেশ শ্রম আইন ২০০৬ (Bangladesh Labour Act)",
+  "provider": "Ministry of Labour and Employment",
+  "url": "https://mole.gov.bd/",
+  "language": "bn",
+  "cost_usd": 0.0,
+  "duration_hours": 0.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "527f7d11-f13b-5f60-8352-948b5c688c63"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY direct document URL"
+ },
+ {
+  "id": "922aaac3-112e-5a01-9aff-3633a834968e",
+  "key": "garments-compliance",
+  "title": "RMG compliance and social standards",
+  "provider": "International Labour Organization",
+  "url": "https://www.ilo.org/global/industries-and-sectors/textiles-clothing-leather/lang--en/index.htm",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 8.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "66a0ef64-d7f8-596c-9f20-32c9831f44a3",
+   "8ca9da86-39cc-5e3e-8462-d80791d9dfe8"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "410a9f7f-e0b4-5df0-b3ff-3463c384d34a",
+  "key": "safeguarding-course",
+  "title": "Safeguarding essentials",
+  "provider": "humanitarian training",
+  "url": "https://www.unicef.org/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 6.0,
+  "level": "beginner",
+  "skill_ids": [
+   "0df738b7-8c02-54c4-aa19-7e7cb5d92527",
+   "c6e6dc63-2e1b-5086-8d9a-afb9df957294"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "a872e1d9-5f63-5826-a375-26001058300b",
+  "key": "who-safety",
+  "title": "Occupational health and safety",
+  "provider": "World Health Organization",
+  "url": "https://www.who.int/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 6.0,
+  "level": "beginner",
+  "skill_ids": [
+   "8ca9da86-39cc-5e3e-8462-d80791d9dfe8",
+   "5ecac94c-516c-5248-84be-9e3173be800b"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "c98e19f8-5c85-5785-86b3-4d0f32b316ad",
+  "key": "idb-data-literacy",
+  "title": "Data literacy for development",
+  "provider": "Inter-American Development Bank",
+  "url": "https://www.iadb.org/en",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 10.0,
+  "level": "beginner",
+  "skill_ids": [
+   "3a3b2db3-4804-5674-b31f-00c9adcddccb",
+   "1a83a27a-7f69-5e7d-93d3-0785bade7a6f"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "5be844bc-55aa-56bd-8b07-ba5094f43424",
+  "key": "world-bank-open-learning",
+  "title": "Open Learning Campus",
+  "provider": "World Bank",
+  "url": "https://olc.worldbank.org/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 10.0,
+  "level": "beginner",
+  "skill_ids": [
+   "1a83a27a-7f69-5e7d-93d3-0785bade7a6f",
+   "33f86761-aeee-5d75-9122-055676bd05e4"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "d5b4739f-972b-57da-9d55-37253a3e2bda",
+  "key": "coursera-financial-modeling",
+  "title": "Financial modelling for startups",
+  "provider": "Wharton (Coursera)",
+  "url": "https://www.coursera.org/learn/wharton-entrepreneurial-financial-modeling",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 12.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+   "26539bee-58df-5a71-8f25-845c6aa04627",
+   "c15cecfc-4b2d-56da-bd02-3e823f607308"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "3d057a8e-505c-5c47-a96b-2176cb9b484f",
+  "key": "udemy-free-seo",
+  "title": "Free SEO fundamentals course",
+  "provider": "Udemy",
+  "url": "https://www.udemy.com/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 6.0,
+  "level": "beginner",
+  "skill_ids": [
+   "8540d88e-1c65-54a1-9152-15495ae9157f",
+   "cf91b594-77ac-5161-a962-d544fe4ff54a"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY pick a specific free course"
+ },
+ {
+  "id": "29c406f5-b39f-5275-8a59-baf4fffe4933",
+  "key": "autocad-official",
+  "title": "AutoCAD tutorials",
+  "provider": "Autodesk",
+  "url": "https://www.autodesk.com/support/technical/article-caas/tsid/ts/1z4s5a.html",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 15.0,
+  "level": "beginner",
+  "skill_ids": [
+   "5959a4c1-e1fd-589a-8ac9-498426f4f4b0",
+   "ffe3aadd-4d7e-5fb2-9316-075de3ab78ce"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "b9646b23-5c17-5870-9b2f-f4b2dae43810",
+  "key": "mep-bim-course",
+  "title": "Electrical design basics",
+  "provider": "Electrical Engineering Portal",
+  "url": "https://electrical-engineering-portal.com/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 10.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "adb7dbbf-1363-5aa2-b2e9-6f5a7ca0753b",
+   "0144d6cc-296a-54f1-96b7-5db68cff9085",
+   "5ecac94c-516c-5248-84be-9e3173be800b"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "98bacd1a-9793-5b7b-9e82-e2bcbbd96572",
+  "key": "cisco-networking",
+  "title": "Introduction to Networks",
+  "provider": "Cisco Networking Academy",
+  "url": "https://www.netacad.com/courses/networking/introduction-networks",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 70.0,
+  "level": "beginner",
+  "skill_ids": [
+   "7b9c9c6d-19f3-57e5-a265-f80a65c177ac",
+   "41e07af1-2935-5e0b-b6d4-d5c4816cc627",
+   "ca9ba355-dced-5412-9ba4-dfe8a0d45c46"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY enrolment flow"
+ },
+ {
+  "id": "0b5894b2-b2fe-5de4-9dfb-deb793f5f90f",
+  "key": "tryhackme-security",
+  "title": "Pre-Security learning path",
+  "provider": "TryHackMe",
+  "url": "https://tryhackme.com/path/outline/presecurity",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 20.0,
+  "level": "beginner",
+  "skill_ids": [
+   "7b9c9c6d-19f3-57e5-a265-f80a65c177ac",
+   "455548d3-901e-5c8e-926c-cb2de46847d8",
+   "a3f9e6df-6c13-5726-8368-1fa6f86a3b8f"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "1693a502-6842-5d18-b62a-b5ea693afbb7",
+  "key": "google-analytics-academy",
+  "title": "Google Analytics 4 Academy",
+  "provider": "Google Skillshop",
+  "url": "https://skillshop.withgoogle.com/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 6.0,
+  "level": "beginner",
+  "skill_ids": [
+   "6dfcc637-852d-50b7-9a0c-4afe97909d5d",
+   "51329c56-6a75-52b7-bbb2-b7feba469569",
+   "332c9633-6be1-56a5-a712-45b40523614f"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY direct course URL"
+ },
+ {
+  "id": "39f4317b-0ec4-505b-abeb-76487f67c3ee",
+  "key": "meta-social-media",
+  "title": "Social media marketing professional certificate",
+  "provider": "Meta (Coursera)",
+  "url": "https://www.coursera.org/professional-certificates/meta-social-media-marketing",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 120.0,
+  "level": "beginner",
+  "skill_ids": [
+   "578cdb0c-a707-5da4-b82c-2f4dd91b243a",
+   "73bd5ec7-6665-5eea-a973-169e9c23cd79",
+   "939cbf33-6b41-5a13-a723-332dea25f31d"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "9b54a910-9036-58f3-aae7-3e4c518200c7",
+  "key": "hubspot-content-marketing",
+  "title": "Content Marketing Certification",
+  "provider": "HubSpot Academy",
+  "url": "https://academy.hubspot.com/courses/content-marketing",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 4.0,
+  "level": "beginner",
+  "skill_ids": [
+   "939cbf33-6b41-5a13-a723-332dea25f31d",
+   "60c96133-cc0b-5494-b6e2-e70a1daeb1f9",
+   "8540d88e-1c65-54a1-9152-15495ae9157f"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "01755ddf-63b9-5ce9-a3ea-712cf8916638",
+  "key": "hubspot-email-marketing",
+  "title": "Email Marketing Certification",
+  "provider": "HubSpot Academy",
+  "url": "https://academy.hubspot.com/courses/email-marketing",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 4.0,
+  "level": "beginner",
+  "skill_ids": [
+   "b761bed2-8774-5702-9af3-f705e1d4201e",
+   "a78a8851-20ed-5595-bbf7-0decc2c92aef"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "c5f1fa70-e250-5cbf-8f5f-f22b9eb5ecdd",
+  "key": "nngroup-ux",
+  "title": "UX research and usability",
+  "provider": "Nielsen Norman Group",
+  "url": "https://www.nngroup.com/articles/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 10.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "64b08f36-cddf-514a-838a-5ab4a542e241",
+   "0b11185f-50c9-564f-ad83-5d1ade9aba9f",
+   "81870f62-fbdb-51e3-835c-41e6a7905875"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "af4d9acf-e22c-5c41-bdea-17d284e01605",
+  "key": "figma-official",
+  "title": "Figma fundamentals",
+  "provider": "Figma",
+  "url": "https://help.figma.com/hc/en-us/categories/360002051553",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 5.0,
+  "level": "beginner",
+  "skill_ids": [
+   "dc6afc4b-0301-509b-8d14-d61f3ad402f5",
+   "23b11ec5-330f-5c68-8903-e38be11218f5",
+   "ade7874f-13a0-5425-85f3-ac1aba9c3aae"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "ab6a485f-b142-5d2e-8d50-e885e8307ad3",
+  "key": "adb-procurement",
+  "title": "Procurement and supply chain basics",
+  "provider": "Asian Development Bank",
+  "url": "https://www.adb.org/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 8.0,
+  "level": "beginner",
+  "skill_ids": [
+   "12a8b276-996f-5971-948e-47a50c4c4089",
+   "1e40d408-7cb6-5a72-83fd-0144d50bb74c",
+   "9a827f6e-25cc-58a2-9873-2cc21bd6b763"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "5275b5a5-2856-52be-b71e-4f26dc268915",
+  "key": "ilo-merchandising",
+  "title": "Apparel merchandising basics",
+  "provider": "International Labour Organization",
+  "url": "https://www.ilo.org/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 8.0,
+  "level": "beginner",
+  "skill_ids": [
+   "0d77ba6c-fb40-530a-97a5-8714d1e26892",
+   "d01f7ed9-ca3c-5706-832d-3443e9ee5ff9",
+   "7e2340de-b3ac-5359-80cd-797d5a691418"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "f0ea5cbb-ab78-5fc9-bc2b-9fb8508c3f6c",
+  "key": "british-council-english",
+  "title": "English for the workplace",
+  "provider": "British Council",
+  "url": "https://www.britishcouncil.org/english",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 20.0,
+  "level": "beginner",
+  "skill_ids": [
+   "243e5850-2806-5901-b1d8-c8de437536bc",
+   "28c67590-eaac-5d5f-afe4-6fc4863fad4c",
+   "83da9a63-a967-5280-8485-892b7378fb5c"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "5211bd5e-eba8-5222-9462-87f294a98251",
+  "key": "reuters-journalism",
+  "title": "Reuters Handbook of Journalism",
+  "provider": "Reuters",
+  "url": "https://www.reuters.com/journalism-ethics-and-standards",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 8.0,
+  "level": "intermediate",
+  "skill_ids": [
+   "5d7eecac-8230-5508-988d-5fea62dbd0dd",
+   "d0fe68af-7464-5b3a-aa75-dadcbbc61323",
+   "248a4f15-74ed-5ad8-b253-0d000fedc9c6"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "4858eb32-ed85-5632-b9b2-46f7e74723ca",
+  "key": "sage-research-methods",
+  "title": "Research methods basics",
+  "provider": "SAGE Publishing",
+  "url": "https://study.sagepub.com/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 10.0,
+  "level": "beginner",
+  "skill_ids": [
+   "216eae0d-082c-51c3-ba2e-4dd607a65ce5",
+   "fee65060-0c9f-523f-9049-596c50c9b755",
+   "130824cd-4309-5f2b-ab6a-ec9333a1ae7c"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "ffbc675f-7375-58e2-bf60-e0ace77f3612",
+  "key": "world-bank-surveycto",
+  "title": "SurveyCTO data collection training",
+  "provider": "SurveyCTO",
+  "url": "https://www.surveycto.com/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 8.0,
+  "level": "beginner",
+  "skill_ids": [
+   "3a3b2db3-4804-5674-b31f-00c9adcddccb",
+   "130824cd-4309-5f2b-ab6a-ec9333a1ae7c"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "5469cc03-2434-59f7-a4cf-0731ec21c1f1",
+  "key": "pmi-project-basics",
+  "title": "Project management basics",
+  "provider": "Project Management Institute",
+  "url": "https://www.pmi.org/",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 10.0,
+  "level": "beginner",
+  "skill_ids": [
+   "33f86761-aeee-5d75-9122-055676bd05e4",
+   "409e1f9a-1f28-5a05-872f-1480f9869139",
+   "e25b29d2-c5bc-55b1-bf64-710663d75dd5"
+  ],
+  "verified": false,
+  "notes": "TODO_VERIFY"
+ },
+ {
+  "id": "7f16b707-8e85-5b9e-a197-5b5138e5348a",
+  "key": "scrum-guide",
+  "title": "The Scrum Guide",
+  "provider": "Scrum.org",
+  "url": "https://scrumguides.org/scrum-guide.html",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 2.0,
+  "level": "beginner",
+  "skill_ids": [
+   "f33303f8-d3b7-5c44-bb8a-b93cbaff732b",
+   "b2a2d95e-e99e-5cda-9dba-3ad39ea86e9f",
+   "339e9878-1fb2-51f2-81c6-6a6ec0cd4786"
+  ],
+  "verified": true,
+  "notes": ""
+ },
+ {
+  "id": "b43aaf23-d0ff-5567-87b9-8752ed5dace1",
+  "key": "atlassian-agile",
+  "title": "Agile coaching resources",
+  "provider": "Atlassian",
+  "url": "https://www.atlassian.com/agile",
+  "language": "en",
+  "cost_usd": 0.0,
+  "duration_hours": 6.0,
+  "level": "beginner",
+  "skill_ids": [
+   "b2a2d95e-e99e-5cda-9dba-3ad39ea86e9f",
+   "77574f86-9257-5b29-be4d-d501924b7f00",
+   "f33303f8-d3b7-5c44-bb8a-b93cbaff732b",
+   "339e9878-1fb2-51f2-81c6-6a6ec0cd4786"
+  ],
+  "verified": true,
+  "notes": ""
+ }
+]

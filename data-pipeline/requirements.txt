@@ -1,0 +1,10 @@
+# FutureProof data pipeline (Python 3.11+)
+supabase==2.*            # supabase-py client
+python-dotenv==1.*
+pandas==2.*
+numpy==1.*
+openpyxl==3.*            # read/write the manual BD postings template
+python-dateutil==2.*
+tqdm==4.*
+tenacity==9.*            # retry around embedding calls
+openai==1.*              # embeddings (provider swappable)

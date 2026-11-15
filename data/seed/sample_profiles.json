@@ -1,0 +1,32 @@
+[
+  {
+    "key": "cs-student",
+    "title": "Sample profile: final-year Computer Science student",
+    "title_bn": "নমুনা প্রোফাইল: কম্পিউটার সায়েন্সের শেষ বর্ষের শিক্ষার্থী",
+    "summary": "Strong technical core with some AI-exposed routine work.",
+    "summary_bn": "শক্তিশালী কারিগরি দক্ষতা, তবে কিছু কাজ AI দ্বারা সহজে করা যায়। Invest ও Adapt — দুই কোয়াড্রান্টেই পড়বে।",
+    "is_synthetic": true,
+    "suggested_target_occupation": "software-developer",
+    "text": "Md. Tanvir Rahman\nEmail: tanvir.rahman@example.com | Phone: +880 1712 345 678\nHouse 12, Road 4, Dhanmondi, Dhaka 1205\n\nEDUCATION\nBSc in Computer Science and Engineering, University of Dhaka (2022 - 2026, expected)\nRelevant coursework: Data Structures and Algorithms, Database Systems, Machine Learning, Software Engineering\n\nTECHNICAL SKILLS\nPython (advanced), JavaScript, TypeScript, React, Next.js, SQL, PostgreSQL, Git, Docker, REST API design, Linux, unit testing with pytest\n\nPROJECTS\n1. Hall Booking System - a web app for dormitory seat allocation. Built with Next.js and PostgreSQL. Wrote the REST API, designed the schema, and added pytest tests. 400+ students used it in one semester.\n2. Bangla Sentiment Classifier - fine-tuned a transformer model on 12,000 Bangla social media posts. Built the data cleaning pipeline in pandas and evaluated with scikit-learn. Presented at the department project show.\n3. Personal finance dashboard - React and Chart.js, tracks monthly spending and shows category trends.\n\nEXPERIENCE\nSoftware Engineering Intern, Bengal Soft Systems (Jun 2025 - Sep 2025, 4 months)\n- Built three internal API endpoints in Django used by the operations team\n- Fixed 28 bugs from the issue tracker and wrote regression tests for each\n- Reviewed pull requests from two other interns\n\nFreelance web development (2024 - present)\n- Delivered five small business websites using React and Tailwind CSS\n\nLANGUAGES\nBangla (native), English (fluent)\n\nDate of birth: 14 March 2003. National ID: 2003 1234 5678"
+  },
+  {
+    "key": "bba-student",
+    "title": "Sample profile: BBA graduate in marketing and finance",
+    "title_bn": "নমুনা প্রোফাইল: মার্কেটিং ও ফিন্যান্সে বিবিএ স্নাতক",
+    "summary": "Business skills with a large share of routine reporting and coordination work.",
+    "summary_bn": "ব্যবসায়িক দক্ষতা, তবে রুটিন রিপোর্টিং ও সমন্বয়ের কাজ বেশি। চারটি কোয়াড্রান্টেই ছড়িয়ে পড়বে।",
+    "is_synthetic": true,
+    "suggested_target_occupation": "digital-marketing-specialist",
+    "text": "Nusrat Jahan Mila\nEmail: nusrat.mila@example.com | Phone: 01819 987 654\nFlat 3B, 27 Gulshan Avenue, Dhaka 1212\n\nEDUCATION\nBBA, Major in Marketing, Minor in Finance, North South University (2021 - 2025)\nCGPA 3.42 / 4.00\nCoursework: Principles of Marketing, Financial Accounting, Business Statistics, Consumer Behaviour\n\nSKILLS\nMicrosoft Excel (pivot tables, VLOOKUP), market research, report writing, presentation skills, communication, teamwork, basic SEO, Google Analytics (beginner), social media content planning\n\nEXPERIENCE\nMarketing Intern, Aarong Digital (Jan 2025 - Jun 2025, 6 months)\n- Wrote 30+ product descriptions and social media captions per week\n- Prepared the weekly performance report in Excel from Meta and Google Ads exports\n- Helped run a survey with 250 respondents and summarised the results in a slide deck\n\nPart-time tutor (2023 - 2024)\n- Taught mathematics to class 9 and 10 students, 6 hours per week\n\nPROJECTS\n1. Small business market study - interviewed 20 shop owners in Mohammadpur and mapped customer preferences\n2. University cultural programme - managed a budget of BDT 180,000 and coordinated 14 volunteers\n\nLANGUAGES\nBangla (native), English (professional working proficiency)\n\nDate of birth: 2 November 2002"
+  },
+  {
+    "key": "data-entry-bpo",
+    "title": "Sample profile: data entry and call centre worker",
+    "title_bn": "নমুনা প্রোফাইল: ডেটা এন্ট্রি ও কল সেন্টার কর্মী",
+    "summary": "High-volume routine digital work: the tasks most exposed to AI today.",
+    "summary_bn": "অত্যন্ত নিয়মিত ডিজিটাল কাজ — আজকের AI সবচেয়ে সহজে যা করতে পারে। বেশিরভাগ Transition কোয়াড্রান্টে পড়বে।",
+    "is_synthetic": true,
+    "suggested_target_occupation": "data-entry-clerk",
+    "text": "Shipra Akter\nEmail: shipra.akter@example.com | Phone: +880 1555 112 233\nVillage: Kathalia, Post: Sadullapur, District: Gaibandha\n\nEDUCATION\nHSC (Business Studies), Gaibandha Government College (2019)\nBA (pass course), year 2 incomplete\n\nSKILLS\nData entry, fast typing in Bangla (Avro) and English (45 wpm), Microsoft Word, Microsoft Excel (basic), Google Sheets, record keeping, customer handling, basic English conversation\n\nEXPERIENCE\nData Entry Operator, District Records Office (Feb 2022 - present, 3 years)\n- Enter 600 - 800 paper records per week into Excel and the office database\n- Scan documents and name files following the office naming rule\n- Check entered data against the source form and fix mistakes\n- Prepare the daily count of records processed\n\nCall centre agent (part-time, evenings), Meghna Tech Park (2023 - 2024)\n- Followed a call script for inbound customer questions, 50 - 70 calls per evening\n- Logged each call outcome in the CRM\n\nTRAINING\n- Computer Office Application course, 6 months, UCEP Institute\n- Spoken English course, 3 months\n\nLANGUAGES\nBangla (native), English (basic)\n\nDate of birth: 9 July 1998. NID: 1998 5566 7788"
+  }
+]

@@ -1,0 +1,89 @@
+key,title,provider,url,language,cost_usd,duration_hours,level,skill_keys,verified,notes
+fcc-scientific-python,Scientific Computing with Python,freeCodeCamp,https://www.freecodecamp.org/learn/scientific-computing-with-python/,en,0,25,beginner,"python|numpy|pandas",true,
+fcc-data-analysis-python,Data Analysis with Python,freeCodeCamp,https://www.freecodecamp.org/learn/data-analysis-with-python/,en,0,30,beginner,"python|pandas|numpy|data-cleaning",true,
+fcc-machine-learning-python,Machine Learning with Python,freeCodeCamp,https://www.freecodecamp.org/learn/machine-learning-with-python/,en,0,30,intermediate,"python|machine-learning|scikit-learn|deep-learning",true,
+fcc-responsive-web,Responsive Web Design Certification,freeCodeCamp,https://www.freecodecamp.org/learn/2022/responsive-web-design/,en,0,300,beginner,"html|css|responsive-design|accessibility",true,
+fcc-javascript-algorithms,JavaScript Algorithms and Data Structures,freeCodeCamp,https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/,en,0,300,beginner,"javascript|data-structures|problem-solving",true,
+fcc-front-end-libraries,Front End Development Libraries,freeCodeCamp,https://www.freecodecamp.org/learn/front-end-development-libraries/,en,0,300,intermediate,"react|redux|javascript|jquery",true,
+fcc-back-end-apis,Back End Development and APIs,freeCodeCamp,https://www.freecodecamp.org/learn/back-end-development-and-apis/,en,0,300,intermediate,"nodejs|express|mongodb|rest-api",true,
+fcc-relational-database,Relational Database Certification,freeCodeCamp,https://www.freecodecamp.org/learn/relational-database/,en,0,120,beginner,"sql|postgresql|database-design|bash",true,
+fcc-college-algebra,College Algebra with Python,freeCodeCamp,https://www.freecodecamp.org/learn/college-algebra-with-python/,en,0,25,beginner,"python|statistics",true,
+cs50x,CS50x: Introduction to Computer Science,Harvard University,https://cs50.harvard.edu/x/,en,0,100,beginner,"c|python|sql|data-structures|problem-solving",true,
+cs50p,CS50P: Introduction to Programming with Python,Harvard University,https://cs50.harvard.edu/python/,en,0,35,beginner,"python|unit-testing|debugging",true,
+cs50-sql,CS50's Introduction to Databases with SQL,Harvard University,https://cs50.harvard.edu/sql/,en,0,20,beginner,"sql|database-design|postgresql",true,
+cs50-ai,CS50's Introduction to Artificial Intelligence with Python,Harvard University,https://cs50.harvard.edu/ai/,en,0,60,intermediate,"python|machine-learning|deep-learning|problem-solving",true,
+cs50-web,CS50's Web Programming with Python and JavaScript,Harvard University,https://cs50.harvard.edu/web/,en,0,70,intermediate,"python|javascript|django|sql|git",true,
+khan-statistics,Statistics and probability,Khan Academy,https://www.khanacademy.org/math/statistics-probability,en,0,40,beginner,"statistics|hypothesis-testing",true,
+khan-algebra,Algebra 1,Khan Academy,https://www.khanacademy.org/math/algebra,en,0,50,beginner,"statistics",true,
+khan-finance,Finance and capital markets,Khan Academy,https://www.khanacademy.org/economics-finance-domain/core-finance,en,0,30,beginner,"financial-accounting|investment-analysis|financial-modelling",true,
+khan-grammar,Grammar,Khan Academy,https://www.khanacademy.org/humanities/grammar,en,0,20,beginner,"grammar|proofreading|editing",true,
+google-digital-garage,Fundamentals of Digital Marketing,Google Digital Garage,https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing,en,0,40,beginner,"seo|sem|social-media-marketing|email-marketing|google-analytics",true,
+google-ml-crash-course,Machine Learning Crash Course,Google,https://developers.google.com/machine-learning/crash-course,en,0,15,intermediate,"machine-learning|deep-learning|feature-engineering|model-evaluation",true,
+google-seo-starter,SEO Starter Guide,Google Search Central,https://developers.google.com/search/docs/fundamentals/seo-starter-guide,en,0,4,beginner,"seo|seo-writing",true,
+google-data-analytics,Google Data Analytics Professional Certificate,Google (Coursera),https://www.coursera.org/professional-certificates/google-data-analytics,en,0,150,beginner,"data-cleaning|sql|dashboards|data-visualisation|excel",true,Audit free; certificate paid
+google-ux-design,Google UX Design Professional Certificate,Google (Coursera),https://www.coursera.org/professional-certificates/google-ux-design,en,0,140,beginner,"ux-research|wireframing|prototyping|ui-design|figma",true,Audit free; certificate paid
+mdn-learn-web,Learn web development,MDN Web Docs,https://developer.mozilla.org/en-US/docs/Learn,en,0,60,beginner,"html|css|javascript|accessibility",true,
+mdn-html,Learn HTML,MDN Web Docs,https://developer.mozilla.org/en-US/docs/Learn/HTML,en,0,10,beginner,"html|accessibility",true,
+mdn-css,Learn CSS,MDN Web Docs,https://developer.mozilla.org/en-US/docs/Learn/CSS,en,0,15,beginner,"css|responsive-design",true,
+mdn-javascript,Learn JavaScript,MDN Web Docs,https://developer.mozilla.org/en-US/docs/Learn/JavaScript,en,0,25,beginner,"javascript|debugging",true,
+ms-azure-fundamentals,Azure Fundamentals (AZ-900),Microsoft Learn,https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/,en,0,10,beginner,"cloud-basics|aws",true,
+ms-power-bi,Power BI learning path,Microsoft Learn,https://learn.microsoft.com/en-us/training/powerplatform/power-bi,en,0,20,beginner,"power-bi|dashboards|data-visualisation",true,
+ms-security-fundamentals,Security compliance and identity fundamentals (SC-900),Microsoft Learn,https://learn.microsoft.com/en-us/training/paths/describe-security-compliance-identity-concepts/,en,0,8,beginner,"iam|cloud-security|regulatory-compliance",true,
+odin-foundations,The Odin Project: Foundations,The Odin Project,https://www.theodinproject.com/paths/foundations/courses/foundations,en,0,120,beginner,"html|css|javascript|git|bash",true,
+sqlbolt,Learn SQL: SQLBolt,SQLBolt,https://sqlbolt.com/,en,0,6,beginner,"sql|database-design",true,
+mode-sql,SQL Tutorial,Mode,https://mode.com/sql-tutorial/,en,0,12,beginner,"sql|kpi-reporting",true,
+kaggle-intro-ml,Intro to Machine Learning,Kaggle Learn,https://www.kaggle.com/learn/intro-to-machine-learning,en,0,4,beginner,"machine-learning|pandas|model-evaluation",true,
+kaggle-pandas,Pandas,Kaggle Learn,https://www.kaggle.com/learn/pandas,en,0,4,beginner,"pandas|data-cleaning",true,
+kaggle-data-cleaning,Data Cleaning,Kaggle Learn,https://www.kaggle.com/learn/data-cleaning,en,0,3,beginner,"data-cleaning|pandas",true,
+kaggle-intro-sql,Intro to SQL,Kaggle Learn,https://www.kaggle.com/learn/intro-to-sql,en,0,4,beginner,"sql|bigquery",true,
+kaggle-feature-engineering,Feature Engineering,Kaggle Learn,https://www.kaggle.com/learn/feature-engineering,en,0,5,intermediate,"feature-engineering|machine-learning",true,
+fastai-coders,Practical Deep Learning for Coders,fast.ai,https://course.fast.ai/,en,0,60,intermediate,"deep-learning|pytorch|python|model-evaluation",true,
+fullstackopen,Full Stack Open,University of Helsinki,https://fullstackopen.com/en/,en,0,150,intermediate,"react|nodejs|javascript|mongodb|graphql|manual-testing|test-automation",true,
+roadmap-frontend,Frontend Developer Roadmap,roadmap.sh,https://roadmap.sh/frontend,en,0,8,beginner,"html|css|javascript|react|responsive-design",true,
+roadmap-backend,Backend Developer Roadmap,roadmap.sh,https://roadmap.sh/backend,en,0,8,beginner,"nodejs|sql|rest-api|docker|git",true,
+coursera-ml-specialization,Machine Learning Specialization,DeepLearning.AI (Coursera),https://www.coursera.org/specializations/machine-learning-introduction,en,0,80,beginner,"machine-learning|python|regression",true,Audit free; certificate paid
+coursera-ai-for-everyone,AI For Everyone,DeepLearning.AI (Coursera),https://www.coursera.org/learn/ai-for-everyone,en,0,6,beginner,"learning-agility|problem-solving",true,Audit free; certificate paid
+edx-r-basics,Data Science: R Basics,HarvardX (edX),https://www.edx.org/course/data-science-r-basics,en,0,15,beginner,"r|statistics|data-visualisation",true,Audit free; certificate paid
+codecademy-sql,Learn SQL,Codecademy,https://www.codecademy.com/learn/learn-sql,en,0,8,beginner,"sql",true,
+w3schools-sql,SQL Tutorial,W3Schools,https://www.w3schools.com/sql/,en,0,6,beginner,"sql",true,
+tableau-training,Free Training Videos,Tableau,https://www.tableau.com/learn/training,en,0,12,beginner,"tableau|dashboards|data-visualisation",true,
+excel-training,Excel help and training,Microsoft Support,https://support.microsoft.com/en-us/excel,en,0,20,beginner,"excel|financial-modelling|kpi-reporting",true,
+docker-101,Docker 101 Tutorial,Docker,https://docs.docker.com/get-started/,en,0,5,beginner,"docker|cloud-basics",true,
+k8s-basics,Kubernetes Basics,Kubernetes,https://kubernetes.io/docs/tutorials/kubernetes-basics/,en,0,6,beginner,"kubernetes|docker",true,
+git-handbook,Git Handbook,GitHub,https://docs.github.com/en/get-started/using-git/about-git,en,0,3,beginner,"git",true,
+prompt-engineering-guide,Prompt Engineering Guide,DAIR.AI,https://www.promptingguide.ai/,en,0,6,beginner,"prompt-engineering|llm-apps",true,
+huggingface-llm-course,LLM Course,Hugging Face,https://huggingface.co/learn/llm-course/chapter1/1,en,0,12,intermediate,"llm-apps|nlp|transformers",true,
+10ms-home,১০ মিনিট স্কুল (10 Minute School),10 Minute School,https://10minuteschool.com/,bn,0,0,beginner,"learning-agility",false,TODO_VERIFY landing page only; link a specific course before enabling
+shikho-home,Shikho (Bangla skill courses),Shikho,https://shikho.com/,bn,0,0,beginner,"learning-agility",false,TODO_VERIFY
+bohubrihi-home,Bohubrihi (Bangla professional courses),Bohubrihi,https://www.bohubrihi.com/,bn,0,0,beginner,"learning-agility",false,TODO_VERIFY
+bd-skills-ict,ICT Division skills training portal,ICT Division (Bangladesh),https://ictd.gov.bd/,bn,0,0,beginner,"learning-agility",false,TODO_VERIFY find the specific training portal URL
+avro-bangla-typing,Avro Keyboard: Bangla typing guide,Omicron Lab,https://www.omicronlab.com/avro-keyboard.html,bn,0,2,beginner,"bn-typing",false,TODO_VERIFY
+bangla-unicode-typing,Bangla (Unicode) typing practice,Bangla Academy,https://www.banglaacademy.org.bd/,bn,0,2,beginner,"bn-typing",false,TODO_VERIFY
+tally-course,Tally ERP 9 training,Tally Solutions,https://tallysolutions.com/,en,0,10,beginner,"tally|bookkeeping|financial-accounting",false,TODO_VERIFY direct course URL
+bangladesh-labour-law,বাংলাদেশ শ্রম আইন ২০০৬ (Bangladesh Labour Act), Ministry of Labour and Employment,https://mole.gov.bd/,bn,0,0,intermediate,"labour-law",false,TODO_VERIFY direct document URL
+ garments-compliance,RMG compliance and social standards,International Labour Organization,https://www.ilo.org/global/industries-and-sectors/textiles-clothing-leather/lang--en/index.htm,en,0,8,intermediate,"social-compliance-audit|health-safety",false,TODO_VERIFY
+safeguarding-course,Safeguarding essentials, humanitarian training,https://www.unicef.org/,en,0,6,beginner,"safeguarding|child-safeguarding",false,TODO_VERIFY
+who-safety,Occupational health and safety,World Health Organization,https://www.who.int/,en,0,6,beginner,"health-safety|electrical-safety",false,TODO_VERIFY
+idb-data-literacy,Data literacy for development,Inter-American Development Bank,https://www.iadb.org/en,en,0,10,beginner,"data-collection|monitoring-evaluation",false,TODO_VERIFY
+world-bank-open-learning,Open Learning Campus,World Bank,https://olc.worldbank.org/,en,0,10,beginner,"monitoring-evaluation|project-planning",false,TODO_VERIFY
+coursera-financial-modeling,Financial modelling for startups,Wharton (Coursera),https://www.coursera.org/learn/wharton-entrepreneurial-financial-modeling,en,0,12,intermediate,"financial-modelling|valuation|financial-forecasting",false,TODO_VERIFY
+udemy-free-seo,Free SEO fundamentals course,Udemy,https://www.udemy.com/,en,0,6,beginner,"seo|seo-writing",false,TODO_VERIFY pick a specific free course
+autocad-official,AutoCAD tutorials,Autodesk,https://www.autodesk.com/support/technical/article-caas/tsid/ts/1z4s5a.html,en,0,15,beginner,"autocad|technical-drawings",false,TODO_VERIFY
+mep-bim-course,Electrical design basics,Electrical Engineering Portal,https://electrical-engineering-portal.com/,en,0,10,intermediate,"circuit-design|load-calculation|electrical-safety",false,TODO_VERIFY
+cisco-networking,Introduction to Networks,Cisco Networking Academy,https://www.netacad.com/courses/networking/introduction-networks,en,0,70,beginner,"networking-basics|tcp-ip|routing-switching",false,TODO_VERIFY enrolment flow
+tryhackme-security,Pre-Security learning path,TryHackMe,https://tryhackme.com/path/outline/presecurity,en,0,20,beginner,"networking-basics|linux|security-awareness",false,TODO_VERIFY
+/google-analytics-academy,Google Analytics 4 Academy,Google Skillshop,https://skillshop.withgoogle.com/,en,0,6,beginner,"google-analytics|marketing-analytics|facebook-pixel",false,TODO_VERIFY direct course URL
+meta-social-media,Social media marketing professional certificate,Meta (Coursera),https://www.coursera.org/professional-certificates/meta-social-media-marketing,en,0,120,beginner,"social-media-marketing|facebook-ads|content-marketing",false,TODO_VERIFY
+hubspot-content-marketing,Content Marketing Certification,HubSpot Academy,https://academy.hubspot.com/courses/content-marketing,en,0,4,beginner,"content-marketing|content-writing|seo",false,TODO_VERIFY
+hubspot-email-marketing,Email Marketing Certification,HubSpot Academy,https://academy.hubspot.com/courses/email-marketing,en,0,4,beginner,"email-marketing|marketing-automation",false,TODO_VERIFY
+nngroup-ux,UX research and usability,Nielsen Norman Group,https://www.nngroup.com/articles/,en,0,10,intermediate,"ux-research|usability-testing|user-journeys",false,TODO_VERIFY
+figma-official,Figma fundamentals,Figma,https://help.figma.com/hc/en-us/categories/360002051553,en,0,5,beginner,"figma|ui-design|prototyping",false,TODO_VERIFY
+adb-procurement,Procurement and supply chain basics,Asian Development Bank,https://www.adb.org/,en,0,8,beginner,"procurement|vendor-management|logistics-coordination",false,TODO_VERIFY
+ilo-merchandising,Apparel merchandising basics,International Labour Organization,https://www.ilo.org/,en,0,8,beginner,"merchandising|costing|buyer-communication",false,TODO_VERIFY
+british-council-english,English for the workplace,British Council,https://www.britishcouncil.org/english,en,0,20,beginner,"basic-english|communication|email-communication",false,TODO_VERIFY
+reuters-journalism,Reuters Handbook of Journalism,Reuters,https://www.reuters.com/journalism-ethics-and-standards,en,0,8,intermediate,"news-writing|fact-checking|media-ethics",false,TODO_VERIFY
+sage-research-methods,Research methods basics,SAGE Publishing,https://study.sagepub.com/,en,0,10,beginner,"qualitative-research|quantitative-research|survey-design",false,TODO_VERIFY
+world-bank-surveycto,SurveyCTO data collection training,SurveyCTO,https://www.surveycto.com/,en,0,8,beginner,"data-collection|survey-design",false,TODO_VERIFY
+pmi-project-basics,Project management basics,Project Management Institute,https://www.pmi.org/,en,0,10,beginner,"project-planning|scheduling|stakeholder-management",false,TODO_VERIFY
+scrum-guide,The Scrum Guide,Scrum.org,https://scrumguides.org/scrum-guide.html,en,0,2,beginner,"scrum|agile|facilitation",true,
+atlassian-agile,Agile coaching resources,Atlassian,https://www.atlassian.com/agile,en,0,6,beginner,"agile|kanban|scrum|facilitation",true,

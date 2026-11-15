@@ -1,0 +1,290 @@
+[
+ {
+  "id": "cbe6d69a-47bc-554f-901b-357ffb5d3e19",
+  "key": "software-developer",
+  "title": "Software Developer",
+  "title_bn": "সফটওয়্যার ডেভেলপার",
+  "onet_code": "15-1252.00",
+  "description": "Designs, writes, tests and maintains application software for web, desktop or internal business systems.",
+  "source": "curated"
+ },
+ {
+  "id": "41e70785-a066-54fd-8772-4e42b4cb0f3e",
+  "key": "web-developer",
+  "title": "Web Developer",
+  "title_bn": "ওয়েব ডেভেলপার",
+  "onet_code": "15-1254.00",
+  "description": "Builds and maintains websites and web applications, front end and back end.",
+  "source": "curated"
+ },
+ {
+  "id": "c000c77e-a158-5349-8c84-aeeb63c392d9",
+  "key": "mobile-app-developer",
+  "title": "Mobile App Developer",
+  "title_bn": "মোবাইল অ্যাপ ডেভেলপার",
+  "onet_code": "15-1252.00",
+  "description": "Builds and ships Android and iOS applications, often cross-platform.",
+  "source": "curated"
+ },
+ {
+  "id": "7a334e6c-4066-5816-b068-852352edbfd8",
+  "key": "qa-engineer",
+  "title": "QA Engineer / Software Tester",
+  "title_bn": "কিউএ ইঞ্জিনিয়ার / সফটওয়্যার টেস্টার",
+  "onet_code": "15-1253.00",
+  "description": "Plans and runs tests, finds defects, and builds automated test suites.",
+  "source": "curated"
+ },
+ {
+  "id": "be1fc827-df7d-5ee8-8d0a-f385c7973fc0",
+  "key": "data-analyst",
+  "title": "Data Analyst",
+  "title_bn": "ডেটা অ্যানালিস্ট",
+  "onet_code": "15-2051.00",
+  "description": "Turns business data into reports, dashboards and decisions for managers.",
+  "source": "curated"
+ },
+ {
+  "id": "c790f844-af7a-59cc-8025-9a9c6533704b",
+  "key": "data-scientist",
+  "title": "Data Scientist",
+  "title_bn": "ডেটা সায়েন্টিস্ট",
+  "onet_code": "15-2051.00",
+  "description": "Builds statistical and machine-learning models and designs experiments.",
+  "source": "curated"
+ },
+ {
+  "id": "f047172d-38e0-5243-8fc9-a5f8b7a5fa0a",
+  "key": "ml-engineer",
+  "title": "Machine Learning Engineer",
+  "title_bn": "মেশিন লার্নিং ইঞ্জিনিয়ার",
+  "onet_code": "15-2051.00",
+  "description": "Takes models to production: pipelines, training infrastructure, serving and monitoring.",
+  "source": "curated"
+ },
+ {
+  "id": "2703689e-1dae-5c75-9aba-d70bcc82b9d6",
+  "key": "data-entry-clerk",
+  "title": "Data Entry Clerk",
+  "title_bn": "ডেটা এন্ট্রি অপারেটর",
+  "onet_code": "43-9021.00",
+  "description": "Keys paper or scanned records into spreadsheets and internal systems accurately.",
+  "source": "curated"
+ },
+ {
+  "id": "fa7e7f95-20e7-5283-9d7b-cddbeaf05705",
+  "key": "customer-support-rep",
+  "title": "Customer Support Representative",
+  "title_bn": "কাস্টমার সাপোর্ট প্রতিনিধি",
+  "onet_code": "43-4051.00",
+  "description": "Handles customer questions and complaints by chat, email, phone or social media.",
+  "source": "curated"
+ },
+ {
+  "id": "4c6ed96f-bd03-5704-b4a9-0ce27b95dea3",
+  "key": "call-center-agent",
+  "title": "Call Center / BPO Agent",
+  "title_bn": "কল সেন্টার / বিপিও এজেন্ট",
+  "onet_code": "43-4051.00",
+  "description": "Makes or receives high volumes of calls for sales, surveys or support, often on a script.",
+  "source": "curated"
+ },
+ {
+  "id": "2f5a5df8-aa49-5860-b9e9-3c44189a266e",
+  "key": "accountant",
+  "title": "Accountant",
+  "title_bn": "হিসাবরক্ষক",
+  "onet_code": "13-2011.00",
+  "description": "Records transactions, prepares statements, handles tax and supports audits.",
+  "source": "curated"
+ },
+ {
+  "id": "fdad076d-b13b-579a-bd45-e8ae49aad944",
+  "key": "bank-officer",
+  "title": "Bank Officer",
+  "title_bn": "ব্যাংক কর্মকর্তা",
+  "onet_code": "13-2072.00",
+  "description": "Serves customers at a branch, processes accounts, loans and compliance checks.",
+  "source": "curated"
+ },
+ {
+  "id": "7644c680-1eca-558f-80a8-da7f55cd77c4",
+  "key": "financial-analyst",
+  "title": "Financial Analyst",
+  "title_bn": "আর্থিক বিশ্লেষক",
+  "onet_code": "13-2051.00",
+  "description": "Builds models, analyses performance and supports investment or planning decisions.",
+  "source": "curated"
+ },
+ {
+  "id": "b8b3920d-4e6e-5541-be94-1e197d2bbec8",
+  "key": "graphic-designer",
+  "title": "Graphic Designer",
+  "title_bn": "গ্রাফিক ডিজাইনার",
+  "onet_code": "27-1024.00",
+  "description": "Produces visual assets for print, social media, advertising and branding.",
+  "source": "curated"
+ },
+ {
+  "id": "8c5c79ae-c66d-5f03-b6b8-9fb13738fe5e",
+  "key": "ui-ux-designer",
+  "title": "UI/UX Designer",
+  "title_bn": "ইউআই/ইউএক্স ডিজাইনার",
+  "onet_code": "27-1024.00",
+  "description": "Researches users, designs interfaces and prototypes, and hands off to developers.",
+  "source": "curated"
+ },
+ {
+  "id": "96367ccb-c933-5079-affa-50ddacfaa175",
+  "key": "content-writer",
+  "title": "Content Writer",
+  "title_bn": "কনটেন্ট রাইটার",
+  "onet_code": "27-3043.00",
+  "description": "Writes articles, web copy, scripts and social content, often SEO-optimised.",
+  "source": "curated"
+ },
+ {
+  "id": "6a339ef8-038a-5b67-8b36-da21a5af7b42",
+  "key": "digital-marketing-specialist",
+  "title": "Digital Marketing Specialist",
+  "title_bn": "ডিজিটাল মার্কেটিং বিশেষজ্ঞ",
+  "onet_code": "13-1161.00",
+  "description": "Plans and runs paid and organic campaigns across search, social and email.",
+  "source": "curated"
+ },
+ {
+  "id": "72cc320f-6bde-5186-91d9-f339745a51f5",
+  "key": "apparel-merchandiser",
+  "title": "Apparel Merchandiser (RMG)",
+  "title_bn": "পোশাক মার্চেন্ডাইজার",
+  "onet_code": "13-1022.00",
+  "description": "Liaises between international buyers and factories: costing, sampling and shipment follow-up.",
+  "source": "curated"
+ },
+ {
+  "id": "fe6c09e0-099f-5255-aec0-17dc32b38da5",
+  "key": "garments-production-supervisor",
+  "title": "Garments Production Supervisor",
+  "title_bn": "পোশাক উৎপাদন সুপারভাইজার",
+  "onet_code": "51-1011.00",
+  "description": "Runs a sewing floor: line balancing, output targets, quality and worker supervision.",
+  "source": "curated"
+ },
+ {
+  "id": "c56848d4-ce2c-510e-a48e-952466412803",
+  "key": "school-teacher",
+  "title": "School Teacher (Secondary)",
+  "title_bn": "বিদ্যালয় শিক্ষক (মাধ্যমিক)",
+  "onet_code": "25-2021.00",
+  "description": "Teaches a subject, plans lessons, assesses students and manages a classroom.",
+  "source": "curated"
+ },
+ {
+  "id": "dda4588f-d8e8-5974-990e-c900390123ca",
+  "key": "civil-engineer",
+  "title": "Civil Engineer",
+  "title_bn": "সিভিল ইঞ্জিনিয়ার",
+  "onet_code": "17-2051.00",
+  "description": "Designs and supervises buildings, roads and water infrastructure on site and in the office.",
+  "source": "curated"
+ },
+ {
+  "id": "5b94e838-4b5c-51b7-a191-64fe47b8dfef",
+  "key": "electrical-engineer",
+  "title": "Electrical Engineer",
+  "title_bn": "তড়িৎ প্রকৌশলী",
+  "onet_code": "17-2071.00",
+  "description": "Designs, installs and maintains electrical systems, power distribution and controls.",
+  "source": "curated"
+ },
+ {
+  "id": "f006ca60-196e-5919-be1f-865acf1d74b9",
+  "key": "hr-officer",
+  "title": "HR Officer",
+  "title_bn": "এইচআর কর্মকর্তা",
+  "onet_code": "13-1071.00",
+  "description": "Recruits, onboards, supports employees and keeps HR records and compliance in order.",
+  "source": "curated"
+ },
+ {
+  "id": "6372ba2b-5274-506c-8e9b-6483b23b649b",
+  "key": "sales-executive",
+  "title": "Sales Executive",
+  "title_bn": "সেলস এক্সিকিউটিভ",
+  "onet_code": "41-4012.00",
+  "description": "Finds and wins customers: prospecting, meetings, negotiation and account growth.",
+  "source": "curated"
+ },
+ {
+  "id": "2fa23b9e-1a94-5d34-837a-ab6c9471ea18",
+  "key": "project-coordinator",
+  "title": "Project Coordinator",
+  "title_bn": "প্রকল্প সমন্বয়কারী",
+  "onet_code": "13-1082.00",
+  "description": "Keeps projects on schedule: planning, chasing owners, reporting and documentation.",
+  "source": "curated"
+ },
+ {
+  "id": "a41125f1-b349-5bf9-97c0-f81bba154b86",
+  "key": "translator",
+  "title": "Translator (English–Bangla)",
+  "title_bn": "অনুবাদক (ইংরেজি–বাংলা)",
+  "onet_code": "27-3091.00",
+  "description": "Translates documents, subtitles and website content between English and Bangla.",
+  "source": "curated"
+ },
+ {
+  "id": "3a6ceaef-57b5-5529-95ae-c55cdd102f7a",
+  "key": "network-administrator",
+  "title": "Network / System Administrator",
+  "title_bn": "নেটওয়ার্ক / সিস্টেম প্রশাসক",
+  "onet_code": "15-1244.00",
+  "description": "Keeps office networks, servers and user accounts running and secure.",
+  "source": "curated"
+ },
+ {
+  "id": "373ff760-07f2-5c63-8865-cbb37df8ab65",
+  "key": "cybersecurity-analyst",
+  "title": "Cybersecurity Analyst",
+  "title_bn": "সাইবার নিরাপত্তা বিশ্লেষক",
+  "onet_code": "15-1212.00",
+  "description": "Monitors threats, investigates incidents and hardens systems against attack.",
+  "source": "curated"
+ },
+ {
+  "id": "b071cf80-dc3a-52c7-b8a4-397e0699e138",
+  "key": "supply-chain-coordinator",
+  "title": "Supply Chain / Logistics Coordinator",
+  "title_bn": "সাপ্লাই চেইন / লজিস্টিক্স সমন্বয়কারী",
+  "onet_code": "13-1081.00",
+  "description": "Coordinates purchasing, inventory, warehousing and delivery so goods arrive on time.",
+  "source": "curated"
+ },
+ {
+  "id": "9bad2c7f-e841-5bc9-ad5f-237f434e54ae",
+  "key": "ngo-field-officer",
+  "title": "NGO Field Officer",
+  "title_bn": "এনজিও ফিল্ড কর্মকর্তা",
+  "onet_code": "21-1093.00",
+  "description": "Delivers programme activities in communities: mobilisation, training, data and reporting.",
+  "source": "curated"
+ },
+ {
+  "id": "7fbc63c1-29f4-544c-950e-cd82633b8856",
+  "key": "journalist",
+  "title": "Journalist / Reporter",
+  "title_bn": "সাংবাদিক / রিপোর্টার",
+  "onet_code": "27-3023.00",
+  "description": "Finds, verifies and writes stories for print, online or broadcast.",
+  "source": "curated"
+ },
+ {
+  "id": "3f0ebef5-48af-5a04-9895-fdd8ffe4fdce",
+  "key": "research-assistant",
+  "title": "Research Assistant",
+  "title_bn": "গবেষণা সহকারী",
+  "onet_code": "19-4061.00",
+  "description": "Supports studies: literature, data collection, cleaning, analysis and write-up.",
+  "source": "curated"
+ }
+]

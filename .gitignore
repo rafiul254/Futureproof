@@ -1,0 +1,66 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+mcp-server/node_modules/
+
+# build output
+.next/
+out/
+build/
+dist/
+mcp-server/dist/
+next-env.d.ts
+*.tsbuildinfo
+
+# testing
+coverage/
+
+# environment and secrets: never commit
+.env
+.env.*
+!.env.example
+
+# local datastore (analyses, CV text, audit log)
+.data/
+
+# logs and caches
+*.log
+npm-debug.log*
+.swc-cache/
+.eslintcache
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.pem
+
+# deployment
+.vercel
+
+# python / data pipeline
+data-pipeline/.venv/
+data-pipeline/.env
+data-pipeline/data/raw/
+__pycache__/
+*.py[cod]
+
+# supabase local
+supabase/.branches
+supabase/.temp
+
+# ---------------------------------------------------------------------------
+# Personal working files: kept on your computer, not published to GitHub
+# ---------------------------------------------------------------------------
+RUN_LOCALLY.md
+guidelines.md
+GITHUB_GUIDE.md
+NEXT_STEPS.md
+docs/BUILD_SPEC.md
+docs/PHASES.md
+docs/PITCH_SCRIPT.md
+docs/DEMO_SCRIPT.md
+docs/SUBMISSION_AI_USAGE.md

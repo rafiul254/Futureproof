@@ -1,0 +1,4885 @@
+[
+ {
+  "id": "f70df858-378b-5934-805a-4e9001931174",
+  "key": "python",
+  "name": "Python",
+  "name_bn": "পাইথন",
+  "category": "programming",
+  "aliases": [
+   "python3",
+   "py"
+  ],
+  "source_id": "curated:python"
+ },
+ {
+  "id": "855787fd-f277-5fa2-889c-672e6962ca10",
+  "key": "javascript",
+  "name": "JavaScript",
+  "name_bn": "জাভাস্ক্রিপ্ট",
+  "category": "programming",
+  "aliases": [
+   "js",
+   "ecmascript"
+  ],
+  "source_id": "curated:javascript"
+ },
+ {
+  "id": "d98f350b-eac2-5f25-a154-6987a333e212",
+  "key": "typescript",
+  "name": "TypeScript",
+  "name_bn": "টাইপস্ক্রিপ্ট",
+  "category": "programming",
+  "aliases": [
+   "ts"
+  ],
+  "source_id": "curated:typescript"
+ },
+ {
+  "id": "ec4b76ac-a961-5e0d-b8b6-71a4e05dd172",
+  "key": "java",
+  "name": "Java",
+  "name_bn": "জাভা",
+  "category": "programming",
+  "aliases": [],
+  "source_id": "curated:java"
+ },
+ {
+  "id": "81f01235-e6cc-5181-9dda-724b64815bdb",
+  "key": "c",
+  "name": "C",
+  "name_bn": "সি",
+  "category": "programming",
+  "aliases": [],
+  "source_id": "curated:c"
+ },
+ {
+  "id": "cef7e065-305b-594c-a7b4-ce7d8cd6dfda",
+  "key": "cpp",
+  "name": "C++",
+  "name_bn": "সি++",
+  "category": "programming",
+  "aliases": [
+   "cplusplus",
+   "c plus plus"
+  ],
+  "source_id": "curated:cpp"
+ },
+ {
+  "id": "2897d39c-e1bd-5cb9-af51-59534037a4a3",
+  "key": "csharp",
+  "name": "C#",
+  "name_bn": "সি শার্প",
+  "category": "programming",
+  "aliases": [
+   "c sharp",
+   ".net",
+   "csharp"
+  ],
+  "source_id": "curated:csharp"
+ },
+ {
+  "id": "6d3ef5dc-0c15-5923-ba1a-dadbff537e4d",
+  "key": "php",
+  "name": "PHP",
+  "name_bn": "পিএইচপি",
+  "category": "programming",
+  "aliases": [],
+  "source_id": "curated:php"
+ },
+ {
+  "id": "fe87ccd6-a9bd-5d12-a071-681b70019784",
+  "key": "ruby",
+  "name": "Ruby",
+  "name_bn": "রুবি",
+  "category": "programming",
+  "aliases": [],
+  "source_id": "curated:ruby"
+ },
+ {
+  "id": "ef500d40-57bc-5fa3-8c44-581a8a40d1a9",
+  "key": "go",
+  "name": "Go",
+  "name_bn": "গো",
+  "category": "programming",
+  "aliases": [
+   "golang"
+  ],
+  "source_id": "curated:go"
+ },
+ {
+  "id": "0bcf9685-bb9b-5129-a351-c1ff4ccada69",
+  "key": "rust",
+  "name": "Rust",
+  "name_bn": "রাস্ট",
+  "category": "programming",
+  "aliases": [],
+  "source_id": "curated:rust"
+ },
+ {
+  "id": "de9c090c-88a0-539f-a88b-d718d28716d6",
+  "key": "kotlin",
+  "name": "Kotlin",
+  "name_bn": "কটলিন",
+  "category": "programming",
+  "aliases": [
+   "kotlin android"
+  ],
+  "source_id": "curated:kotlin"
+ },
+ {
+  "id": "65ce447a-e6a1-5624-b889-a330ad1ad02e",
+  "key": "swift",
+  "name": "Swift",
+  "name_bn": "সুইফট",
+  "category": "programming",
+  "aliases": [],
+  "source_id": "curated:swift"
+ },
+ {
+  "id": "94e65b26-ce85-57d5-a5bf-997ca7bca6e9",
+  "key": "r",
+  "name": "R",
+  "name_bn": "আর",
+  "category": "programming",
+  "aliases": [
+   "r language"
+  ],
+  "source_id": "curated:r"
+ },
+ {
+  "id": "c5bf2700-2ea8-54a3-85b6-aa341665223a",
+  "key": "matlab",
+  "name": "MATLAB",
+  "name_bn": "ম্যাটল্যাব",
+  "category": "programming",
+  "aliases": [
+   "matlab"
+  ],
+  "source_id": "curated:matlab"
+ },
+ {
+  "id": "d7a99652-4b9d-5ae2-b2e9-f0e12cb5b30e",
+  "key": "scala",
+  "name": "Scala",
+  "name_bn": "স্কালা",
+  "category": "programming",
+  "aliases": [],
+  "source_id": "curated:scala"
+ },
+ {
+  "id": "011a85cb-c00d-5abf-a277-c8c3aa03413a",
+  "key": "dart",
+  "name": "Dart",
+  "name_bn": "ডার্ট",
+  "category": "programming",
+  "aliases": [],
+  "source_id": "curated:dart"
+ },
+ {
+  "id": "0e9b427b-7767-5ff6-a482-2b86a98bf125",
+  "key": "sql",
+  "name": "SQL",
+  "name_bn": "এসকিউএল",
+  "category": "programming",
+  "aliases": [
+   "structured query language"
+  ],
+  "source_id": "curated:sql"
+ },
+ {
+  "id": "28209e6e-171f-52b4-9fd2-60bffeff2a93",
+  "key": "html",
+  "name": "HTML",
+  "name_bn": "এইচটিএমএল",
+  "category": "programming",
+  "aliases": [
+   "html5"
+  ],
+  "source_id": "curated:html"
+ },
+ {
+  "id": "46fa1eff-deb7-5c26-94d2-102cfcdecaca",
+  "key": "css",
+  "name": "CSS",
+  "name_bn": "সিএসএস",
+  "category": "programming",
+  "aliases": [
+   "css3"
+  ],
+  "source_id": "curated:css"
+ },
+ {
+  "id": "666a8322-f389-58bf-84d7-7c984b262b02",
+  "key": "bash",
+  "name": "Bash / Shell scripting",
+  "name_bn": "ব্যাশ / শেল স্ক্রিপ্টিং",
+  "category": "programming",
+  "aliases": [
+   "shell",
+   "shell scripting",
+   "bash",
+   "bash scripting"
+  ],
+  "source_id": "curated:bash"
+ },
+ {
+  "id": "ce6c9674-4309-5d4e-bc63-a1341e6bbf40",
+  "key": "powershell",
+  "name": "PowerShell",
+  "name_bn": "পাওয়ারশেল",
+  "category": "programming",
+  "aliases": [],
+  "source_id": "curated:powershell"
+ },
+ {
+  "id": "660d642d-bd93-5472-86ab-5fead52db55e",
+  "key": "perl",
+  "name": "Perl",
+  "name_bn": "পার্ল",
+  "category": "programming",
+  "aliases": [],
+  "source_id": "curated:perl"
+ },
+ {
+  "id": "7f58cd7e-6c23-5503-98d3-91484c8209e3",
+  "key": "objective-c",
+  "name": "Objective-C",
+  "name_bn": "অবজেক্টিভ-সি",
+  "category": "programming",
+  "aliases": [],
+  "source_id": "curated:objective-c"
+ },
+ {
+  "id": "0dedf1b4-5bb5-5d55-8730-bbc36936e84d",
+  "key": "solidity",
+  "name": "Solidity",
+  "name_bn": "সলিডিটি",
+  "category": "programming",
+  "aliases": [],
+  "source_id": "curated:solidity"
+ },
+ {
+  "id": "acacb29f-ae41-578c-9e37-e1041ae48e42",
+  "key": "react",
+  "name": "React",
+  "name_bn": "রিঅ্যাক্ট",
+  "category": "frontend",
+  "aliases": [
+   "reactjs",
+   "react.js"
+  ],
+  "source_id": "curated:react"
+ },
+ {
+  "id": "e103ebb8-2e5f-53fa-98ca-dfedccccea41",
+  "key": "nextjs",
+  "name": "Next.js",
+  "name_bn": "নেক্সট.জেএস",
+  "category": "frontend",
+  "aliases": [
+   "next"
+  ],
+  "source_id": "curated:nextjs"
+ },
+ {
+  "id": "ea11e0b7-c9ee-5973-b73e-5a6763b3524b",
+  "key": "vue",
+  "name": "Vue.js",
+  "name_bn": "ভিউ.জেএস",
+  "category": "frontend",
+  "aliases": [
+   "vuejs"
+  ],
+  "source_id": "curated:vue"
+ },
+ {
+  "id": "bc0da4c8-f021-5a5d-843c-c2aeb10c6d73",
+  "key": "angular",
+  "name": "Angular",
+  "name_bn": "অ্যাঙ্গুলার",
+  "category": "frontend",
+  "aliases": [
+   "angularjs"
+  ],
+  "source_id": "curated:angular"
+ },
+ {
+  "id": "56712ee6-2d88-55fc-9f69-47cb1cf73b93",
+  "key": "svelte",
+  "name": "Svelte",
+  "name_bn": "সভেল্ট",
+  "category": "frontend",
+  "aliases": [
+   "sveltekit"
+  ],
+  "source_id": "curated:svelte"
+ },
+ {
+  "id": "ad11bedd-fbfb-5223-829e-de8464635956",
+  "key": "tailwind",
+  "name": "Tailwind CSS",
+  "name_bn": "টেইলউইন্ড সিএসএস",
+  "category": "frontend",
+  "aliases": [
+   "tailwindcss"
+  ],
+  "source_id": "curated:tailwind"
+ },
+ {
+  "id": "298ff127-367e-5130-94e4-bf167264fb66",
+  "key": "bootstrap",
+  "name": "Bootstrap",
+  "name_bn": "বুটস্ট্র্যাপ",
+  "category": "frontend",
+  "aliases": [],
+  "source_id": "curated:bootstrap"
+ },
+ {
+  "id": "fc166256-ddf7-518f-80b1-820a209bc6bf",
+  "key": "jquery",
+  "name": "jQuery",
+  "name_bn": "জেকুয়েরি",
+  "category": "frontend",
+  "aliases": [],
+  "source_id": "curated:jquery"
+ },
+ {
+  "id": "48136dcf-3181-5adf-8799-f081c4589f0f",
+  "key": "redux",
+  "name": "Redux",
+  "name_bn": "রিডাক্স",
+  "category": "frontend",
+  "aliases": [
+   "state management"
+  ],
+  "source_id": "curated:redux"
+ },
+ {
+  "id": "dd58baec-a2a5-5d65-b8e7-c7fdd0569a3c",
+  "key": "webpack",
+  "name": "Webpack",
+  "name_bn": "ওয়েবপ্যাক",
+  "category": "frontend",
+  "aliases": [],
+  "source_id": "curated:webpack"
+ },
+ {
+  "id": "39705f2c-44ac-58cf-b29c-4c601c03ca0a",
+  "key": "vite",
+  "name": "Vite",
+  "name_bn": "ভিট",
+  "category": "frontend",
+  "aliases": [],
+  "source_id": "curated:vite"
+ },
+ {
+  "id": "842ce3e7-32b4-57cf-aabc-5c174dd4341b",
+  "key": "sass",
+  "name": "Sass / SCSS",
+  "name_bn": "সাস / এসসিএসএস",
+  "category": "frontend",
+  "aliases": [
+   "scss",
+   "less"
+  ],
+  "source_id": "curated:sass"
+ },
+ {
+  "id": "fe2f2a03-5f8f-5211-8155-3fda74a6f5c0",
+  "key": "responsive-design",
+  "name": "Responsive design",
+  "name_bn": "রেসপনসিভ ডিজাইন",
+  "category": "frontend",
+  "aliases": [
+   "mobile-first"
+  ],
+  "source_id": "curated:responsive-design"
+ },
+ {
+  "id": "355ed118-7d15-5e9e-a6a0-4d58f813ed9f",
+  "key": "accessibility",
+  "name": "Web accessibility (WCAG)",
+  "name_bn": "ওয়েব অ্যাক্সেসিবিলিটি",
+  "category": "frontend",
+  "aliases": [
+   "wcag",
+   "a11y"
+  ],
+  "source_id": "curated:accessibility"
+ },
+ {
+  "id": "d716da00-9cd1-53e3-bdfa-b3dd6e116081",
+  "key": "pwa",
+  "name": "Progressive web apps",
+  "name_bn": "প্রগ্রেসিভ ওয়েব অ্যাপ",
+  "category": "frontend",
+  "aliases": [
+   "service workers"
+  ],
+  "source_id": "curated:pwa"
+ },
+ {
+  "id": "275e562c-82c5-5a64-a1c3-ee326f39c4a6",
+  "key": "graphql",
+  "name": "GraphQL",
+  "name_bn": "গ্রাফকিউএল",
+  "category": "frontend",
+  "aliases": [
+   "graph ql"
+  ],
+  "source_id": "curated:graphql"
+ },
+ {
+  "id": "4c9e6490-7701-5b4f-a89a-4e9472a3b845",
+  "key": "rest-api",
+  "name": "REST API design",
+  "name_bn": "রেস্ট এপিআই ডিজাইন",
+  "category": "frontend",
+  "aliases": [
+   "restful",
+   "api development",
+   "rest api",
+   "rest apis",
+   "restful api",
+   "rest api endpoints"
+  ],
+  "source_id": "curated:rest-api"
+ },
+ {
+  "id": "fd7d55c6-369a-5a36-a7ac-cbb480f732d5",
+  "key": "websockets",
+  "name": "WebSockets",
+  "name_bn": "ওয়েবসকেট",
+  "category": "frontend",
+  "aliases": [
+   "real-time"
+  ],
+  "source_id": "curated:websockets"
+ },
+ {
+  "id": "86f392ef-4121-553f-8859-7153cfb24a35",
+  "key": "threejs",
+  "name": "Three.js / WebGL",
+  "name_bn": "থ্রি.জেএস / ওয়েবজিএল",
+  "category": "frontend",
+  "aliases": [
+   "webgl"
+  ],
+  "source_id": "curated:threejs"
+ },
+ {
+  "id": "c08ce08f-190f-5b86-8b3d-0174590746c5",
+  "key": "framer-motion",
+  "name": "Animation libraries",
+  "name_bn": "অ্যানিমেশন লাইব্রেরি",
+  "category": "frontend",
+  "aliases": [
+   "framer motion",
+   "gsap"
+  ],
+  "source_id": "curated:framer-motion"
+ },
+ {
+  "id": "bc2d558b-4ac4-52b4-b850-487784e71adc",
+  "key": "nodejs",
+  "name": "Node.js",
+  "name_bn": "নোড.জেএস",
+  "category": "backend",
+  "aliases": [
+   "node",
+   "node js",
+   "nodejs"
+  ],
+  "source_id": "curated:nodejs"
+ },
+ {
+  "id": "ab7d8d1c-6957-5062-a9fe-a1f7962ac4bf",
+  "key": "express",
+  "name": "Express.js",
+  "name_bn": "এক্সপ্রেস.জেএস",
+  "category": "backend",
+  "aliases": [
+   "expressjs",
+   "express js"
+  ],
+  "source_id": "curated:express"
+ },
+ {
+  "id": "a551ef3c-100c-5bb3-b040-f398f07c6783",
+  "key": "django",
+  "name": "Django",
+  "name_bn": "জ্যাঙ্গো",
+  "category": "backend",
+  "aliases": [],
+  "source_id": "curated:django"
+ },
+ {
+  "id": "3bc6d9db-7380-5b72-849b-89aee9a5d993",
+  "key": "flask",
+  "name": "Flask",
+  "name_bn": "ফ্লাস্ক",
+  "category": "backend",
+  "aliases": [],
+  "source_id": "curated:flask"
+ },
+ {
+  "id": "f9b72be2-9e29-541e-a808-80dd3084b1e8",
+  "key": "fastapi",
+  "name": "FastAPI",
+  "name_bn": "ফাস্টএপিআই",
+  "category": "backend",
+  "aliases": [],
+  "source_id": "curated:fastapi"
+ },
+ {
+  "id": "c81cc74d-fa4e-53d4-bc5c-b85931eb5d16",
+  "key": "spring",
+  "name": "Spring / Spring Boot",
+  "name_bn": "স্প্রিং বুট",
+  "category": "backend",
+  "aliases": [
+   "spring boot",
+   "spring framework",
+   "spring mvc"
+  ],
+  "source_id": "curated:spring"
+ },
+ {
+  "id": "94ef198b-e3fd-502d-a1b2-777d62c7a35f",
+  "key": "laravel",
+  "name": "Laravel",
+  "name_bn": "লারাভেল",
+  "category": "backend",
+  "aliases": [],
+  "source_id": "curated:laravel"
+ },
+ {
+  "id": "2dc708e9-8c73-5256-97fa-5cc25366e117",
+  "key": "rails",
+  "name": "Ruby on Rails",
+  "name_bn": "রুবি অন রেইলস",
+  "category": "backend",
+  "aliases": [
+   "rails"
+  ],
+  "source_id": "curated:rails"
+ },
+ {
+  "id": "fc8c6fe8-b38a-518a-bf9d-aa91ddd37d21",
+  "key": "aspnet",
+  "name": "ASP.NET",
+  "name_bn": "এএসপি.নেট",
+  "category": "backend",
+  "aliases": [
+   ".net core"
+  ],
+  "source_id": "curated:aspnet"
+ },
+ {
+  "id": "c47ee342-a29f-51a2-beb4-0ceda2380dd6",
+  "key": "microservices",
+  "name": "Microservices architecture",
+  "name_bn": "মাইক্রোসার্ভিস আর্কিটেকচার",
+  "category": "backend",
+  "aliases": [],
+  "source_id": "curated:microservices"
+ },
+ {
+  "id": "c3e1b62c-dbdc-5ad8-9b91-cb57dad5ca8a",
+  "key": "serverless",
+  "name": "Serverless computing",
+  "name_bn": "সার্ভারলেস কম্পিউটিং",
+  "category": "backend",
+  "aliases": [
+   "lambda",
+   "cloud functions"
+  ],
+  "source_id": "curated:serverless"
+ },
+ {
+  "id": "11744771-4a1f-55d1-a258-27c799656963",
+  "key": "rabbitmq",
+  "name": "RabbitMQ",
+  "name_bn": "র‍্যাবিটএমকিউ",
+  "category": "backend",
+  "aliases": [
+   "message queues"
+  ],
+  "source_id": "curated:rabbitmq"
+ },
+ {
+  "id": "38c58c1e-55aa-5b81-8e5a-8c30af378b9f",
+  "key": "kafka",
+  "name": "Apache Kafka",
+  "name_bn": "অ্যাপাচে কাফকা",
+  "category": "backend",
+  "aliases": [
+   "event streaming"
+  ],
+  "source_id": "curated:kafka"
+ },
+ {
+  "id": "fdb5cfb9-ddde-578a-8572-bc9dc73d4d58",
+  "key": "grpc",
+  "name": "gRPC",
+  "name_bn": "জিআরপিসি",
+  "category": "backend",
+  "aliases": [],
+  "source_id": "curated:grpc"
+ },
+ {
+  "id": "9e91543b-c5c8-53c0-a089-d499cc0fdaaf",
+  "key": "authentication",
+  "name": "Authentication and authorisation",
+  "name_bn": "প্রমাণীকরণ ও অনুমোদন",
+  "category": "backend",
+  "aliases": [
+   "oauth",
+   "jwt",
+   "sso"
+  ],
+  "source_id": "curated:authentication"
+ },
+ {
+  "id": "1d0e10e0-ac74-53ef-943d-8d864b53b943",
+  "key": "redis",
+  "name": "Redis",
+  "name_bn": "রেডিস",
+  "category": "backend",
+  "aliases": [
+   "caching"
+  ],
+  "source_id": "curated:redis"
+ },
+ {
+  "id": "d7240490-8285-5fb9-bb34-bf205d854517",
+  "key": "unit-testing",
+  "name": "Unit testing",
+  "name_bn": "ইউনিট টেস্টিং",
+  "category": "backend",
+  "aliases": [
+   "jest",
+   "pytest",
+   "tdd",
+   "unit tests",
+   "unit test",
+   "unit testing"
+  ],
+  "source_id": "curated:unit-testing"
+ },
+ {
+  "id": "1fa53545-2e8f-5b4f-ab26-229e86c2956e",
+  "key": "debugging",
+  "name": "Debugging",
+  "name_bn": "ডিবাগিং",
+  "category": "backend",
+  "aliases": [
+   "troubleshooting"
+  ],
+  "source_id": "curated:debugging"
+ },
+ {
+  "id": "f9de4858-ad60-54bc-9a8b-f3e678093d08",
+  "key": "postgresql",
+  "name": "PostgreSQL",
+  "name_bn": "পোস্টগ্রেসকিউএল",
+  "category": "databases",
+  "aliases": [
+   "postgres"
+  ],
+  "source_id": "curated:postgresql"
+ },
+ {
+  "id": "29e1b92d-8e5a-53fc-9d10-3d88383b480f",
+  "key": "mysql",
+  "name": "MySQL",
+  "name_bn": "মাইএসকিউএল",
+  "category": "databases",
+  "aliases": [
+   "mariadb"
+  ],
+  "source_id": "curated:mysql"
+ },
+ {
+  "id": "be9bf965-ae5f-50cb-8257-4c79ee5e0568",
+  "key": "mongodb",
+  "name": "MongoDB",
+  "name_bn": "মঙ্গোডিবি",
+  "category": "databases",
+  "aliases": [
+   "nosql"
+  ],
+  "source_id": "curated:mongodb"
+ },
+ {
+  "id": "a8ef01f6-fc23-5db6-bd02-6eacb05ef174",
+  "key": "sqlite",
+  "name": "SQLite",
+  "name_bn": "এসকিউলাইট",
+  "category": "databases",
+  "aliases": [],
+  "source_id": "curated:sqlite"
+ },
+ {
+  "id": "8076884e-426e-5832-a339-d9672da2a539",
+  "key": "elasticsearch",
+  "name": "Elasticsearch",
+  "name_bn": "ইলাস্টিকসার্চ",
+  "category": "databases",
+  "aliases": [
+   "search engines"
+  ],
+  "source_id": "curated:elasticsearch"
+ },
+ {
+  "id": "56e4c5da-be71-568d-a09c-0ef65820e096",
+  "key": "oracle-db",
+  "name": "Oracle Database",
+  "name_bn": "ওরাকল ডেটাবেস",
+  "category": "databases",
+  "aliases": [
+   "oracle"
+  ],
+  "source_id": "curated:oracle-db"
+ },
+ {
+  "id": "550a24ca-1fca-59f7-9a30-b009c0faac84",
+  "key": "sql-server",
+  "name": "Microsoft SQL Server",
+  "name_bn": "এমএস এসকিউএল সার্ভার",
+  "category": "databases",
+  "aliases": [
+   "mssql"
+  ],
+  "source_id": "curated:sql-server"
+ },
+ {
+  "id": "472b9371-5a56-58d1-8249-8306cfe978a3",
+  "key": "firebase",
+  "name": "Firebase",
+  "name_bn": "ফায়ারবেস",
+  "category": "databases",
+  "aliases": [
+   "firestore"
+  ],
+  "source_id": "curated:firebase"
+ },
+ {
+  "id": "80eaccef-d8e5-52ed-9554-2c06e2fc2a3c",
+  "key": "dynamodb",
+  "name": "DynamoDB",
+  "name_bn": "ডায়নামোডিবি",
+  "category": "databases",
+  "aliases": [],
+  "source_id": "curated:dynamodb"
+ },
+ {
+  "id": "e87a29d8-b5c6-55ca-b479-3f017268db0f",
+  "key": "cassandra",
+  "name": "Cassandra",
+  "name_bn": "ক্যাসান্ড্রা",
+  "category": "databases",
+  "aliases": [],
+  "source_id": "curated:cassandra"
+ },
+ {
+  "id": "e53a40bb-87e6-5c4e-8604-726c34e73143",
+  "key": "neo4j",
+  "name": "Neo4j",
+  "name_bn": "নিওফোরজে",
+  "category": "databases",
+  "aliases": [
+   "graph databases"
+  ],
+  "source_id": "curated:neo4j"
+ },
+ {
+  "id": "8a14116a-fce5-5195-af41-7d39fd41bd4f",
+  "key": "database-design",
+  "name": "Database design",
+  "name_bn": "ডেটাবেস ডিজাইন",
+  "category": "databases",
+  "aliases": [
+   "normalisation",
+   "schema design"
+  ],
+  "source_id": "curated:database-design"
+ },
+ {
+  "id": "a0e0126d-fc5a-5a15-9400-4b3c72597732",
+  "key": "aws",
+  "name": "Amazon Web Services",
+  "name_bn": "এডব্লিউএস",
+  "category": "cloud-devops",
+  "aliases": [
+   "amazon web services",
+   "aws"
+  ],
+  "source_id": "curated:aws"
+ },
+ {
+  "id": "3557371b-a7d0-51bc-8b30-e1c4570747cf",
+  "key": "azure",
+  "name": "Microsoft Azure",
+  "name_bn": "অ্যাজুর",
+  "category": "cloud-devops",
+  "aliases": [
+   "azure",
+   "microsoft azure"
+  ],
+  "source_id": "curated:azure"
+ },
+ {
+  "id": "af461e0a-d6fd-5227-bb79-778780424bc4",
+  "key": "gcp",
+  "name": "Google Cloud Platform",
+  "name_bn": "গুগল ক্লাউড",
+  "category": "cloud-devops",
+  "aliases": [
+   "google cloud",
+   "gcp"
+  ],
+  "source_id": "curated:gcp"
+ },
+ {
+  "id": "a8c9897e-fb3f-5414-8ba2-7657fd1b3546",
+  "key": "docker",
+  "name": "Docker",
+  "name_bn": "ডকার",
+  "category": "cloud-devops",
+  "aliases": [
+   "containers",
+   "docker",
+   "containerisation"
+  ],
+  "source_id": "curated:docker"
+ },
+ {
+  "id": "f933d27f-7bda-5970-847a-a10b58abbdf5",
+  "key": "kubernetes",
+  "name": "Kubernetes",
+  "name_bn": "কুবারনেটিস",
+  "category": "cloud-devops",
+  "aliases": [
+   "k8s"
+  ],
+  "source_id": "curated:kubernetes"
+ },
+ {
+  "id": "c69df5c7-2fbc-5cdd-bd3b-e03d2e3423c0",
+  "key": "terraform",
+  "name": "Terraform",
+  "name_bn": "টেরাফর্ম",
+  "category": "cloud-devops",
+  "aliases": [
+   "infrastructure as code"
+  ],
+  "source_id": "curated:terraform"
+ },
+ {
+  "id": "527c272d-f3b8-5b1d-907f-94a6230cfa39",
+  "key": "ansible",
+  "name": "Ansible",
+  "name_bn": "অ্যানসিবল",
+  "category": "cloud-devops",
+  "aliases": [
+   "configuration management"
+  ],
+  "source_id": "curated:ansible"
+ },
+ {
+  "id": "601b16e2-c225-540c-a301-bb5de108172d",
+  "key": "jenkins",
+  "name": "Jenkins",
+  "name_bn": "জেনকিন্স",
+  "category": "cloud-devops",
+  "aliases": [],
+  "source_id": "curated:jenkins"
+ },
+ {
+  "id": "afb34986-6a8b-575a-81da-61690253b4ff",
+  "key": "github-actions",
+  "name": "GitHub Actions",
+  "name_bn": "গিটহাব অ্যাকশন",
+  "category": "cloud-devops",
+  "aliases": [
+   "github actions ci"
+  ],
+  "source_id": "curated:github-actions"
+ },
+ {
+  "id": "e6c27885-2c35-5293-af52-1732c237052a",
+  "key": "cicd",
+  "name": "CI/CD pipelines",
+  "name_bn": "সিআই/সিডি পাইপলাইন",
+  "category": "cloud-devops",
+  "aliases": [
+   "continuous integration",
+   "ci/cd",
+   "ci cd",
+   "continuous delivery",
+   "continuous deployment"
+  ],
+  "source_id": "curated:cicd"
+ },
+ {
+  "id": "455548d3-901e-5c8e-926c-cb2de46847d8",
+  "key": "linux",
+  "name": "Linux administration",
+  "name_bn": "লিনাক্স প্রশাসন",
+  "category": "cloud-devops",
+  "aliases": [
+   "ubuntu",
+   "unix",
+   "linux",
+   "linux server"
+  ],
+  "source_id": "curated:linux"
+ },
+ {
+  "id": "d9c45e01-9675-575e-aaa3-dc7bd48ea9ad",
+  "key": "nginx",
+  "name": "Nginx",
+  "name_bn": "এনজিনক্স",
+  "category": "cloud-devops",
+  "aliases": [
+   "web servers",
+   "apache",
+   "nginx",
+   "reverse proxy"
+  ],
+  "source_id": "curated:nginx"
+ },
+ {
+  "id": "b3d74f4c-a7bb-5744-bc4d-31095862d2e8",
+  "key": "monitoring",
+  "name": "System monitoring",
+  "name_bn": "সিস্টেম মনিটরিং",
+  "category": "cloud-devops",
+  "aliases": [
+   "observability"
+  ],
+  "source_id": "curated:monitoring"
+ },
+ {
+  "id": "74957bcc-0e69-5797-9314-4cf295d49c0e",
+  "key": "prometheus",
+  "name": "Prometheus",
+  "name_bn": "প্রমিথিউস",
+  "category": "cloud-devops",
+  "aliases": [],
+  "source_id": "curated:prometheus"
+ },
+ {
+  "id": "277dbc3a-0fd8-56c8-8426-34d438be6dd3",
+  "key": "grafana",
+  "name": "Grafana",
+  "name_bn": "গ্রাফানা",
+  "category": "cloud-devops",
+  "aliases": [],
+  "source_id": "curated:grafana"
+ },
+ {
+  "id": "10d563b5-ce7f-5cbb-986a-a53962ac31ec",
+  "key": "cloud-security",
+  "name": "Cloud security",
+  "name_bn": "ক্লাউড নিরাপত্তা",
+  "category": "cloud-devops",
+  "aliases": [],
+  "source_id": "curated:cloud-security"
+ },
+ {
+  "id": "6b980727-01d7-5f80-a5c4-31c6662b0353",
+  "key": "backup-recovery",
+  "name": "Backup and disaster recovery",
+  "name_bn": "ব্যাকআপ ও ডিজাস্টার রিকভারি",
+  "category": "cloud-devops",
+  "aliases": [],
+  "source_id": "curated:backup-recovery"
+ },
+ {
+  "id": "bcbe802c-09f0-5766-82cc-104d690d1d60",
+  "key": "git",
+  "name": "Git / version control",
+  "name_bn": "গিট / ভার্সন কন্ট্রোল",
+  "category": "cloud-devops",
+  "aliases": [
+   "github",
+   "version control",
+   "git",
+   "git workflow",
+   "git workflows",
+   "source control"
+  ],
+  "source_id": "curated:git"
+ },
+ {
+  "id": "079e28ac-3170-57d1-aebc-ad1e3d20a264",
+  "key": "pandas",
+  "name": "pandas",
+  "name_bn": "পান্ডাস",
+  "category": "data-science",
+  "aliases": [],
+  "source_id": "curated:pandas"
+ },
+ {
+  "id": "278ec5b2-bc6f-55fa-baa3-383fe92e7d96",
+  "key": "numpy",
+  "name": "NumPy",
+  "name_bn": "নামপাই",
+  "category": "data-science",
+  "aliases": [],
+  "source_id": "curated:numpy"
+ },
+ {
+  "id": "98853150-7a6c-5eee-b6e8-0254e5386639",
+  "key": "scikit-learn",
+  "name": "scikit-learn",
+  "name_bn": "সাইকিট-লার্ন",
+  "category": "data-science",
+  "aliases": [
+   "sklearn"
+  ],
+  "source_id": "curated:scikit-learn"
+ },
+ {
+  "id": "ecf8f614-0010-5a32-bec6-a7403add90d7",
+  "key": "tensorflow",
+  "name": "TensorFlow",
+  "name_bn": "টেনসরফ্লো",
+  "category": "data-science",
+  "aliases": [],
+  "source_id": "curated:tensorflow"
+ },
+ {
+  "id": "edb0f3a2-82b9-5f02-b282-7a58aadd4e88",
+  "key": "pytorch",
+  "name": "PyTorch",
+  "name_bn": "পাইটর্চ",
+  "category": "data-science",
+  "aliases": [],
+  "source_id": "curated:pytorch"
+ },
+ {
+  "id": "331b6005-2d25-5ec9-89ea-4c4c8f834d89",
+  "key": "keras",
+  "name": "Keras",
+  "name_bn": "কেরাস",
+  "category": "data-science",
+  "aliases": [],
+  "source_id": "curated:keras"
+ },
+ {
+  "id": "057656c0-3e6e-59a3-8782-a92a1a94dd69",
+  "key": "jupyter",
+  "name": "Jupyter notebooks",
+  "name_bn": "জুপিটার নোটবুক",
+  "category": "data-science",
+  "aliases": [
+   "notebooks"
+  ],
+  "source_id": "curated:jupyter"
+ },
+ {
+  "id": "1604df5e-7409-5840-92a3-e9d2a982202f",
+  "key": "statistics",
+  "name": "Statistics",
+  "name_bn": "পরিসংখ্যান",
+  "category": "data-science",
+  "aliases": [
+   "statistical analysis",
+   "stats"
+  ],
+  "source_id": "curated:statistics"
+ },
+ {
+  "id": "609ef35b-0f35-5390-9586-fa6cd3cb2b46",
+  "key": "hypothesis-testing",
+  "name": "Hypothesis testing",
+  "name_bn": "অনুমান পরীক্ষণ",
+  "category": "data-science",
+  "aliases": [
+   "significance testing"
+  ],
+  "source_id": "curated:hypothesis-testing"
+ },
+ {
+  "id": "960ce8c9-eec4-5254-861d-48182b995462",
+  "key": "ab-testing",
+  "name": "A/B testing",
+  "name_bn": "এ/বি টেস্টিং",
+  "category": "data-science",
+  "aliases": [
+   "experiment design"
+  ],
+  "source_id": "curated:ab-testing"
+ },
+ {
+  "id": "76245e2b-1697-5a98-9dfc-67e47a0c29d3",
+  "key": "regression",
+  "name": "Regression analysis",
+  "name_bn": "রিগ্রেশন বিশ্লেষণ",
+  "category": "data-science",
+  "aliases": [
+   "linear regression",
+   "regression analysis",
+   "logistic regression"
+  ],
+  "source_id": "curated:regression"
+ },
+ {
+  "id": "a733b5cc-9eee-59b4-8625-a06098b34a9d",
+  "key": "time-series",
+  "name": "Time series analysis",
+  "name_bn": "টাইম সিরিজ বিশ্লেষণ",
+  "category": "data-science",
+  "aliases": [],
+  "source_id": "curated:time-series"
+ },
+ {
+  "id": "b7ce6086-d21b-55ab-8b4c-8787471349b6",
+  "key": "nlp",
+  "name": "Natural language processing",
+  "name_bn": "প্রাকৃতিক ভাষা প্রক্রিয়াকরণ",
+  "category": "data-science",
+  "aliases": [
+   "nlp",
+   "text mining"
+  ],
+  "source_id": "curated:nlp"
+ },
+ {
+  "id": "69d8b03a-70db-5d1c-bce4-d6a6ae974946",
+  "key": "computer-vision",
+  "name": "Computer vision",
+  "name_bn": "কম্পিউটার ভিশন",
+  "category": "data-science",
+  "aliases": [
+   "image processing",
+   "opencv"
+  ],
+  "source_id": "curated:computer-vision"
+ },
+ {
+  "id": "179308c3-f8b1-55cf-a198-84f7ebeceebe",
+  "key": "deep-learning",
+  "name": "Deep learning",
+  "name_bn": "ডিপ লার্নিং",
+  "category": "data-science",
+  "aliases": [
+   "neural networks"
+  ],
+  "source_id": "curated:deep-learning"
+ },
+ {
+  "id": "f6a5cf44-d1bf-5299-a09f-30ed7bfd955c",
+  "key": "llm-apps",
+  "name": "LLM application development",
+  "name_bn": "এলএলএম অ্যাপ তৈরি",
+  "category": "data-science",
+  "aliases": [
+   "llm",
+   "generative ai"
+  ],
+  "source_id": "curated:llm-apps"
+ },
+ {
+  "id": "883e256d-dda5-56c9-82de-cc35aaa8d849",
+  "key": "prompt-engineering",
+  "name": "Prompt engineering",
+  "name_bn": "প্রম্পট ইঞ্জিনিয়ারিং",
+  "category": "data-science",
+  "aliases": [],
+  "source_id": "curated:prompt-engineering"
+ },
+ {
+  "id": "a86adb28-2747-5991-92f2-fe7827941eba",
+  "key": "feature-engineering",
+  "name": "Feature engineering",
+  "name_bn": "ফিচার ইঞ্জিনিয়ারিং",
+  "category": "data-science",
+  "aliases": [],
+  "source_id": "curated:feature-engineering"
+ },
+ {
+  "id": "64267ee8-0ccf-5df8-b769-67a867ffece7",
+  "key": "model-evaluation",
+  "name": "Model evaluation",
+  "name_bn": "মডেল মূল্যায়ন",
+  "category": "data-science",
+  "aliases": [
+   "model validation"
+  ],
+  "source_id": "curated:model-evaluation"
+ },
+ {
+  "id": "d7779714-8ee2-5c13-a5ae-e466da0c719b",
+  "key": "mlops",
+  "name": "MLOps",
+  "name_bn": "এমএলঅপস",
+  "category": "data-science",
+  "aliases": [
+   "model deployment"
+  ],
+  "source_id": "curated:mlops"
+ },
+ {
+  "id": "fc7aedf4-0a7e-5a60-a9cd-20b9dd0b98cb",
+  "key": "data-pipelines",
+  "name": "Data pipelines",
+  "name_bn": "ডেটা পাইপলাইন",
+  "category": "data-science",
+  "aliases": [],
+  "source_id": "curated:data-pipelines"
+ },
+ {
+  "id": "89e1aa21-7a73-507a-ac8f-5269d2fe2b8e",
+  "key": "etl",
+  "name": "ETL processes",
+  "name_bn": "ইটিএল প্রক্রিয়া",
+  "category": "data-science",
+  "aliases": [
+   "data integration"
+  ],
+  "source_id": "curated:etl"
+ },
+ {
+  "id": "92f5909f-f12e-54de-a656-5f65abfab8d3",
+  "key": "data-warehousing",
+  "name": "Data warehousing",
+  "name_bn": "ডেটা ওয়্যারহাউজিং",
+  "category": "data-science",
+  "aliases": [],
+  "source_id": "curated:data-warehousing"
+ },
+ {
+  "id": "88f846d2-f9c9-5069-9e59-7f5d3a2cb842",
+  "key": "bigquery",
+  "name": "BigQuery",
+  "name_bn": "বিগকুয়েরি",
+  "category": "data-science",
+  "aliases": [],
+  "source_id": "curated:bigquery"
+ },
+ {
+  "id": "ac0ad5f1-8f10-5b9d-99f3-8faa1dd417c5",
+  "key": "spark",
+  "name": "Apache Spark",
+  "name_bn": "অ্যাপাচে স্পার্ক",
+  "category": "data-science",
+  "aliases": [
+   "pyspark"
+  ],
+  "source_id": "curated:spark"
+ },
+ {
+  "id": "b6d0a289-b0e2-5950-ab4a-b1bfa66fe0d7",
+  "key": "hadoop",
+  "name": "Hadoop",
+  "name_bn": "হ্যাডুপ",
+  "category": "data-science",
+  "aliases": [
+   "hdfs"
+  ],
+  "source_id": "curated:hadoop"
+ },
+ {
+  "id": "acd41313-f443-5467-9e97-b0f263bd33c8",
+  "key": "airflow",
+  "name": "Apache Airflow",
+  "name_bn": "অ্যাপাচে এয়ারফ্লো",
+  "category": "data-science",
+  "aliases": [
+   "orchestration"
+  ],
+  "source_id": "curated:airflow"
+ },
+ {
+  "id": "e85bb1c3-96d7-52c9-92be-5af22823d9f6",
+  "key": "dbt",
+  "name": "dbt",
+  "name_bn": "ডিবিটি",
+  "category": "data-science",
+  "aliases": [],
+  "source_id": "curated:dbt"
+ },
+ {
+  "id": "4e8f8d80-2139-5e8c-82da-e418cf19e3d4",
+  "key": "web-scraping",
+  "name": "Web scraping",
+  "name_bn": "ওয়েব স্ক্র্যাপিং",
+  "category": "data-science",
+  "aliases": [
+   "crawling"
+  ],
+  "source_id": "curated:web-scraping"
+ },
+ {
+  "id": "1cd29bfc-6b5e-5ca3-a037-34010dca01e8",
+  "key": "data-cleaning",
+  "name": "Data cleaning",
+  "name_bn": "ডেটা পরিষ্কারকরণ",
+  "category": "data-science",
+  "aliases": [
+   "data wrangling",
+   "data analysis",
+   "data analytics",
+   "analysing data",
+   "analyzing data",
+   "data interpretation"
+  ],
+  "source_id": "curated:data-cleaning"
+ },
+ {
+  "id": "481b2dc0-edcb-5767-88ce-c62756a83d44",
+  "key": "power-bi",
+  "name": "Power BI",
+  "name_bn": "পাওয়ার বিআই",
+  "category": "analytics-bi",
+  "aliases": [
+   "power bi",
+   "powerbi"
+  ],
+  "source_id": "curated:power-bi"
+ },
+ {
+  "id": "9411d30f-4af4-5983-a187-f9cf72744fa9",
+  "key": "tableau",
+  "name": "Tableau",
+  "name_bn": "ট্যাবলো",
+  "category": "analytics-bi",
+  "aliases": [],
+  "source_id": "curated:tableau"
+ },
+ {
+  "id": "cc0b93f3-cd1e-5ec4-9e19-7996a4737360",
+  "key": "looker-studio",
+  "name": "Looker Studio",
+  "name_bn": "লুকার স্টুডিও",
+  "category": "analytics-bi",
+  "aliases": [
+   "google data studio",
+   "data studio"
+  ],
+  "source_id": "curated:looker-studio"
+ },
+ {
+  "id": "74d93e95-fe0c-5eaf-8d65-fcfec6423eff",
+  "key": "metabase",
+  "name": "Metabase",
+  "name_bn": "মেটাবেস",
+  "category": "analytics-bi",
+  "aliases": [],
+  "source_id": "curated:metabase"
+ },
+ {
+  "id": "74904b5d-6b94-5bba-b7ac-d0034394478b",
+  "key": "excel",
+  "name": "Microsoft Excel",
+  "name_bn": "মাইক্রোসফট এক্সেল",
+  "category": "analytics-bi",
+  "aliases": [
+   "spreadsheets",
+   "excel",
+   "ms excel",
+   "pivot tables",
+   "pivot table",
+   "vlookup",
+   "vba"
+  ],
+  "source_id": "curated:excel"
+ },
+ {
+  "id": "d0514ce6-f1ee-589f-ab54-5bdb14d6caec",
+  "key": "google-sheets",
+  "name": "Google Sheets",
+  "name_bn": "গুগল শিট",
+  "category": "analytics-bi",
+  "aliases": [
+   "google sheet"
+  ],
+  "source_id": "curated:google-sheets"
+ },
+ {
+  "id": "28b81f9c-4caf-59f8-9c51-b0aa1accbfac",
+  "key": "matplotlib",
+  "name": "Matplotlib",
+  "name_bn": "ম্যাটপ্লটলিব",
+  "category": "analytics-bi",
+  "aliases": [],
+  "source_id": "curated:matplotlib"
+ },
+ {
+  "id": "b35e9581-42fd-51e8-a102-14e35c2b57a4",
+  "key": "seaborn",
+  "name": "Seaborn",
+  "name_bn": "সিবর্ন",
+  "category": "analytics-bi",
+  "aliases": [],
+  "source_id": "curated:seaborn"
+ },
+ {
+  "id": "c534d095-2ae9-5709-8c86-1f7a5890df10",
+  "key": "plotly",
+  "name": "Plotly",
+  "name_bn": "প্লটলি",
+  "category": "analytics-bi",
+  "aliases": [],
+  "source_id": "curated:plotly"
+ },
+ {
+  "id": "04463580-dcdc-5d93-ac4a-74adca2c2689",
+  "key": "d3",
+  "name": "D3.js",
+  "name_bn": "ডি৩.জেএস",
+  "category": "analytics-bi",
+  "aliases": [
+   "data visualisation code"
+  ],
+  "source_id": "curated:d3"
+ },
+ {
+  "id": "d26a4447-0f12-5024-bc29-e95732289799",
+  "key": "dashboards",
+  "name": "Dashboard design",
+  "name_bn": "ড্যাশবোর্ড ডিজাইন",
+  "category": "analytics-bi",
+  "aliases": [
+   "reporting dashboards"
+  ],
+  "source_id": "curated:dashboards"
+ },
+ {
+  "id": "f9a419fd-f7be-5dfe-a184-f4fb1b869ab0",
+  "key": "kpi-reporting",
+  "name": "KPI reporting",
+  "name_bn": "কেপিআই রিপোর্টিং",
+  "category": "analytics-bi",
+  "aliases": [
+   "management reporting"
+  ],
+  "source_id": "curated:kpi-reporting"
+ },
+ {
+  "id": "dc6afc4b-0301-509b-8d14-d61f3ad402f5",
+  "key": "figma",
+  "name": "Figma",
+  "name_bn": "ফিগমা",
+  "category": "design",
+  "aliases": [],
+  "source_id": "curated:figma"
+ },
+ {
+  "id": "2f0efb0b-c39a-51d3-83b0-047720fabaa9",
+  "key": "photoshop",
+  "name": "Adobe Photoshop",
+  "name_bn": "অ্যাডোবি ফটোশপ",
+  "category": "design",
+  "aliases": [
+   "photoshop"
+  ],
+  "source_id": "curated:photoshop"
+ },
+ {
+  "id": "84711083-8ea6-595a-ac85-a1306c477a61",
+  "key": "illustrator",
+  "name": "Adobe Illustrator",
+  "name_bn": "অ্যাডোবি ইলাস্ট্রেটর",
+  "category": "design",
+  "aliases": [
+   "illustrator"
+  ],
+  "source_id": "curated:illustrator"
+ },
+ {
+  "id": "e03dbd54-e6ed-5099-ba3b-aef8f7c8eab7",
+  "key": "indesign",
+  "name": "Adobe InDesign",
+  "name_bn": "অ্যাডোবি ইনডিজাইন",
+  "category": "design",
+  "aliases": [
+   "indesign"
+  ],
+  "source_id": "curated:indesign"
+ },
+ {
+  "id": "f538e46f-24c8-5b6e-8bdf-bd1a618396ce",
+  "key": "canva",
+  "name": "Canva",
+  "name_bn": "ক্যানভা",
+  "category": "design",
+  "aliases": [],
+  "source_id": "curated:canva"
+ },
+ {
+  "id": "3aa8cb1f-be41-5ad6-9ca1-3472bdfb6ebd",
+  "key": "xd",
+  "name": "Adobe XD",
+  "name_bn": "অ্যাডোবি এক্সডি",
+  "category": "design",
+  "aliases": [
+   "adobe xd"
+  ],
+  "source_id": "curated:xd"
+ },
+ {
+  "id": "f7aba1b4-b48b-5553-96a2-16e91a0f9a20",
+  "key": "sketch",
+  "name": "Sketch",
+  "name_bn": "স্কেচ",
+  "category": "design",
+  "aliases": [],
+  "source_id": "curated:sketch"
+ },
+ {
+  "id": "23b11ec5-330f-5c68-8903-e38be11218f5",
+  "key": "ui-design",
+  "name": "UI design",
+  "name_bn": "ইউআই ডিজাইন",
+  "category": "design",
+  "aliases": [
+   "interface design"
+  ],
+  "source_id": "curated:ui-design"
+ },
+ {
+  "id": "64b08f36-cddf-514a-838a-5ab4a542e241",
+  "key": "ux-research",
+  "name": "UX research",
+  "name_bn": "ইউএক্স গবেষণা",
+  "category": "design",
+  "aliases": [
+   "user research"
+  ],
+  "source_id": "curated:ux-research"
+ },
+ {
+  "id": "fe64a0db-938f-5060-9cac-d62b49cf726f",
+  "key": "wireframing",
+  "name": "Wireframing",
+  "name_bn": "ওয়্যারফ্রেমিং",
+  "category": "design",
+  "aliases": [
+   "mockups"
+  ],
+  "source_id": "curated:wireframing"
+ },
+ {
+  "id": "ade7874f-13a0-5425-85f3-ac1aba9c3aae",
+  "key": "prototyping",
+  "name": "Prototyping",
+  "name_bn": "প্রোটোটাইপিং",
+  "category": "design",
+  "aliases": [
+   "interactive prototypes"
+  ],
+  "source_id": "curated:prototyping"
+ },
+ {
+  "id": "02d15966-789d-541b-b944-ea596ad5bbe2",
+  "key": "design-systems",
+  "name": "Design systems",
+  "name_bn": "ডিজাইন সিস্টেম",
+  "category": "design",
+  "aliases": [
+   "component libraries"
+  ],
+  "source_id": "curated:design-systems"
+ },
+ {
+  "id": "448f0c42-68ed-5e44-9a30-5349f9a5afa1",
+  "key": "typography",
+  "name": "Typography",
+  "name_bn": "টাইপোগ্রাফি",
+  "category": "design",
+  "aliases": [
+   "font selection"
+  ],
+  "source_id": "curated:typography"
+ },
+ {
+  "id": "17c4da4b-0a24-533c-8ab9-3263648a8873",
+  "key": "color-theory",
+  "name": "Colour theory",
+  "name_bn": "রঙ তত্ত্ব",
+  "category": "design",
+  "aliases": [
+   "color theory"
+  ],
+  "source_id": "curated:color-theory"
+ },
+ {
+  "id": "6f0ba27d-005f-57f9-af80-f6f1d02e84e4",
+  "key": "branding",
+  "name": "Brand identity design",
+  "name_bn": "ব্র্যান্ড পরিচয় ডিজাইন",
+  "category": "design",
+  "aliases": [
+   "brand design",
+   "logo design"
+  ],
+  "source_id": "curated:branding"
+ },
+ {
+  "id": "ea0baafd-476f-5e46-9f65-521ee35bb6ce",
+  "key": "motion-graphics",
+  "name": "Motion graphics",
+  "name_bn": "মোশন গ্রাফিক্স",
+  "category": "design",
+  "aliases": [],
+  "source_id": "curated:motion-graphics"
+ },
+ {
+  "id": "c28feb1b-f381-5f70-ac2c-cd8864d12f2d",
+  "key": "premiere",
+  "name": "Adobe Premiere Pro",
+  "name_bn": "অ্যাডোবি প্রিমিয়ার প্রো",
+  "category": "media",
+  "aliases": [
+   "video editing",
+   "adobe premiere",
+   "premiere pro"
+  ],
+  "source_id": "curated:premiere"
+ },
+ {
+  "id": "54ff53ed-e77f-5e92-bbc8-95aee2da575c",
+  "key": "after-effects",
+  "name": "After Effects",
+  "name_bn": "আফটার এফেক্টস",
+  "category": "media",
+  "aliases": [],
+  "source_id": "curated:after-effects"
+ },
+ {
+  "id": "58bfe18d-5dde-5f89-ab93-42173ae19dcd",
+  "key": "resolve",
+  "name": "DaVinci Resolve",
+  "name_bn": "ডাভিঞ্চি রিজলভ",
+  "category": "media",
+  "aliases": [],
+  "source_id": "curated:resolve"
+ },
+ {
+  "id": "f59fa257-88ca-56c6-9753-b5bfce8cb90b",
+  "key": "audio-editing",
+  "name": "Audio editing",
+  "name_bn": "অডিও সম্পাদনা",
+  "category": "media",
+  "aliases": [
+   "audacity",
+   "sound editing"
+  ],
+  "source_id": "curated:audio-editing"
+ },
+ {
+  "id": "c94c76ef-1bcd-5eb6-92f1-ae8ba097595d",
+  "key": "animation",
+  "name": "Animation",
+  "name_bn": "অ্যানিমেশন",
+  "category": "media",
+  "aliases": [
+   "2d animation"
+  ],
+  "source_id": "curated:animation"
+ },
+ {
+  "id": "c0eaed41-ab47-5bdb-ac3b-222f6d457098",
+  "key": "visual-storytelling",
+  "name": "Visual storytelling",
+  "name_bn": "ভিজ্যুয়াল গল্প বলা",
+  "category": "media",
+  "aliases": [
+   "storyboarding"
+  ],
+  "source_id": "curated:visual-storytelling"
+ },
+ {
+  "id": "536951b6-f3ea-591c-a7ed-ab24a9d680d6",
+  "key": "voice-over",
+  "name": "Voice-over and narration",
+  "name_bn": "ভয়েস-ওভার ও বর্ণনা",
+  "category": "media",
+  "aliases": [],
+  "source_id": "curated:voice-over"
+ },
+ {
+  "id": "74feaed0-1c2a-5bc9-a083-d76465553dd5",
+  "key": "photography",
+  "name": "Photography",
+  "name_bn": "ফটোগ্রাফি",
+  "category": "media",
+  "aliases": [],
+  "source_id": "curated:photography"
+ },
+ {
+  "id": "60c96133-cc0b-5494-b6e2-e70a1daeb1f9",
+  "key": "content-writing",
+  "name": "Content writing",
+  "name_bn": "কনটেন্ট লেখা",
+  "category": "writing",
+  "aliases": [
+   "article writing"
+  ],
+  "source_id": "curated:content-writing"
+ },
+ {
+  "id": "26ed28ab-69ff-5cda-b6ca-90459a33f894",
+  "key": "copywriting",
+  "name": "Copywriting",
+  "name_bn": "কপিরাইটিং",
+  "category": "writing",
+  "aliases": [
+   "ad copy"
+  ],
+  "source_id": "curated:copywriting"
+ },
+ {
+  "id": "16173827-22d7-5b86-a618-ff499c7ace23",
+  "key": "technical-writing",
+  "name": "Technical writing",
+  "name_bn": "টেকনিক্যাল লেখা",
+  "category": "writing",
+  "aliases": [
+   "documentation writing"
+  ],
+  "source_id": "curated:technical-writing"
+ },
+ {
+  "id": "0e77479f-e9ca-5c72-a512-2d18f271ba32",
+  "key": "editing",
+  "name": "Editing",
+  "name_bn": "সম্পাদনা",
+  "category": "writing",
+  "aliases": [
+   "line editing"
+  ],
+  "source_id": "curated:editing"
+ },
+ {
+  "id": "514de2e8-0ac7-5632-8e1e-a8fb77311f29",
+  "key": "proofreading",
+  "name": "Proofreading",
+  "name_bn": "প্রুফরিডিং",
+  "category": "writing",
+  "aliases": [
+   "grammar checking"
+  ],
+  "source_id": "curated:proofreading"
+ },
+ {
+  "id": "cf91b594-77ac-5161-a962-d544fe4ff54a",
+  "key": "seo-writing",
+  "name": "SEO writing",
+  "name_bn": "এসইও লেখা",
+  "category": "writing",
+  "aliases": [
+   "search-optimised writing"
+  ],
+  "source_id": "curated:seo-writing"
+ },
+ {
+  "id": "eb520d63-bed8-5096-bd42-258db667458f",
+  "key": "script-writing",
+  "name": "Script writing",
+  "name_bn": "স্ক্রিপ্ট লেখা",
+  "category": "writing",
+  "aliases": [
+   "scriptwriting"
+  ],
+  "source_id": "curated:script-writing"
+ },
+ {
+  "id": "c785576a-f87a-54cc-ab30-929517d90eb2",
+  "key": "grant-writing",
+  "name": "Grant and proposal writing",
+  "name_bn": "অনুদান ও প্রস্তাব লেখা",
+  "category": "writing",
+  "aliases": [
+   "proposal writing"
+  ],
+  "source_id": "curated:grant-writing"
+ },
+ {
+  "id": "0292878e-6d73-5988-b43a-3170d0ef8523",
+  "key": "report-writing",
+  "name": "Report writing",
+  "name_bn": "প্রতিবেদন লেখা",
+  "category": "writing",
+  "aliases": [],
+  "source_id": "curated:report-writing"
+ },
+ {
+  "id": "36ef63b4-ef5b-581e-b009-9a98dd9ff7a5",
+  "key": "social-copy",
+  "name": "Social media copy",
+  "name_bn": "সোশ্যাল মিডিয়া কপি",
+  "category": "writing",
+  "aliases": [
+   "caption writing"
+  ],
+  "source_id": "curated:social-copy"
+ },
+ {
+  "id": "fe0276fe-6705-5efb-9761-5799995cd286",
+  "key": "transcription",
+  "name": "Transcription",
+  "name_bn": "ট্রান্সক্রিপশন",
+  "category": "writing",
+  "aliases": [
+   "transcribing"
+  ],
+  "source_id": "curated:transcription"
+ },
+ {
+  "id": "a10e5a2e-a177-5d3b-8f48-c7af386a46a7",
+  "key": "documentation",
+  "name": "Documentation",
+  "name_bn": "ডকুমেন্টেশন",
+  "category": "writing",
+  "aliases": [
+   "knowledge base"
+  ],
+  "source_id": "curated:documentation"
+ },
+ {
+  "id": "0f2d5349-a4a8-5ec9-bbd6-297cc434c98c",
+  "key": "academic-writing",
+  "name": "Academic writing",
+  "name_bn": "একাডেমিক লেখা",
+  "category": "writing",
+  "aliases": [
+   "research papers"
+  ],
+  "source_id": "curated:academic-writing"
+ },
+ {
+  "id": "34e3a203-5151-5a10-8a93-53a50ebab6ea",
+  "key": "creative-writing",
+  "name": "Creative writing",
+  "name_bn": "সৃজনশীল লেখা",
+  "category": "writing",
+  "aliases": [],
+  "source_id": "curated:creative-writing"
+ },
+ {
+  "id": "8540d88e-1c65-54a1-9152-15495ae9157f",
+  "key": "seo",
+  "name": "Search engine optimisation",
+  "name_bn": "সার্চ ইঞ্জিন অপটিমাইজেশন",
+  "category": "marketing",
+  "aliases": [
+   "seo",
+   "search engine optimisation",
+   "search engine optimization"
+  ],
+  "source_id": "curated:seo"
+ },
+ {
+  "id": "1a62969b-43a9-56eb-9138-770f76e3381a",
+  "key": "sem",
+  "name": "Search engine marketing",
+  "name_bn": "সার্চ ইঞ্জিন মার্কেটিং",
+  "category": "marketing",
+  "aliases": [
+   "ppc",
+   "paid search"
+  ],
+  "source_id": "curated:sem"
+ },
+ {
+  "id": "3ce6da9a-4324-5a06-bc6f-29c4dd4e5d22",
+  "key": "google-ads",
+  "name": "Google Ads",
+  "name_bn": "গুগল অ্যাডস",
+  "category": "marketing",
+  "aliases": [
+   "adwords"
+  ],
+  "source_id": "curated:google-ads"
+ },
+ {
+  "id": "73bd5ec7-6665-5eea-a973-169e9c23cd79",
+  "key": "facebook-ads",
+  "name": "Facebook and Instagram ads",
+  "name_bn": "ফেসবুক ও ইনস্টাগ্রাম অ্যাডস",
+  "category": "marketing",
+  "aliases": [
+   "meta ads"
+  ],
+  "source_id": "curated:facebook-ads"
+ },
+ {
+  "id": "578cdb0c-a707-5da4-b82c-2f4dd91b243a",
+  "key": "social-media-marketing",
+  "name": "Social media marketing",
+  "name_bn": "সোশ্যাল মিডিয়া মার্কেটিং",
+  "category": "marketing",
+  "aliases": [
+   "smm",
+   "social media marketing"
+  ],
+  "source_id": "curated:social-media-marketing"
+ },
+ {
+  "id": "b761bed2-8774-5702-9af3-f705e1d4201e",
+  "key": "email-marketing",
+  "name": "Email marketing",
+  "name_bn": "ইমেইল মার্কেটিং",
+  "category": "marketing",
+  "aliases": [
+   "newsletters",
+   "mailchimp"
+  ],
+  "source_id": "curated:email-marketing"
+ },
+ {
+  "id": "939cbf33-6b41-5a13-a723-332dea25f31d",
+  "key": "content-marketing",
+  "name": "Content marketing",
+  "name_bn": "কনটেন্ট মার্কেটিং",
+  "category": "marketing",
+  "aliases": [
+   "content strategy"
+  ],
+  "source_id": "curated:content-marketing"
+ },
+ {
+  "id": "a814d2f4-43bd-53aa-84aa-a645feb112a3",
+  "key": "influencer-marketing",
+  "name": "Influencer marketing",
+  "name_bn": "ইনফ্লুয়েন্সার মার্কেটিং",
+  "category": "marketing",
+  "aliases": [],
+  "source_id": "curated:influencer-marketing"
+ },
+ {
+  "id": "51329c56-6a75-52b7-bbb2-b7feba469569",
+  "key": "marketing-analytics",
+  "name": "Marketing analytics",
+  "name_bn": "মার্কেটিং অ্যানালিটিক্স",
+  "category": "marketing",
+  "aliases": [
+   "campaign analytics"
+  ],
+  "source_id": "curated:marketing-analytics"
+ },
+ {
+  "id": "6dfcc637-852d-50b7-9a0c-4afe97909d5d",
+  "key": "google-analytics",
+  "name": "Google Analytics",
+  "name_bn": "গুগল অ্যানালিটিক্স",
+  "category": "marketing",
+  "aliases": [
+   "ga4",
+   "google analytics"
+  ],
+  "source_id": "curated:google-analytics"
+ },
+ {
+  "id": "332c9633-6be1-56a5-a712-45b40523614f",
+  "key": "facebook-pixel",
+  "name": "Meta Pixel and conversion tracking",
+  "name_bn": "মেটা পিক্সেল ও কনভার্সন ট্র্যাকিং",
+  "category": "marketing",
+  "aliases": [],
+  "source_id": "curated:facebook-pixel"
+ },
+ {
+  "id": "9b2c267f-e404-5013-90a0-d385edacbd29",
+  "key": "lead-generation",
+  "name": "Lead generation",
+  "name_bn": "লিড জেনারেশন",
+  "category": "marketing",
+  "aliases": [],
+  "source_id": "curated:lead-generation"
+ },
+ {
+  "id": "08d34243-0958-51b6-afce-067b1a0c1eec",
+  "key": "brand-management",
+  "name": "Brand management",
+  "name_bn": "ব্র্যান্ড ব্যবস্থাপনা",
+  "category": "marketing",
+  "aliases": [],
+  "source_id": "curated:brand-management"
+ },
+ {
+  "id": "ab00b772-15ab-557a-86f9-c93b886b2a0e",
+  "key": "market-research",
+  "name": "Market research",
+  "name_bn": "বাজার গবেষণা",
+  "category": "marketing",
+  "aliases": [
+   "consumer research",
+   "market research"
+  ],
+  "source_id": "curated:market-research"
+ },
+ {
+  "id": "d5d8f3ff-d019-5fcb-ade6-50befd1fc4b7",
+  "key": "campaign-management",
+  "name": "Campaign management",
+  "name_bn": "ক্যাম্পেইন ব্যবস্থাপনা",
+  "category": "marketing",
+  "aliases": [],
+  "source_id": "curated:campaign-management"
+ },
+ {
+  "id": "3ffc30dd-6992-537f-ab6d-d0b47666803d",
+  "key": "affiliate-marketing",
+  "name": "Affiliate marketing",
+  "name_bn": "অ্যাফিলিয়েট মার্কেটিং",
+  "category": "marketing",
+  "aliases": [],
+  "source_id": "curated:affiliate-marketing"
+ },
+ {
+  "id": "a78a8851-20ed-5595-bbf7-0decc2c92aef",
+  "key": "marketing-automation",
+  "name": "Marketing automation",
+  "name_bn": "মার্কেটিং অটোমেশন",
+  "category": "marketing",
+  "aliases": [
+   "hubspot"
+  ],
+  "source_id": "curated:marketing-automation"
+ },
+ {
+  "id": "2e70bc95-f62d-5629-bcbb-1e06a43359a1",
+  "key": "ecommerce-operations",
+  "name": "E-commerce operations",
+  "name_bn": "ই-কমার্স পরিচালনা",
+  "category": "marketing",
+  "aliases": [
+   "shopify",
+   "product listing"
+  ],
+  "source_id": "curated:ecommerce-operations"
+ },
+ {
+  "id": "8bb6f44c-267a-5245-9f10-0bb23df42515",
+  "key": "financial-accounting",
+  "name": "Financial accounting",
+  "name_bn": "আর্থিক হিসাববিজ্ঞান",
+  "category": "finance",
+  "aliases": [
+   "accounting"
+  ],
+  "source_id": "curated:financial-accounting"
+ },
+ {
+  "id": "488b01d9-57f9-508c-9d61-6eb010cb76b3",
+  "key": "management-accounting",
+  "name": "Management accounting",
+  "name_bn": "ব্যবস্থাপনা হিসাববিজ্ঞান",
+  "category": "finance",
+  "aliases": [
+   "cost accounting"
+  ],
+  "source_id": "curated:management-accounting"
+ },
+ {
+  "id": "d18c019e-681c-5456-8999-27f3db548a7f",
+  "key": "bookkeeping",
+  "name": "Bookkeeping",
+  "name_bn": "খতিয়ান রক্ষণ",
+  "category": "finance",
+  "aliases": [
+   "ledger"
+  ],
+  "source_id": "curated:bookkeeping"
+ },
+ {
+  "id": "6fa9a089-6aca-5c3f-b252-1c3c12367574",
+  "key": "tally",
+  "name": "Tally ERP",
+  "name_bn": "ট্যালি ইআরপি",
+  "category": "finance",
+  "aliases": [
+   "tally erp 9",
+   "tally"
+  ],
+  "source_id": "curated:tally"
+ },
+ {
+  "id": "6d0e38dd-3fcc-5bf9-894f-49557b95ecb3",
+  "key": "quickbooks",
+  "name": "QuickBooks",
+  "name_bn": "কুইকবুকস",
+  "category": "finance",
+  "aliases": [
+   "quick books"
+  ],
+  "source_id": "curated:quickbooks"
+ },
+ {
+  "id": "101ee13d-5ff0-5239-9546-0769ad3d6e7b",
+  "key": "financial-modelling",
+  "name": "Financial modelling",
+  "name_bn": "আর্থিক মডেলিং",
+  "category": "finance",
+  "aliases": [
+   "excel modelling",
+   "financial model"
+  ],
+  "source_id": "curated:financial-modelling"
+ },
+ {
+  "id": "e482a71b-1f46-5c87-9262-a59b7c2d3c71",
+  "key": "financial-reporting",
+  "name": "Financial reporting",
+  "name_bn": "আর্থিক প্রতিবেদন",
+  "category": "finance",
+  "aliases": [
+   "balance sheet"
+  ],
+  "source_id": "curated:financial-reporting"
+ },
+ {
+  "id": "b05c2926-dba5-5f22-ba98-cdb428a32b00",
+  "key": "budgeting",
+  "name": "Budgeting",
+  "name_bn": "বাজেট প্রণয়ন",
+  "category": "finance",
+  "aliases": [
+   "budget preparation"
+  ],
+  "source_id": "curated:budgeting"
+ },
+ {
+  "id": "c15cecfc-4b2d-56da-bd02-3e823f607308",
+  "key": "financial-forecasting",
+  "name": "Financial forecasting",
+  "name_bn": "আর্থিক পূর্বাভাস",
+  "category": "finance",
+  "aliases": [],
+  "source_id": "curated:financial-forecasting"
+ },
+ {
+  "id": "592e2463-1649-502c-849c-ab9555b11c42",
+  "key": "auditing",
+  "name": "Auditing",
+  "name_bn": "নিরীক্ষা",
+  "category": "finance",
+  "aliases": [
+   "internal audit"
+  ],
+  "source_id": "curated:auditing"
+ },
+ {
+  "id": "02eda977-63c7-5031-bae6-1ac145fd0de7",
+  "key": "taxation",
+  "name": "Taxation",
+  "name_bn": "কর বিষয়ক",
+  "category": "finance",
+  "aliases": [
+   "income tax"
+  ],
+  "source_id": "curated:taxation"
+ },
+ {
+  "id": "76d468d1-e0e0-58bc-888e-b27826a8f7f4",
+  "key": "vat",
+  "name": "VAT and customs duty",
+  "name_bn": "ভ্যাট ও শুল্ক",
+  "category": "finance",
+  "aliases": [
+   "value added tax"
+  ],
+  "source_id": "curated:vat"
+ },
+ {
+  "id": "9da7bdb8-b236-555e-a3c4-5a4cc8c7b5be",
+  "key": "payroll",
+  "name": "Payroll processing",
+  "name_bn": "বেতন প্রক্রিয়াকরণ",
+  "category": "finance",
+  "aliases": [],
+  "source_id": "curated:payroll"
+ },
+ {
+  "id": "87f7f665-2328-5577-9005-bd64b51266e8",
+  "key": "reconciliation",
+  "name": "Bank reconciliation",
+  "name_bn": "ব্যাংক রিকনসিলিয়েশন",
+  "category": "finance",
+  "aliases": [],
+  "source_id": "curated:reconciliation"
+ },
+ {
+  "id": "cbbe19f0-dec9-5075-ae43-e676460b558e",
+  "key": "ifrs",
+  "name": "IFRS and accounting standards",
+  "name_bn": "আইএফআরএস ও হিসাব মান",
+  "category": "finance",
+  "aliases": [
+   "gaap"
+  ],
+  "source_id": "curated:ifrs"
+ },
+ {
+  "id": "5addd3d5-4c27-5f64-bba4-a17cb07546c4",
+  "key": "ratio-analysis",
+  "name": "Financial ratio analysis",
+  "name_bn": "আর্থিক অনুপাত বিশ্লেষণ",
+  "category": "finance",
+  "aliases": [],
+  "source_id": "curated:ratio-analysis"
+ },
+ {
+  "id": "5f0e0052-aa93-592a-bc5f-5719de82b345",
+  "key": "investment-analysis",
+  "name": "Investment analysis",
+  "name_bn": "বিনিয়োগ বিশ্লেষণ",
+  "category": "finance",
+  "aliases": [
+   "valuation"
+  ],
+  "source_id": "curated:investment-analysis"
+ },
+ {
+  "id": "f98aab84-e7c3-5ab2-98db-7532be9102ca",
+  "key": "risk-analysis",
+  "name": "Risk analysis",
+  "name_bn": "ঝুঁকি বিশ্লেষণ",
+  "category": "finance",
+  "aliases": [
+   "risk assessment"
+  ],
+  "source_id": "curated:risk-analysis"
+ },
+ {
+  "id": "5e4bf5d9-1cb1-5b33-b014-f355505719ad",
+  "key": "kyc",
+  "name": "KYC and customer due diligence",
+  "name_bn": "কেওয়াইসি ও গ্রাহক যাচাই",
+  "category": "banking",
+  "aliases": [
+   "know your customer"
+  ],
+  "source_id": "curated:kyc"
+ },
+ {
+  "id": "f2fe25cf-9d0b-5451-b8d7-9a2c0159fb85",
+  "key": "credit-analysis",
+  "name": "Credit analysis",
+  "name_bn": "ঋণ বিশ্লেষণ",
+  "category": "banking",
+  "aliases": [
+   "credit appraisal"
+  ],
+  "source_id": "curated:credit-analysis"
+ },
+ {
+  "id": "46327855-7656-5566-84ac-476f0a0becfb",
+  "key": "loan-processing",
+  "name": "Loan processing",
+  "name_bn": "ঋণ প্রক্রিয়াকরণ",
+  "category": "banking",
+  "aliases": [
+   "lending"
+  ],
+  "source_id": "curated:loan-processing"
+ },
+ {
+  "id": "ab22ed2b-592a-5044-8fb4-f78a9875b348",
+  "key": "retail-banking",
+  "name": "Retail banking operations",
+  "name_bn": "খুচরা ব্যাংকিং কার্যক্রম",
+  "category": "banking",
+  "aliases": [
+   "branch banking"
+  ],
+  "source_id": "curated:retail-banking"
+ },
+ {
+  "id": "fb0a323e-0122-57cb-a7d0-042762a43ba4",
+  "key": "treasury",
+  "name": "Treasury operations",
+  "name_bn": "ট্রেজারি কার্যক্রম",
+  "category": "banking",
+  "aliases": [],
+  "source_id": "curated:treasury"
+ },
+ {
+  "id": "ba41a44f-e000-53bf-adf6-312fff3bbb64",
+  "key": "regulatory-compliance",
+  "name": "Regulatory compliance",
+  "name_bn": "নিয়ন্ত্রক সম্মতি",
+  "category": "banking",
+  "aliases": [
+   "compliance"
+  ],
+  "source_id": "curated:regulatory-compliance"
+ },
+ {
+  "id": "6667f03a-ba0c-5780-9cdd-023034e1a656",
+  "key": "aml",
+  "name": "Anti-money laundering",
+  "name_bn": "মানি লন্ডারিং প্রতিরোধ",
+  "category": "banking",
+  "aliases": [
+   "aml",
+   "sanctions screening"
+  ],
+  "source_id": "curated:aml"
+ },
+ {
+  "id": "2d07f074-7a3f-54aa-a154-b7e2eed49edb",
+  "key": "customer-onboarding",
+  "name": "Customer onboarding",
+  "name_bn": "গ্রাহক অনবোর্ডিং",
+  "category": "banking",
+  "aliases": [
+   "account opening"
+  ],
+  "source_id": "curated:customer-onboarding"
+ },
+ {
+  "id": "9d101b7e-4851-5cd9-ae9e-8ed72c87e998",
+  "key": "core-banking",
+  "name": "Core banking software",
+  "name_bn": "কোর ব্যাংকিং সফটওয়্যার",
+  "category": "banking",
+  "aliases": [
+   "cbs"
+  ],
+  "source_id": "curated:core-banking"
+ },
+ {
+  "id": "03c7504a-40d9-58f4-a1f5-e3fee5437ac4",
+  "key": "financial-regulation",
+  "name": "Banking regulation (Bangladesh Bank)",
+  "name_bn": "ব্যাংকিং নিয়মনীতি",
+  "category": "banking",
+  "aliases": [
+   "bangladesh bank"
+  ],
+  "source_id": "curated:financial-regulation"
+ },
+ {
+  "id": "69a1f422-4d3d-5170-a731-b3617f1f1515",
+  "key": "recruitment",
+  "name": "Recruitment and selection",
+  "name_bn": "নিয়োগ ও বাছাই",
+  "category": "hr",
+  "aliases": [
+   "talent acquisition",
+   "hiring"
+  ],
+  "source_id": "curated:recruitment"
+ },
+ {
+  "id": "d88548e5-db2a-5fe0-a7b8-50eb4de81b39",
+  "key": "interviewing",
+  "name": "Interviewing",
+  "name_bn": "সাক্ষাৎকার নেওয়া",
+  "category": "hr",
+  "aliases": [
+   "candidate screening"
+  ],
+  "source_id": "curated:interviewing"
+ },
+ {
+  "id": "c7d904a4-8c12-5f19-bef6-29ca91ee38b3",
+  "key": "onboarding",
+  "name": "Employee onboarding",
+  "name_bn": "কর্মী অনবোর্ডিং",
+  "category": "hr",
+  "aliases": [
+   "induction"
+  ],
+  "source_id": "curated:onboarding"
+ },
+ {
+  "id": "88ce6df3-4a2f-5c2f-9fb5-9abf7b9d774c",
+  "key": "performance-management",
+  "name": "Performance management",
+  "name_bn": "কর্মদক্ষতা ব্যবস্থাপনা",
+  "category": "hr",
+  "aliases": [
+   "appraisals"
+  ],
+  "source_id": "curated:performance-management"
+ },
+ {
+  "id": "da2e1b06-7391-5cbd-b221-e57a25741d73",
+  "key": "employee-relations",
+  "name": "Employee relations",
+  "name_bn": "কর্মী সম্পর্ক",
+  "category": "hr",
+  "aliases": [
+   "grievance handling"
+  ],
+  "source_id": "curated:employee-relations"
+ },
+ {
+  "id": "178cfe43-1d30-541d-a3c2-7f6d61f04d5b",
+  "key": "hris",
+  "name": "HR information systems",
+  "name_bn": "এইচআর তথ্য ব্যবস্থা",
+  "category": "hr",
+  "aliases": [
+   "hris software"
+  ],
+  "source_id": "curated:hris"
+ },
+ {
+  "id": "b32b07c5-9287-5858-9f07-f00287ad45c2",
+  "key": "training-development",
+  "name": "Training and development",
+  "name_bn": "প্রশিক্ষণ ও উন্নয়ন",
+  "category": "hr",
+  "aliases": [
+   "l&d"
+  ],
+  "source_id": "curated:training-development"
+ },
+ {
+  "id": "f32de2a6-31ec-50a8-9a1f-e6da445d6a55",
+  "key": "compensation-benefits",
+  "name": "Compensation and benefits",
+  "name_bn": "বেতন ও সুবিধা",
+  "category": "hr",
+  "aliases": [
+   "payroll admin"
+  ],
+  "source_id": "curated:compensation-benefits"
+ },
+ {
+  "id": "527f7d11-f13b-5f60-8352-948b5c688c63",
+  "key": "labour-law",
+  "name": "Labour law (Bangladesh)",
+  "name_bn": "শ্রম আইন",
+  "category": "hr",
+  "aliases": [
+   "labor law",
+   "bepza compliance"
+  ],
+  "source_id": "curated:labour-law"
+ },
+ {
+  "id": "623b13f7-1a67-5332-aec7-6336d9633c38",
+  "key": "conflict-resolution",
+  "name": "Conflict resolution",
+  "name_bn": "দ্বন্দ্ব নিষ্পত্তি",
+  "category": "hr",
+  "aliases": [
+   "mediation"
+  ],
+  "source_id": "curated:conflict-resolution"
+ },
+ {
+  "id": "eea91131-cd5a-5728-996f-7961c580a443",
+  "key": "hr-analytics",
+  "name": "HR analytics",
+  "name_bn": "এইচআর অ্যানালিটিক্স",
+  "category": "hr",
+  "aliases": [
+   "people analytics"
+  ],
+  "source_id": "curated:hr-analytics"
+ },
+ {
+  "id": "09b7f29b-15e3-5916-99c3-ade064b018e3",
+  "key": "organisational-development",
+  "name": "Organisational development",
+  "name_bn": "প্রাতিষ্ঠানিক উন্নয়ন",
+  "category": "hr",
+  "aliases": [],
+  "source_id": "curated:organisational-development"
+ },
+ {
+  "id": "cc2fe800-eefc-54a4-8acc-2464890dd6e8",
+  "key": "prospecting",
+  "name": "Prospecting",
+  "name_bn": "সম্ভাব্য ক্রেতা খোঁজা",
+  "category": "sales",
+  "aliases": [
+   "lead sourcing"
+  ],
+  "source_id": "curated:prospecting"
+ },
+ {
+  "id": "4c7db466-8aa1-5708-87e7-341f39936a12",
+  "key": "negotiation",
+  "name": "Negotiation",
+  "name_bn": "দর কষাকষি",
+  "category": "sales",
+  "aliases": [
+   "deal negotiation"
+  ],
+  "source_id": "curated:negotiation"
+ },
+ {
+  "id": "097d68bf-c08e-5c85-afc7-768d776cbe36",
+  "key": "cold-calling",
+  "name": "Cold calling",
+  "name_bn": "কোল্ড কলিং",
+  "category": "sales",
+  "aliases": [
+   "outbound calls"
+  ],
+  "source_id": "curated:cold-calling"
+ },
+ {
+  "id": "d00e411d-6ad5-5182-88bf-07893a576638",
+  "key": "client-relationship",
+  "name": "Client relationship management",
+  "name_bn": "ক্লায়েন্ট সম্পর্ক ব্যবস্থাপনা",
+  "category": "sales",
+  "aliases": [
+   "account management"
+  ],
+  "source_id": "curated:client-relationship"
+ },
+ {
+  "id": "834592c6-0e7f-560e-a9ea-64a5c13c84f3",
+  "key": "sales-presentations",
+  "name": "Sales presentations",
+  "name_bn": "বিক্রয় উপস্থাপনা",
+  "category": "sales",
+  "aliases": [
+   "pitching"
+  ],
+  "source_id": "curated:sales-presentations"
+ },
+ {
+  "id": "b488f4bc-38c5-5a25-8194-2aa8775f1c42",
+  "key": "closing",
+  "name": "Closing deals",
+  "name_bn": "চুক্তি সম্পন্ন করা",
+  "category": "sales",
+  "aliases": [
+   "deal closing"
+  ],
+  "source_id": "curated:closing"
+ },
+ {
+  "id": "1689a877-e3d3-50ca-879e-7891aa0f547b",
+  "key": "pipeline-management",
+  "name": "Sales pipeline management",
+  "name_bn": "বিক্রয় পাইপলাইন ব্যবস্থাপনা",
+  "category": "sales",
+  "aliases": [],
+  "source_id": "curated:pipeline-management"
+ },
+ {
+  "id": "2a515a41-6d1b-5718-b315-7473dcba6717",
+  "key": "territory-management",
+  "name": "Territory management",
+  "name_bn": "এলাকা ব্যবস্থাপনা",
+  "category": "sales",
+  "aliases": [
+   "route planning"
+  ],
+  "source_id": "curated:territory-management"
+ },
+ {
+  "id": "e485f32a-d364-5c83-b3df-6b7e206bb76f",
+  "key": "b2b-sales",
+  "name": "B2B sales",
+  "name_bn": "বিটুবি বিক্রয়",
+  "category": "sales",
+  "aliases": [
+   "corporate sales"
+  ],
+  "source_id": "curated:b2b-sales"
+ },
+ {
+  "id": "8d0abb26-686c-5dae-ab22-d5df35ce0a37",
+  "key": "retail-sales",
+  "name": "Retail sales",
+  "name_bn": "খুচরা বিক্রয়",
+  "category": "sales",
+  "aliases": [
+   "in-store sales",
+   "retail sales",
+   "showroom sales"
+  ],
+  "source_id": "curated:retail-sales"
+ },
+ {
+  "id": "4818f84b-5a4c-5fa7-b4b6-11eb190c67e7",
+  "key": "upselling",
+  "name": "Upselling and cross-selling",
+  "name_bn": "আপসেলিং ও ক্রস-সেলিং",
+  "category": "sales",
+  "aliases": [],
+  "source_id": "curated:upselling"
+ },
+ {
+  "id": "b6ce4518-7361-5e9c-bb93-04a16624f2c2",
+  "key": "after-sales",
+  "name": "After-sales service",
+  "name_bn": "বিক্রয়োত্তর সেবা",
+  "category": "sales",
+  "aliases": [
+   "customer follow-up"
+  ],
+  "source_id": "curated:after-sales"
+ },
+ {
+  "id": "3a67294f-9176-5a80-ae0b-60209641b331",
+  "key": "customer-support",
+  "name": "Customer support",
+  "name_bn": "গ্রাহক সহায়তা",
+  "category": "customer-service",
+  "aliases": [
+   "customer service",
+   "technical support",
+   "help desk",
+   "it support"
+  ],
+  "source_id": "curated:customer-support"
+ },
+ {
+  "id": "b5b4292f-eed1-595a-9185-3b7efc7d0285",
+  "key": "ticketing-systems",
+  "name": "Ticketing systems",
+  "name_bn": "টিকেটিং সিস্টেম",
+  "category": "customer-service",
+  "aliases": [
+   "zendesk",
+   "freshdesk"
+  ],
+  "source_id": "curated:ticketing-systems"
+ },
+ {
+  "id": "2af1fbb1-383b-55f3-840f-bcfdcbe567ac",
+  "key": "live-chat",
+  "name": "Live chat support",
+  "name_bn": "লাইভ চ্যাট সাপোর্ট",
+  "category": "customer-service",
+  "aliases": [
+   "chat support"
+  ],
+  "source_id": "curated:live-chat"
+ },
+ {
+  "id": "372aedf8-4f58-5b7c-b58f-9e584746e99b",
+  "key": "complaint-handling",
+  "name": "Complaint handling",
+  "name_bn": "অভিযোগ মোকাবেলা",
+  "category": "customer-service",
+  "aliases": [
+   "issue resolution"
+  ],
+  "source_id": "curated:complaint-handling"
+ },
+ {
+  "id": "9158832a-afb0-5cf5-b990-024ca56f93b4",
+  "key": "call-handling",
+  "name": "Call handling",
+  "name_bn": "কল গ্রহণ",
+  "category": "customer-service",
+  "aliases": [
+   "inbound calls"
+  ],
+  "source_id": "curated:call-handling"
+ },
+ {
+  "id": "a12e72db-4081-57d4-ad62-766f372bb058",
+  "key": "escalation-management",
+  "name": "Escalation management",
+  "name_bn": "এসকেলেশন ব্যবস্থাপনা",
+  "category": "customer-service",
+  "aliases": [
+   "escalations"
+  ],
+  "source_id": "curated:escalation-management"
+ },
+ {
+  "id": "31d53ada-8b42-5f02-9284-c0060fe13d64",
+  "key": "customer-satisfaction",
+  "name": "Customer satisfaction measurement",
+  "name_bn": "গ্রাহক সন্তুষ্টি পরিমাপ",
+  "category": "customer-service",
+  "aliases": [
+   "csat",
+   "nps"
+  ],
+  "source_id": "curated:customer-satisfaction"
+ },
+ {
+  "id": "6c8b00e8-0bff-5b6e-9873-b9b1bf138cb8",
+  "key": "sla-management",
+  "name": "SLA management",
+  "name_bn": "এসএলএ ব্যবস্থাপনা",
+  "category": "customer-service",
+  "aliases": [
+   "service levels"
+  ],
+  "source_id": "curated:sla-management"
+ },
+ {
+  "id": "5c4c7278-e75e-54df-84d4-72231fd7958e",
+  "key": "active-listening",
+  "name": "Active listening",
+  "name_bn": "মনোযোগ দিয়ে শোনা",
+  "category": "customer-service",
+  "aliases": [],
+  "source_id": "curated:active-listening"
+ },
+ {
+  "id": "f8191fac-7a92-5849-840a-8ed12d81ad4e",
+  "key": "call-scripting",
+  "name": "Call scripting and standard replies",
+  "name_bn": "কল স্ক্রিপ্ট ও প্রমিত উত্তর",
+  "category": "customer-service",
+  "aliases": [
+   "macros"
+  ],
+  "source_id": "curated:call-scripting"
+ },
+ {
+  "id": "a6ac9266-18d6-560d-9204-0f0361868e43",
+  "key": "multilingual-support",
+  "name": "Multilingual support (Bangla/English)",
+  "name_bn": "বহুভাষিক সহায়তা",
+  "category": "customer-service",
+  "aliases": [
+   "bangla english"
+  ],
+  "source_id": "curated:multilingual-support"
+ },
+ {
+  "id": "f84c8ef1-78e0-56fd-8c22-23d1968fee96",
+  "key": "service-recovery",
+  "name": "Service recovery",
+  "name_bn": "সেবা পুনরুদ্ধার",
+  "category": "customer-service",
+  "aliases": [
+   "retention calls"
+  ],
+  "source_id": "curated:service-recovery"
+ },
+ {
+  "id": "759a56bd-8f42-5cd1-bfeb-83dca9399d5b",
+  "key": "inventory-management",
+  "name": "Inventory management",
+  "name_bn": "মজুদ ব্যবস্থাপনা",
+  "category": "operations",
+  "aliases": [
+   "stock control"
+  ],
+  "source_id": "curated:inventory-management"
+ },
+ {
+  "id": "12a8b276-996f-5971-948e-47a50c4c4089",
+  "key": "procurement",
+  "name": "Procurement",
+  "name_bn": "ক্রয় কার্যক্রম",
+  "category": "operations",
+  "aliases": [
+   "purchasing"
+  ],
+  "source_id": "curated:procurement"
+ },
+ {
+  "id": "9a827f6e-25cc-58a2-9873-2cc21bd6b763",
+  "key": "logistics-coordination",
+  "name": "Logistics coordination",
+  "name_bn": "লজিস্টিক্স সমন্বয়",
+  "category": "operations",
+  "aliases": [
+   "shipping coordination",
+   "logistics",
+   "supply chain",
+   "supply chain management"
+  ],
+  "source_id": "curated:logistics-coordination"
+ },
+ {
+  "id": "06979ee9-cbef-5908-8674-67e820591f0d",
+  "key": "warehouse-management",
+  "name": "Warehouse management",
+  "name_bn": "গুদাম ব্যবস্থাপনা",
+  "category": "operations",
+  "aliases": [
+   "wms"
+  ],
+  "source_id": "curated:warehouse-management"
+ },
+ {
+  "id": "b2de454c-b33c-51cc-8668-1cd12322b031",
+  "key": "demand-planning",
+  "name": "Demand planning",
+  "name_bn": "চাহিদা পরিকল্পনা",
+  "category": "operations",
+  "aliases": [],
+  "source_id": "curated:demand-planning"
+ },
+ {
+  "id": "1e40d408-7cb6-5a72-83fd-0144d50bb74c",
+  "key": "vendor-management",
+  "name": "Vendor management",
+  "name_bn": "সরবরাহকারী ব্যবস্থাপনা",
+  "category": "operations",
+  "aliases": [
+   "supplier management"
+  ],
+  "source_id": "curated:vendor-management"
+ },
+ {
+  "id": "091e8abf-0972-5eb6-8395-b1c973bcf042",
+  "key": "quality-control",
+  "name": "Quality control",
+  "name_bn": "মান নিয়ন্ত্রণ",
+  "category": "operations",
+  "aliases": [
+   "qc",
+   "inspection"
+  ],
+  "source_id": "curated:quality-control"
+ },
+ {
+  "id": "761f2c3a-b127-52b7-9b18-51d9f2bead56",
+  "key": "production-planning",
+  "name": "Production planning",
+  "name_bn": "উৎপাদন পরিকল্পনা",
+  "category": "operations",
+  "aliases": [
+   "scheduling"
+  ],
+  "source_id": "curated:production-planning"
+ },
+ {
+  "id": "81c60559-eea1-507a-9838-0560aa296ace",
+  "key": "lean",
+  "name": "Lean manufacturing",
+  "name_bn": "লিন উৎপাদন",
+  "category": "operations",
+  "aliases": [
+   "5s",
+   "kaizen"
+  ],
+  "source_id": "curated:lean"
+ },
+ {
+  "id": "e3625438-043d-5715-93ca-8aede6bc81ef",
+  "key": "six-sigma",
+  "name": "Six Sigma",
+  "name_bn": "সিক্স সিগমা",
+  "category": "operations",
+  "aliases": [
+   "process improvement"
+  ],
+  "source_id": "curated:six-sigma"
+ },
+ {
+  "id": "a4970b37-8fc8-5e62-8b89-78fd2266314b",
+  "key": "erp",
+  "name": "ERP systems",
+  "name_bn": "ইআরপি সিস্টেম",
+  "category": "operations",
+  "aliases": [
+   "sap",
+   "oracle erp"
+  ],
+  "source_id": "curated:erp"
+ },
+ {
+  "id": "04db8cfb-261d-5c89-a767-57af58654721",
+  "key": "fleet-management",
+  "name": "Fleet management",
+  "name_bn": "যানবাহন ব্যবস্থাপনা",
+  "category": "operations",
+  "aliases": [],
+  "source_id": "curated:fleet-management"
+ },
+ {
+  "id": "a599b207-fdec-5304-870c-605028630664",
+  "key": "customs-documentation",
+  "name": "Customs documentation",
+  "name_bn": "শুল্ক ডকুমেন্টেশন",
+  "category": "operations",
+  "aliases": [
+   "hs codes"
+  ],
+  "source_id": "curated:customs-documentation"
+ },
+ {
+  "id": "8ca9da86-39cc-5e3e-8462-d80791d9dfe8",
+  "key": "health-safety",
+  "name": "Occupational health and safety",
+  "name_bn": "পেশাগত স্বাস্থ্য ও নিরাপত্তা",
+  "category": "operations",
+  "aliases": [
+   "hse"
+  ],
+  "source_id": "curated:health-safety"
+ },
+ {
+  "id": "0d77ba6c-fb40-530a-97a5-8714d1e26892",
+  "key": "merchandising",
+  "name": "Apparel merchandising",
+  "name_bn": "পোশাক মার্চেন্ডাইজিং",
+  "category": "apparel",
+  "aliases": [
+   "garment merchandising"
+  ],
+  "source_id": "curated:merchandising"
+ },
+ {
+  "id": "b89f4474-f9f1-59e7-9132-f8cc5f952ee7",
+  "key": "garment-construction",
+  "name": "Garment construction",
+  "name_bn": "পোশাক নির্মাণ",
+  "category": "apparel",
+  "aliases": [
+   "stitching",
+   "sewing"
+  ],
+  "source_id": "curated:garment-construction"
+ },
+ {
+  "id": "ad58e213-ab95-5eb1-a776-a03ed39af082",
+  "key": "pattern-making",
+  "name": "Pattern making",
+  "name_bn": "প্যাটার্ন তৈরি",
+  "category": "apparel",
+  "aliases": [
+   "grading"
+  ],
+  "source_id": "curated:pattern-making"
+ },
+ {
+  "id": "d3e5c9ad-baa7-5a57-a844-c0dda79a2c90",
+  "key": "fabric-knowledge",
+  "name": "Fabric and trims knowledge",
+  "name_bn": "কাপড় ও ট্রিম সম্পর্কে জ্ঞান",
+  "category": "apparel",
+  "aliases": [
+   "textiles"
+  ],
+  "source_id": "curated:fabric-knowledge"
+ },
+ {
+  "id": "d01f7ed9-ca3c-5706-832d-3443e9ee5ff9",
+  "key": "costing",
+  "name": "Garment costing",
+  "name_bn": "পোশাক কস্টিং",
+  "category": "apparel",
+  "aliases": [
+   "cost sheet"
+  ],
+  "source_id": "curated:costing"
+ },
+ {
+  "id": "2295edbe-9105-53b3-a675-606d9cf5af25",
+  "key": "garment-sampling",
+  "name": "Sampling and product development",
+  "name_bn": "স্যাম্পলিং ও পণ্য উন্নয়ন",
+  "category": "apparel",
+  "aliases": [
+   "sampling"
+  ],
+  "source_id": "curated:garment-sampling"
+ },
+ {
+  "id": "e7f2c12f-4518-5bd3-b4d1-90e7f622eee6",
+  "key": "production-followup",
+  "name": "Production follow-up",
+  "name_bn": "উৎপাদন অনুসরণ",
+  "category": "apparel",
+  "aliases": [
+   "line balancing"
+  ],
+  "source_id": "curated:production-followup"
+ },
+ {
+  "id": "7e2340de-b3ac-5359-80cd-797d5a691418",
+  "key": "buyer-communication",
+  "name": "Buyer communication",
+  "name_bn": "বায়ার যোগাযোগ",
+  "category": "apparel",
+  "aliases": [
+   "buyer handling"
+  ],
+  "source_id": "curated:buyer-communication"
+ },
+ {
+  "id": "66a0ef64-d7f8-596c-9f20-32c9831f44a3",
+  "key": "social-compliance-audit",
+  "name": "Social compliance audit",
+  "name_bn": "সামাজিক কমপ্লায়েন্স নিরীক্ষা",
+  "category": "apparel",
+  "aliases": [
+   "accord",
+   "alliance"
+  ],
+  "source_id": "curated:social-compliance-audit"
+ },
+ {
+  "id": "1f46df72-8fec-5a0c-9ef6-3c6844344f1b",
+  "key": "industrial-engineering",
+  "name": "Industrial engineering (RMG)",
+  "name_bn": "ইন্ডাস্ট্রিয়াল ইঞ্জিনিয়ারিং",
+  "category": "apparel",
+  "aliases": [
+   "ie",
+   "smv"
+  ],
+  "source_id": "curated:industrial-engineering"
+ },
+ {
+  "id": "819bbaff-f741-5f63-bd98-5dcabe2f94bb",
+  "key": "knitting",
+  "name": "Knitting technology",
+  "name_bn": "নিটিং প্রযুক্তি",
+  "category": "apparel",
+  "aliases": [],
+  "source_id": "curated:knitting"
+ },
+ {
+  "id": "9ec5ad92-b8ab-5b08-b6f4-23043603f6bf",
+  "key": "dyeing",
+  "name": "Dyeing and finishing",
+  "name_bn": "রং ও ফিনিশিং",
+  "category": "apparel",
+  "aliases": [
+   "wet processing"
+  ],
+  "source_id": "curated:dyeing"
+ },
+ {
+  "id": "5959a4c1-e1fd-589a-8ac9-498426f4f4b0",
+  "key": "autocad",
+  "name": "AutoCAD",
+  "name_bn": "অটোক্যাড",
+  "category": "civil-engineering",
+  "aliases": [
+   "cad"
+  ],
+  "source_id": "curated:autocad"
+ },
+ {
+  "id": "264cbb5c-53f4-5ef6-89d6-f5f61bfd1dd3",
+  "key": "staad-pro",
+  "name": "STAAD Pro",
+  "name_bn": "স্টাড প্রো",
+  "category": "civil-engineering",
+  "aliases": [
+   "structural analysis"
+  ],
+  "source_id": "curated:staad-pro"
+ },
+ {
+  "id": "b114150a-94f7-5e54-9ee3-c275e8807d3f",
+  "key": "structural-design",
+  "name": "Structural design",
+  "name_bn": "কাঠামোগত ডিজাইন",
+  "category": "civil-engineering",
+  "aliases": [
+   "rcc design"
+  ],
+  "source_id": "curated:structural-design"
+ },
+ {
+  "id": "a08e9918-886a-5bd9-8f5e-30e542ab26d4",
+  "key": "site-supervision",
+  "name": "Site supervision",
+  "name_bn": "সাইট তত্ত্বাবধান",
+  "category": "civil-engineering",
+  "aliases": [
+   "site engineering"
+  ],
+  "source_id": "curated:site-supervision"
+ },
+ {
+  "id": "c7ba5218-23f1-503a-976c-acb0e91394e4",
+  "key": "quantity-surveying",
+  "name": "Quantity surveying",
+  "name_bn": "পরিমাণ জরিপ",
+  "category": "civil-engineering",
+  "aliases": [
+   "billing"
+  ],
+  "source_id": "curated:quantity-surveying"
+ },
+ {
+  "id": "49dfe220-b10e-5d7f-8c07-628f37941bfb",
+  "key": "estimation",
+  "name": "Cost estimation",
+  "name_bn": "ব্যয় নিরূপণ",
+  "category": "civil-engineering",
+  "aliases": [
+   "boq"
+  ],
+  "source_id": "curated:estimation"
+ },
+ {
+  "id": "957d5a63-f22d-599c-84eb-66ec4039fa4a",
+  "key": "concrete-technology",
+  "name": "Concrete technology",
+  "name_bn": "কংক্রিট প্রযুক্তি",
+  "category": "civil-engineering",
+  "aliases": [
+   "mix design"
+  ],
+  "source_id": "curated:concrete-technology"
+ },
+ {
+  "id": "a797e649-8e6d-58df-a1cd-2b093bb0ba89",
+  "key": "soil-mechanics",
+  "name": "Soil mechanics and geotechnics",
+  "name_bn": "মৃত্তিকা বলবিদ্যা",
+  "category": "civil-engineering",
+  "aliases": [
+   "geotechnical"
+  ],
+  "source_id": "curated:soil-mechanics"
+ },
+ {
+  "id": "bf8543b4-0f1e-594a-a04f-d74ca97f5f73",
+  "key": "land-survey",
+  "name": "Land surveying",
+  "name_bn": "জমি জরিপ",
+  "category": "civil-engineering",
+  "aliases": [
+   "total station"
+  ],
+  "source_id": "curated:land-survey"
+ },
+ {
+  "id": "ffe3aadd-4d7e-5fb2-9316-075de3ab78ce",
+  "key": "technical-drawings",
+  "name": "Technical drawing reading",
+  "name_bn": "টেকনিক্যাল ড্রয়িং পড়া",
+  "category": "civil-engineering",
+  "aliases": [
+   "blueprints"
+  ],
+  "source_id": "curated:technical-drawings"
+ },
+ {
+  "id": "b9e0a456-74b7-5251-81b5-d3944312d005",
+  "key": "water-supply-design",
+  "name": "Water supply and sanitation design",
+  "name_bn": "পানি সরবরাহ ও স্যানিটেশন ডিজাইন",
+  "category": "civil-engineering",
+  "aliases": [
+   "wash"
+  ],
+  "source_id": "curated:water-supply-design"
+ },
+ {
+  "id": "7bb6f5d8-9890-5fff-a151-063d860a547d",
+  "key": "transportation-engineering",
+  "name": "Transportation engineering",
+  "name_bn": "পরিবহন প্রকৌশল",
+  "category": "civil-engineering",
+  "aliases": [
+   "highway design"
+  ],
+  "source_id": "curated:transportation-engineering"
+ },
+ {
+  "id": "adb7dbbf-1363-5aa2-b2e9-6f5a7ca0753b",
+  "key": "circuit-design",
+  "name": "Circuit design",
+  "name_bn": "সার্কিট ডিজাইন",
+  "category": "electrical-engineering",
+  "aliases": [
+   "circuit analysis"
+  ],
+  "source_id": "curated:circuit-design"
+ },
+ {
+  "id": "3ac87039-3558-5dcb-bd5f-e251129cc195",
+  "key": "pcb-design",
+  "name": "PCB design",
+  "name_bn": "পিসিবি ডিজাইন",
+  "category": "electrical-engineering",
+  "aliases": [
+   "altium",
+   "kicad"
+  ],
+  "source_id": "curated:pcb-design"
+ },
+ {
+  "id": "3d043741-f3d3-5550-9ed0-a59c67ead202",
+  "key": "simulink",
+  "name": "MATLAB/Simulink",
+  "name_bn": "ম্যাটল্যাব/সিমুলিংক",
+  "category": "electrical-engineering",
+  "aliases": [
+   "simulink"
+  ],
+  "source_id": "curated:simulink"
+ },
+ {
+  "id": "9acab61d-a6cb-5831-8918-c9c7ff3463fe",
+  "key": "power-systems",
+  "name": "Power systems",
+  "name_bn": "বিদ্যুৎ ব্যবস্থা",
+  "category": "electrical-engineering",
+  "aliases": [
+   "power distribution"
+  ],
+  "source_id": "curated:power-systems"
+ },
+ {
+  "id": "c78950f1-9ec2-50d5-866a-b79f60bda0c5",
+  "key": "electrical-maintenance",
+  "name": "Electrical maintenance",
+  "name_bn": "বৈদ্যুতিক রক্ষণাবেক্ষণ",
+  "category": "electrical-engineering",
+  "aliases": [
+   "troubleshooting equipment"
+  ],
+  "source_id": "curated:electrical-maintenance"
+ },
+ {
+  "id": "27621178-3098-5a74-b751-4dbc01c7ecfc",
+  "key": "plc",
+  "name": "PLC programming",
+  "name_bn": "পিএলসি প্রোগ্রামিং",
+  "category": "electrical-engineering",
+  "aliases": [
+   "automation",
+   "plc programming",
+   "plc"
+  ],
+  "source_id": "curated:plc"
+ },
+ {
+  "id": "df5d7d91-8186-53a3-a977-c861965124d3",
+  "key": "scada",
+  "name": "SCADA systems",
+  "name_bn": "স্কাডা সিস্টেম",
+  "category": "electrical-engineering",
+  "aliases": [
+   "hmi"
+  ],
+  "source_id": "curated:scada"
+ },
+ {
+  "id": "faf2eabe-8a39-5e48-8608-df24c1f9557c",
+  "key": "wiring",
+  "name": "Electrical wiring and installation",
+  "name_bn": "বৈদ্যুতিক তার সংযোগ",
+  "category": "electrical-engineering",
+  "aliases": [],
+  "source_id": "curated:wiring"
+ },
+ {
+  "id": "0144d6cc-296a-54f1-96b7-5db68cff9085",
+  "key": "load-calculation",
+  "name": "Load calculation",
+  "name_bn": "লোড হিসাব",
+  "category": "electrical-engineering",
+  "aliases": [
+   "sizing"
+  ],
+  "source_id": "curated:load-calculation"
+ },
+ {
+  "id": "829c4af0-5632-5c8c-842b-3e5c75f7f41d",
+  "key": "transformers",
+  "name": "Transformers and switchgear",
+  "name_bn": "ট্রান্সফরমার ও সুইচগিয়ার",
+  "category": "electrical-engineering",
+  "aliases": [],
+  "source_id": "curated:transformers"
+ },
+ {
+  "id": "6d1a42a9-55bd-5b93-950a-677d7f0b49e7",
+  "key": "renewable-energy",
+  "name": "Renewable energy systems",
+  "name_bn": "নবায়নযোগ্য শক্তি ব্যবস্থা",
+  "category": "electrical-engineering",
+  "aliases": [
+   "solar",
+   "solar pv"
+  ],
+  "source_id": "curated:renewable-energy"
+ },
+ {
+  "id": "5ecac94c-516c-5248-84be-9e3173be800b",
+  "key": "electrical-safety",
+  "name": "Electrical safety standards",
+  "name_bn": "বৈদ্যুতিক নিরাপত্তা মান",
+  "category": "electrical-engineering",
+  "aliases": [
+   "earthing"
+  ],
+  "source_id": "curated:electrical-safety"
+ },
+ {
+  "id": "7b9c9c6d-19f3-57e5-a265-f80a65c177ac",
+  "key": "networking-basics",
+  "name": "Computer networking fundamentals",
+  "name_bn": "নেটওয়ার্কিং মৌলিক",
+  "category": "network-security",
+  "aliases": [
+   "ccna",
+   "networking",
+   "network security",
+   "computer networks",
+   "network administration"
+  ],
+  "source_id": "curated:networking-basics"
+ },
+ {
+  "id": "41e07af1-2935-5e0b-b6d4-d5c4816cc627",
+  "key": "tcp-ip",
+  "name": "TCP/IP and DNS",
+  "name_bn": "টিসিপি/আইপি ও ডিএনএস",
+  "category": "network-security",
+  "aliases": [
+   "dns",
+   "subnetting"
+  ],
+  "source_id": "curated:tcp-ip"
+ },
+ {
+  "id": "ca9ba355-dced-5412-9ba4-dfe8a0d45c46",
+  "key": "routing-switching",
+  "name": "Routing and switching",
+  "name_bn": "রাউটিং ও সুইচিং",
+  "category": "network-security",
+  "aliases": [
+   "vlan",
+   "ospf"
+  ],
+  "source_id": "curated:routing-switching"
+ },
+ {
+  "id": "de341ec6-4569-5433-a915-68f18d38288c",
+  "key": "firewalls",
+  "name": "Firewall configuration",
+  "name_bn": "ফায়ারওয়াল কনফিগারেশন",
+  "category": "network-security",
+  "aliases": [
+   "pfsense",
+   "fortinet"
+  ],
+  "source_id": "curated:firewalls"
+ },
+ {
+  "id": "92652078-d960-5be8-ae44-669775882c42",
+  "key": "vpn",
+  "name": "VPN and remote access",
+  "name_bn": "ভিপিএন ও রিমোট অ্যাক্সেস",
+  "category": "network-security",
+  "aliases": [],
+  "source_id": "curated:vpn"
+ },
+ {
+  "id": "16a58ede-7e75-5f40-b339-60ad48b5812e",
+  "key": "network-troubleshooting",
+  "name": "Network troubleshooting",
+  "name_bn": "নেটওয়ার্ক সমস্যা সমাধান",
+  "category": "network-security",
+  "aliases": [
+   "wireshark",
+   "packet analysis"
+  ],
+  "source_id": "curated:network-troubleshooting"
+ },
+ {
+  "id": "85ac6bf9-da9b-553f-b6a8-83b5082b8d21",
+  "key": "windows-server",
+  "name": "Windows Server administration",
+  "name_bn": "উইন্ডোজ সার্ভার প্রশাসন",
+  "category": "network-security",
+  "aliases": [],
+  "source_id": "curated:windows-server"
+ },
+ {
+  "id": "669de653-e737-5ae4-aa6a-6760be929d25",
+  "key": "active-directory",
+  "name": "Active Directory",
+  "name_bn": "অ্যাকটিভ ডিরেক্টরি",
+  "category": "network-security",
+  "aliases": [
+   "group policy"
+  ],
+  "source_id": "curated:active-directory"
+ },
+ {
+  "id": "b732f618-93a4-5ba3-85bb-66f0a9b40d04",
+  "key": "penetration-testing",
+  "name": "Penetration testing",
+  "name_bn": "পেনিট্রেশন টেস্টিং",
+  "category": "network-security",
+  "aliases": [
+   "ethical hacking",
+   "kali linux"
+  ],
+  "source_id": "curated:penetration-testing"
+ },
+ {
+  "id": "aa9f2c5b-72cf-5573-9470-c894363d221b",
+  "key": "siem",
+  "name": "SIEM and log analysis",
+  "name_bn": "সিয়েম ও লগ বিশ্লেষণ",
+  "category": "network-security",
+  "aliases": [
+   "splunk"
+  ],
+  "source_id": "curated:siem"
+ },
+ {
+  "id": "20e4efc5-2e4a-53e0-9f72-a5ada94d7bde",
+  "key": "incident-response",
+  "name": "Incident response",
+  "name_bn": "ঘটনা মোকাবেলা",
+  "category": "network-security",
+  "aliases": [
+   "soc"
+  ],
+  "source_id": "curated:incident-response"
+ },
+ {
+  "id": "19a72b7b-a934-56be-8b2d-9def3d07f667",
+  "key": "vulnerability-assessment",
+  "name": "Vulnerability assessment",
+  "name_bn": "দুর্বলতা মূল্যায়ন",
+  "category": "network-security",
+  "aliases": [
+   "nessus"
+  ],
+  "source_id": "curated:vulnerability-assessment"
+ },
+ {
+  "id": "a3f9e6df-6c13-5726-8368-1fa6f86a3b8f",
+  "key": "security-awareness",
+  "name": "Security awareness training",
+  "name_bn": "নিরাপত্তা সচেতনতা প্রশিক্ষণ",
+  "category": "network-security",
+  "aliases": [],
+  "source_id": "curated:security-awareness"
+ },
+ {
+  "id": "6e0c2738-d398-5a03-aff9-6571ea037ebf",
+  "key": "iam",
+  "name": "Identity and access management",
+  "name_bn": "পরিচয় ও অ্যাক্সেস ব্যবস্থাপনা",
+  "category": "network-security",
+  "aliases": [
+   "iam",
+   "rbac"
+  ],
+  "source_id": "curated:iam"
+ },
+ {
+  "id": "53610a11-cc0f-5703-b09b-3da9e97513cb",
+  "key": "lesson-planning",
+  "name": "Lesson planning",
+  "name_bn": "পাঠ পরিকল্পনা",
+  "category": "education",
+  "aliases": [
+   "lesson plans"
+  ],
+  "source_id": "curated:lesson-planning"
+ },
+ {
+  "id": "2532e422-169e-5cb3-978a-d9ed4f3aab78",
+  "key": "classroom-management",
+  "name": "Classroom management",
+  "name_bn": "শ্রেণিকক্ষ ব্যবস্থাপনা",
+  "category": "education",
+  "aliases": [],
+  "source_id": "curated:classroom-management"
+ },
+ {
+  "id": "74d52272-defe-5f36-8bde-c2438dbdf93d",
+  "key": "curriculum-development",
+  "name": "Curriculum development",
+  "name_bn": "পাঠ্যক্রম উন্নয়ন",
+  "category": "education",
+  "aliases": [
+   "syllabus design",
+   "curriculum design",
+   "curriculum"
+  ],
+  "source_id": "curated:curriculum-development"
+ },
+ {
+  "id": "08177828-3291-592c-8f2d-532f8fc7c955",
+  "key": "student-assessment",
+  "name": "Student assessment",
+  "name_bn": "শিক্ষার্থী মূল্যায়ন",
+  "category": "education",
+  "aliases": [
+   "exam design",
+   "grading"
+  ],
+  "source_id": "curated:student-assessment"
+ },
+ {
+  "id": "3cdc9e83-0208-5a26-bcbb-49f63a4c3019",
+  "key": "educational-technology",
+  "name": "Educational technology",
+  "name_bn": "শিক্ষা প্রযুক্তি",
+  "category": "education",
+  "aliases": [
+   "lms",
+   "google classroom"
+  ],
+  "source_id": "curated:educational-technology"
+ },
+ {
+  "id": "5efdd0f7-b6e5-58c0-9e8b-d827bb34049f",
+  "key": "mentoring",
+  "name": "Mentoring and coaching",
+  "name_bn": "পরামর্শদান ও কোচিং",
+  "category": "education",
+  "aliases": [
+   "tutoring"
+  ],
+  "source_id": "curated:mentoring"
+ },
+ {
+  "id": "e6649912-a73a-5f41-aaaf-9f319461633e",
+  "key": "subject-expertise",
+  "name": "Subject matter expertise",
+  "name_bn": "বিষয়ভিত্তিক দক্ষতা",
+  "category": "education",
+  "aliases": [
+   "domain knowledge"
+  ],
+  "source_id": "curated:subject-expertise"
+ },
+ {
+  "id": "f88824b6-f77e-5a3c-8983-4a68a499622d",
+  "key": "online-teaching",
+  "name": "Online teaching",
+  "name_bn": "অনলাইন শিক্ষাদান",
+  "category": "education",
+  "aliases": [
+   "virtual classrooms",
+   "zoom teaching"
+  ],
+  "source_id": "curated:online-teaching"
+ },
+ {
+  "id": "afb07f28-4b13-55da-805d-8a5966ba7356",
+  "key": "differentiated-instruction",
+  "name": "Differentiated instruction",
+  "name_bn": "বিভেদিত শিক্ষাদান",
+  "category": "education",
+  "aliases": [
+   "remedial teaching"
+  ],
+  "source_id": "curated:differentiated-instruction"
+ },
+ {
+  "id": "f000050a-a261-576d-a69d-ad2e7e9d3934",
+  "key": "e-learning-content",
+  "name": "E-learning content creation",
+  "name_bn": "ই-লার্নিং কনটেন্ট তৈরি",
+  "category": "education",
+  "aliases": [
+   "instructional design"
+  ],
+  "source_id": "curated:e-learning-content"
+ },
+ {
+  "id": "a7fa39f9-1fce-59d6-9af7-23833bd07668",
+  "key": "public-speaking",
+  "name": "Public speaking",
+  "name_bn": "বক্তৃতা দেওয়া",
+  "category": "education",
+  "aliases": [
+   "presentation delivery"
+  ],
+  "source_id": "curated:public-speaking"
+ },
+ {
+  "id": "c6e6dc63-2e1b-5086-8d9a-afb9df957294",
+  "key": "child-safeguarding",
+  "name": "Child safeguarding",
+  "name_bn": "শিশু সুরক্ষা",
+  "category": "education",
+  "aliases": [
+   "safeguarding"
+  ],
+  "source_id": "curated:child-safeguarding"
+ },
+ {
+  "id": "9677278b-e3d1-555c-8821-b0f3b5aeaea8",
+  "key": "en-bn-translation",
+  "name": "English to Bangla translation",
+  "name_bn": "ইংরেজি থেকে বাংলা অনুবাদ",
+  "category": "translation",
+  "aliases": [
+   "bangla translation",
+   "translation",
+   "translating",
+   "translate"
+  ],
+  "source_id": "curated:en-bn-translation"
+ },
+ {
+  "id": "2d1f8325-79ae-58b7-9018-867ce847e0c5",
+  "key": "bn-typing",
+  "name": "Bangla typing (Avro/Bijoy)",
+  "name_bn": "বাংলা টাইপিং",
+  "category": "translation",
+  "aliases": [
+   "avro",
+   "bijoy",
+   "unicode bangla",
+   "bangla typing",
+   "avro typing",
+   "bijoy typing"
+  ],
+  "source_id": "curated:bn-typing"
+ },
+ {
+  "id": "c15d4821-5b23-55db-b08a-897f74f94fdb",
+  "key": "subtitling",
+  "name": "Subtitling",
+  "name_bn": "সাবটাইটেলিং",
+  "category": "translation",
+  "aliases": [
+   "captioning"
+  ],
+  "source_id": "curated:subtitling"
+ },
+ {
+  "id": "b68fe5bd-5a9c-5b92-9ec0-590ddbfd65ec",
+  "key": "localisation",
+  "name": "Localisation",
+  "name_bn": "স্থানীয়করণ",
+  "category": "translation",
+  "aliases": [
+   "localization"
+  ],
+  "source_id": "curated:localisation"
+ },
+ {
+  "id": "d51bed4b-1ccf-579f-a3a0-6d3b7127dee1",
+  "key": "terminology-management",
+  "name": "Terminology management",
+  "name_bn": "পরিভাষা ব্যবস্থাপনা",
+  "category": "translation",
+  "aliases": [
+   "glossaries"
+  ],
+  "source_id": "curated:terminology-management"
+ },
+ {
+  "id": "80b07263-087b-586e-8145-44d70e9ddfe5",
+  "key": "cat-tools",
+  "name": "CAT tools",
+  "name_bn": "সিএটি টুলস",
+  "category": "translation",
+  "aliases": [
+   "trados",
+   "memoq"
+  ],
+  "source_id": "curated:cat-tools"
+ },
+ {
+  "id": "61dd24e6-1052-58c0-b282-5a8825b2c08a",
+  "key": "interpreting",
+  "name": "Interpreting",
+  "name_bn": "দোভাষী হিসেবে কাজ",
+  "category": "translation",
+  "aliases": [
+   "consecutive interpreting"
+  ],
+  "source_id": "curated:interpreting"
+ },
+ {
+  "id": "c0b9e77e-1524-56df-abea-803f9c3a0c09",
+  "key": "transcription-bn",
+  "name": "Bangla transcription",
+  "name_bn": "বাংলা ট্রান্সক্রিপশন",
+  "category": "translation",
+  "aliases": [],
+  "source_id": "curated:transcription-bn"
+ },
+ {
+  "id": "33f86761-aeee-5d75-9122-055676bd05e4",
+  "key": "project-planning",
+  "name": "Project planning",
+  "name_bn": "প্রকল্প পরিকল্পনা",
+  "category": "project-management",
+  "aliases": [
+   "work breakdown",
+   "project management"
+  ],
+  "source_id": "curated:project-planning"
+ },
+ {
+  "id": "b2a2d95e-e99e-5cda-9dba-3ad39ea86e9f",
+  "key": "agile",
+  "name": "Agile methods",
+  "name_bn": "অ্যাজাইল পদ্ধতি",
+  "category": "project-management",
+  "aliases": [
+   "agile methodology",
+   "agile",
+   "agile working"
+  ],
+  "source_id": "curated:agile"
+ },
+ {
+  "id": "f33303f8-d3b7-5c44-bb8a-b93cbaff732b",
+  "key": "scrum",
+  "name": "Scrum",
+  "name_bn": "স্ক্রাম",
+  "category": "project-management",
+  "aliases": [
+   "sprints",
+   "scrum"
+  ],
+  "source_id": "curated:scrum"
+ },
+ {
+  "id": "77574f86-9257-5b29-be4d-d501924b7f00",
+  "key": "kanban",
+  "name": "Kanban",
+  "name_bn": "কানবান",
+  "category": "project-management",
+  "aliases": [],
+  "source_id": "curated:kanban"
+ },
+ {
+  "id": "63c967d7-3458-53fb-871d-a1cf06e3f76b",
+  "key": "jira",
+  "name": "Jira",
+  "name_bn": "জিরা",
+  "category": "project-management",
+  "aliases": [
+   "issue tracking"
+  ],
+  "source_id": "curated:jira"
+ },
+ {
+  "id": "e25b29d2-c5bc-55b1-bf64-710663d75dd5",
+  "key": "stakeholder-management",
+  "name": "Stakeholder management",
+  "name_bn": "স্টেকহোল্ডার ব্যবস্থাপনা",
+  "category": "project-management",
+  "aliases": [
+   "client coordination"
+  ],
+  "source_id": "curated:stakeholder-management"
+ },
+ {
+  "id": "bf2879fb-33e2-5afa-b8f7-90f1cb974f74",
+  "key": "project-risk-management",
+  "name": "Project risk management",
+  "name_bn": "প্রকল্প ঝুঁকি ব্যবস্থাপনা",
+  "category": "project-management",
+  "aliases": [
+   "risk registers"
+  ],
+  "source_id": "curated:project-risk-management"
+ },
+ {
+  "id": "2fc6e8f9-9a44-50b9-9bf6-6ecf417577ed",
+  "key": "budget-management",
+  "name": "Budget management",
+  "name_bn": "বাজেট ব্যবস্থাপনা",
+  "category": "project-management",
+  "aliases": [
+   "cost control"
+  ],
+  "source_id": "curated:budget-management"
+ },
+ {
+  "id": "409e1f9a-1f28-5a05-872f-1480f9869139",
+  "key": "scheduling",
+  "name": "Scheduling",
+  "name_bn": "সময়সূচি নির্ধারণ",
+  "category": "project-management",
+  "aliases": [
+   "gantt",
+   "ms project"
+  ],
+  "source_id": "curated:scheduling"
+ },
+ {
+  "id": "cb5f0810-a77e-5372-9a85-dadb390dd89b",
+  "key": "status-reporting",
+  "name": "Status reporting",
+  "name_bn": "অগ্রগতি প্রতিবেদন",
+  "category": "project-management",
+  "aliases": [
+   "progress reports"
+  ],
+  "source_id": "curated:status-reporting"
+ },
+ {
+  "id": "339e9878-1fb2-51f2-81c6-6a6ec0cd4786",
+  "key": "facilitation",
+  "name": "Meeting facilitation",
+  "name_bn": "মিটিং পরিচালনা",
+  "category": "project-management",
+  "aliases": [
+   "workshops"
+  ],
+  "source_id": "curated:facilitation"
+ },
+ {
+  "id": "6f6eaba6-636e-5031-a961-835fe57646c4",
+  "key": "vendor-coordination",
+  "name": "Vendor coordination",
+  "name_bn": "সরবরাহকারী সমন্বয়",
+  "category": "project-management",
+  "aliases": [],
+  "source_id": "curated:vendor-coordination"
+ },
+ {
+  "id": "d00d5297-dd1c-528c-9d62-e6c0ecf9bc7d",
+  "key": "literature-review",
+  "name": "Literature review",
+  "name_bn": "সাহিত্য পর্যালোচনা",
+  "category": "research",
+  "aliases": [],
+  "source_id": "curated:literature-review"
+ },
+ {
+  "id": "130824cd-4309-5f2b-ab6a-ec9333a1ae7c",
+  "key": "survey-design",
+  "name": "Survey design",
+  "name_bn": "জরিপ ডিজাইন",
+  "category": "research",
+  "aliases": [
+   "questionnaire design"
+  ],
+  "source_id": "curated:survey-design"
+ },
+ {
+  "id": "216eae0d-082c-51c3-ba2e-4dd607a65ce5",
+  "key": "qualitative-research",
+  "name": "Qualitative research",
+  "name_bn": "গুণগত গবেষণা",
+  "category": "research",
+  "aliases": [
+   "interviews",
+   "focus groups"
+  ],
+  "source_id": "curated:qualitative-research"
+ },
+ {
+  "id": "fee65060-0c9f-523f-9049-596c50c9b755",
+  "key": "quantitative-research",
+  "name": "Quantitative research",
+  "name_bn": "পরিমাণগত গবেষণা",
+  "category": "research",
+  "aliases": [],
+  "source_id": "curated:quantitative-research"
+ },
+ {
+  "id": "3a3b2db3-4804-5674-b31f-00c9adcddccb",
+  "key": "data-collection",
+  "name": "Field data collection",
+  "name_bn": "মাঠ পর্যায়ে তথ্য সংগ্রহ",
+  "category": "research",
+  "aliases": [
+   "enumerator",
+   "kobo",
+   "surveycto"
+  ],
+  "source_id": "curated:data-collection"
+ },
+ {
+  "id": "f4e8ed61-7e45-58ff-aaad-14a872ba3639",
+  "key": "sampling",
+  "name": "Sampling methods",
+  "name_bn": "নমুনা নির্বাচন পদ্ধতি",
+  "category": "research",
+  "aliases": [],
+  "source_id": "curated:sampling"
+ },
+ {
+  "id": "1fc6b751-20bb-57fa-906e-9ae51be7698a",
+  "key": "citation-management",
+  "name": "Citation management",
+  "name_bn": "উদ্ধৃতি ব্যবস্থাপনা",
+  "category": "research",
+  "aliases": [
+   "zotero",
+   "mendeley",
+   "apa"
+  ],
+  "source_id": "curated:citation-management"
+ },
+ {
+  "id": "2d610c73-2bb5-5698-8d07-248fc3cdc7c1",
+  "key": "ethical-research",
+  "name": "Research ethics and consent",
+  "name_bn": "গবেষণা নীতিমালা ও সম্মতি",
+  "category": "research",
+  "aliases": [
+   "irb"
+  ],
+  "source_id": "curated:ethical-research"
+ },
+ {
+  "id": "5d7eecac-8230-5508-988d-5fea62dbd0dd",
+  "key": "news-writing",
+  "name": "News writing",
+  "name_bn": "সংবাদ লেখা",
+  "category": "journalism",
+  "aliases": [
+   "news reporting"
+  ],
+  "source_id": "curated:news-writing"
+ },
+ {
+  "id": "70f453a3-ae3a-5377-947c-4ac29d1b6bec",
+  "key": "journalistic-interviewing",
+  "name": "Journalistic interviewing",
+  "name_bn": "সাংবাদিক সাক্ষাৎকার",
+  "category": "journalism",
+  "aliases": [
+   "source interviewing"
+  ],
+  "source_id": "curated:journalistic-interviewing"
+ },
+ {
+  "id": "d0fe68af-7464-5b3a-aa75-dadcbbc61323",
+  "key": "fact-checking",
+  "name": "Fact-checking",
+  "name_bn": "তথ্য যাচাই",
+  "category": "journalism",
+  "aliases": [
+   "verification"
+  ],
+  "source_id": "curated:fact-checking"
+ },
+ {
+  "id": "248a4f15-74ed-5ad8-b253-0d000fedc9c6",
+  "key": "media-ethics",
+  "name": "Media ethics and law",
+  "name_bn": "গণমাধ্যম নীতিমালা ও আইন",
+  "category": "journalism",
+  "aliases": [
+   "defamation"
+  ],
+  "source_id": "curated:media-ethics"
+ },
+ {
+  "id": "aff2a3c7-58d6-5af2-96b4-9c3ec55b4e57",
+  "key": "video-reporting",
+  "name": "Video reporting",
+  "name_bn": "ভিডিও রিপোর্টিং",
+  "category": "journalism",
+  "aliases": [
+   "field reporting"
+  ],
+  "source_id": "curated:video-reporting"
+ },
+ {
+  "id": "51235f45-8c4b-565a-abda-151d8b157624",
+  "key": "press-releases",
+  "name": "Press releases",
+  "name_bn": "প্রেস রিলিজ",
+  "category": "journalism",
+  "aliases": [
+   "media relations"
+  ],
+  "source_id": "curated:press-releases"
+ },
+ {
+  "id": "694e5243-b9d7-5ffc-b87d-411968474853",
+  "key": "social-newsgathering",
+  "name": "Social media newsgathering",
+  "name_bn": "সোশ্যাল মিডিয়া থেকে সংবাদ সংগ্রহ",
+  "category": "journalism",
+  "aliases": [],
+  "source_id": "curated:social-newsgathering"
+ },
+ {
+  "id": "1917b2f1-a524-5e9b-8f5b-5a969ec6e68b",
+  "key": "editorial-planning",
+  "name": "Editorial planning",
+  "name_bn": "সম্পাদকীয় পরিকল্পনা",
+  "category": "journalism",
+  "aliases": [
+   "content calendar"
+  ],
+  "source_id": "curated:editorial-planning"
+ },
+ {
+  "id": "37ae7543-a7f0-5f5b-981f-2b252af7e5a2",
+  "key": "proposal-development",
+  "name": "Donor proposal development",
+  "name_bn": "দাতা প্রস্তাব প্রণয়ন",
+  "category": "development-sector",
+  "aliases": [
+   "concept notes"
+  ],
+  "source_id": "curated:proposal-development"
+ },
+ {
+  "id": "1a83a27a-7f69-5e7d-93d3-0785bade7a6f",
+  "key": "monitoring-evaluation",
+  "name": "Monitoring and evaluation",
+  "name_bn": "পর্যবেক্ষণ ও মূল্যায়ন",
+  "category": "development-sector",
+  "aliases": [
+   "m&e",
+   "logframe"
+  ],
+  "source_id": "curated:monitoring-evaluation"
+ },
+ {
+  "id": "0f768196-6d9f-52ce-9f4b-1a13faaeb8cf",
+  "key": "community-mobilisation",
+  "name": "Community mobilisation",
+  "name_bn": "সম্প্রদায় সংগঠন",
+  "category": "development-sector",
+  "aliases": [
+   "social mobilisation"
+  ],
+  "source_id": "curated:community-mobilisation"
+ },
+ {
+  "id": "9b87f37f-f91d-5f08-a689-b740aba4cd0b",
+  "key": "field-facilitation",
+  "name": "Field facilitation",
+  "name_bn": "মাঠ পর্যায়ে সহজীকরণ",
+  "category": "development-sector",
+  "aliases": [
+   "field visits"
+  ],
+  "source_id": "curated:field-facilitation"
+ },
+ {
+  "id": "305012ae-c294-5615-b27b-b3abfde92039",
+  "key": "donor-reporting",
+  "name": "Donor reporting",
+  "name_bn": "দাতা প্রতিবেদন",
+  "category": "development-sector",
+  "aliases": [
+   "narrative reports"
+  ],
+  "source_id": "curated:donor-reporting"
+ },
+ {
+  "id": "0df738b7-8c02-54c4-aa19-7e7cb5d92527",
+  "key": "safeguarding",
+  "name": "Safeguarding and PSEA",
+  "name_bn": "সুরক্ষা ও পিএসইএ",
+  "category": "development-sector",
+  "aliases": [
+   "psea"
+  ],
+  "source_id": "curated:safeguarding"
+ },
+ {
+  "id": "56d8f1cd-da1e-5909-a594-20418c262b07",
+  "key": "stakeholder-mapping",
+  "name": "Stakeholder mapping",
+  "name_bn": "স্টেকহোল্ডার ম্যাপিং",
+  "category": "development-sector",
+  "aliases": [],
+  "source_id": "curated:stakeholder-mapping"
+ },
+ {
+  "id": "ec33973e-5b16-5f84-ad05-1ed8bc4abb99",
+  "key": "training-facilitation",
+  "name": "Training facilitation",
+  "name_bn": "প্রশিক্ষণ সহজীকরণ",
+  "category": "development-sector",
+  "aliases": [
+   "capacity building",
+   "teaching",
+   "tutoring",
+   "tuition",
+   "training delivery"
+  ],
+  "source_id": "curated:training-facilitation"
+ },
+ {
+  "id": "22125213-48e9-58b3-b6ac-5e1f517efb5d",
+  "key": "budget-tracking",
+  "name": "Programme budget tracking",
+  "name_bn": "কার্যক্রম বাজেট ট্র্যাকিং",
+  "category": "development-sector",
+  "aliases": [
+   "burn rate"
+  ],
+  "source_id": "curated:budget-tracking"
+ },
+ {
+  "id": "eba3114e-d444-5f60-a8ec-1802481e3966",
+  "key": "gender-inclusion",
+  "name": "Gender and social inclusion",
+  "name_bn": "লিঙ্গ ও সামাজিক অন্তর্ভুক্তি",
+  "category": "development-sector",
+  "aliases": [
+   "gsi"
+  ],
+  "source_id": "curated:gender-inclusion"
+ },
+ {
+  "id": "5be2125a-94d2-5b9b-8c6f-65afeb505712",
+  "key": "ms-word",
+  "name": "Microsoft Word",
+  "name_bn": "মাইক্রোসফট ওয়ার্ড",
+  "category": "office",
+  "aliases": [
+   "word processing",
+   "ms word"
+  ],
+  "source_id": "curated:ms-word"
+ },
+ {
+  "id": "17803a1a-41dc-54d7-a27f-34fae03fe1e7",
+  "key": "ms-powerpoint",
+  "name": "Microsoft PowerPoint",
+  "name_bn": "মাইক্রোসফট পাওয়ারপয়েন্ট",
+  "category": "office",
+  "aliases": [
+   "presentations",
+   "slides",
+   "powerpoint",
+   "ms powerpoint",
+   "ppt"
+  ],
+  "source_id": "curated:ms-powerpoint"
+ },
+ {
+  "id": "f75deca9-5cb7-5476-b1e8-075ccc3fc087",
+  "key": "google-workspace",
+  "name": "Google Workspace",
+  "name_bn": "গুগল ওয়ার্কস্পেস",
+  "category": "office",
+  "aliases": [
+   "google docs",
+   "google drive"
+  ],
+  "source_id": "curated:google-workspace"
+ },
+ {
+  "id": "83da9a63-a967-5280-8485-892b7378fb5c",
+  "key": "email-communication",
+  "name": "Professional email writing",
+  "name_bn": "পেশাদার ইমেইল লেখা",
+  "category": "office",
+  "aliases": [
+   "email etiquette"
+  ],
+  "source_id": "curated:email-communication"
+ },
+ {
+  "id": "6a7dfc12-c556-54e2-81da-3ded2e065e3c",
+  "key": "typing-speed",
+  "name": "Fast typing (Bangla/English)",
+  "name_bn": "দ্রুত টাইপিং",
+  "category": "office",
+  "aliases": [
+   "typing",
+   "typing speed"
+  ],
+  "source_id": "curated:typing-speed"
+ },
+ {
+  "id": "42c3209c-f240-594b-b4c4-9e570eed7366",
+  "key": "data-entry",
+  "name": "Data entry",
+  "name_bn": "তথ্য প্রবেশ",
+  "category": "office",
+  "aliases": [
+   "data entry operator"
+  ],
+  "source_id": "curated:data-entry"
+ },
+ {
+  "id": "1ea94f21-ac89-5d37-b368-a623495b63a1",
+  "key": "record-keeping",
+  "name": "Record keeping and filing",
+  "name_bn": "রেকর্ড সংরক্ষণ",
+  "category": "office",
+  "aliases": [
+   "filing"
+  ],
+  "source_id": "curated:record-keeping"
+ },
+ {
+  "id": "23963e17-6320-5faa-8f58-99375d641cd9",
+  "key": "calendar-management",
+  "name": "Calendar and scheduling",
+  "name_bn": "ক্যালেন্ডার ও সময়সূচি",
+  "category": "office",
+  "aliases": [
+   "appointment scheduling"
+  ],
+  "source_id": "curated:calendar-management"
+ },
+ {
+  "id": "b29ea94b-6a7a-54c9-aa89-918306786476",
+  "key": "document-management",
+  "name": "Document management",
+  "name_bn": "ডকুমেন্ট ব্যবস্থাপনা",
+  "category": "office",
+  "aliases": [
+   "dms"
+  ],
+  "source_id": "curated:document-management"
+ },
+ {
+  "id": "d0303d42-f6b5-544e-a024-3e249a066b7a",
+  "key": "meeting-minutes",
+  "name": "Meeting minutes",
+  "name_bn": "মিটিং মিনিট",
+  "category": "office",
+  "aliases": [
+   "note taking"
+  ],
+  "source_id": "curated:meeting-minutes"
+ },
+ {
+  "id": "28c67590-eaac-5d5f-afe4-6fc4863fad4c",
+  "key": "communication",
+  "name": "Communication",
+  "name_bn": "যোগাযোগ দক্ষতা",
+  "category": "soft-skills",
+  "aliases": [
+   "verbal communication",
+   "written communication"
+  ],
+  "source_id": "curated:communication"
+ },
+ {
+  "id": "71cc8d9f-a1f0-571f-ae45-16f4178b098f",
+  "key": "teamwork",
+  "name": "Teamwork",
+  "name_bn": "দলীয় কাজ",
+  "category": "soft-skills",
+  "aliases": [
+   "collaboration"
+  ],
+  "source_id": "curated:teamwork"
+ },
+ {
+  "id": "17c2bafc-b70c-5e3f-a621-6a8487179430",
+  "key": "problem-solving",
+  "name": "Problem solving",
+  "name_bn": "সমস্যা সমাধান",
+  "category": "soft-skills",
+  "aliases": [
+   "analytical thinking"
+  ],
+  "source_id": "curated:problem-solving"
+ },
+ {
+  "id": "af0cad51-606d-5ca2-8cb0-f9017f70de4e",
+  "key": "critical-thinking",
+  "name": "Critical thinking",
+  "name_bn": "সমালোচনামূলক চিন্তাভাবনা",
+  "category": "soft-skills",
+  "aliases": [],
+  "source_id": "curated:critical-thinking"
+ },
+ {
+  "id": "f23c8964-00ea-5e86-a02a-5142dd2152bf",
+  "key": "adaptability",
+  "name": "Adaptability",
+  "name_bn": "খাপ খাইয়ে নেওয়ার ক্ষমতা",
+  "category": "soft-skills",
+  "aliases": [
+   "flexibility"
+  ],
+  "source_id": "curated:adaptability"
+ },
+ {
+  "id": "3239725a-23f5-5d5f-b810-5a2e4ccf091f",
+  "key": "time-management",
+  "name": "Time management",
+  "name_bn": "সময় ব্যবস্থাপনা",
+  "category": "soft-skills",
+  "aliases": [
+   "prioritisation"
+  ],
+  "source_id": "curated:time-management"
+ },
+ {
+  "id": "91112ab2-270d-52a6-ac95-34ab615ff748",
+  "key": "leadership",
+  "name": "Leadership",
+  "name_bn": "নেতৃত্ব",
+  "category": "soft-skills",
+  "aliases": [
+   "leading teams"
+  ],
+  "source_id": "curated:leadership"
+ },
+ {
+  "id": "9c1af445-d6d4-545f-a15f-d9e204eb2cdd",
+  "key": "attention-to-detail",
+  "name": "Attention to detail",
+  "name_bn": "বিস্তারিত মনোযোগ",
+  "category": "soft-skills",
+  "aliases": [
+   "accuracy"
+  ],
+  "source_id": "curated:attention-to-detail"
+ },
+ {
+  "id": "023d7f50-0a3c-5aab-ac01-fb4e6ecb75ab",
+  "key": "presentation-skills",
+  "name": "Presentation skills",
+  "name_bn": "উপস্থাপনা দক্ষতা",
+  "category": "soft-skills",
+  "aliases": [],
+  "source_id": "curated:presentation-skills"
+ },
+ {
+  "id": "482148d4-ec3e-5931-b97a-370535bad934",
+  "key": "emotional-intelligence",
+  "name": "Emotional intelligence",
+  "name_bn": "আবেগিক বুদ্ধিমত্তা",
+  "category": "soft-skills",
+  "aliases": [
+   "empathy"
+  ],
+  "source_id": "curated:emotional-intelligence"
+ },
+ {
+  "id": "d4bd4dd5-ab00-558a-984f-639c07b92315",
+  "key": "work-ethic",
+  "name": "Work ethic and reliability",
+  "name_bn": "কর্মনিষ্ঠা ও নির্ভরযোগ্যতা",
+  "category": "soft-skills",
+  "aliases": [
+   "dependability"
+  ],
+  "source_id": "curated:work-ethic"
+ },
+ {
+  "id": "23d74279-90c4-5b04-97b9-7a2875c89522",
+  "key": "creativity",
+  "name": "Creativity",
+  "name_bn": "সৃজনশীলতা",
+  "category": "soft-skills",
+  "aliases": [
+   "innovation"
+  ],
+  "source_id": "curated:creativity"
+ },
+ {
+  "id": "6c90bd16-805e-5e5b-b38d-0074adb6e4e6",
+  "key": "decision-making",
+  "name": "Decision making",
+  "name_bn": "সিদ্ধান্ত গ্রহণ",
+  "category": "soft-skills",
+  "aliases": [],
+  "source_id": "curated:decision-making"
+ },
+ {
+  "id": "ac1b4265-b976-5eeb-aa7b-b10c6a4499e0",
+  "key": "learning-agility",
+  "name": "Learning agility",
+  "name_bn": "দ্রুত শেখার ক্ষমতা",
+  "category": "soft-skills",
+  "aliases": [
+   "self-learning"
+  ],
+  "source_id": "curated:learning-agility"
+ },
+ {
+  "id": "8f6f8e2e-ecd0-50ed-bf50-c98bfd5bc6a7",
+  "key": "stress-management",
+  "name": "Stress management",
+  "name_bn": "মানসিক চাপ ব্যবস্থাপনা",
+  "category": "soft-skills",
+  "aliases": [
+   "resilience"
+  ],
+  "source_id": "curated:stress-management"
+ },
+ {
+  "id": "d1fd4bb2-b609-51e6-be6d-bbb225dffbfe",
+  "key": "cross-cultural",
+  "name": "Cross-cultural communication",
+  "name_bn": "আন্তঃসাংস্কৃতিক যোগাযোগ",
+  "category": "soft-skills",
+  "aliases": [],
+  "source_id": "curated:cross-cultural"
+ },
+ {
+  "id": "5220502e-b6ea-5976-a87b-09a20a8ba8e4",
+  "key": "data-structures",
+  "name": "Data structures and algorithms",
+  "name_bn": "ডেটা স্ট্রাকচার ও অ্যালগরিদম",
+  "category": "programming",
+  "aliases": [
+   "dsa",
+   "algorithms"
+  ],
+  "source_id": "curated:data-structures"
+ },
+ {
+  "id": "879a4e5c-f63e-5b06-8dd7-5b152d63fe0e",
+  "key": "machine-learning",
+  "name": "Machine learning",
+  "name_bn": "মেশিন লার্নিং",
+  "category": "data-science",
+  "aliases": [
+   "ml",
+   "predictive modelling"
+  ],
+  "source_id": "curated:machine-learning"
+ },
+ {
+  "id": "f02af07f-b4f4-559c-9f38-413d5eefe094",
+  "key": "mlops-monitoring",
+  "name": "Model monitoring and drift detection",
+  "name_bn": "মডেল পর্যবেক্ষণ",
+  "category": "data-science",
+  "aliases": [
+   "drift detection",
+   "model monitoring"
+  ],
+  "source_id": "curated:mlops-monitoring"
+ },
+ {
+  "id": "f450e261-eeea-5553-a946-5c2a1274502c",
+  "key": "data-visualisation",
+  "name": "Data visualisation",
+  "name_bn": "তথ্য ভিজ্যুয়ালাইজেশন",
+  "category": "analytics-bi",
+  "aliases": [
+   "data viz",
+   "charts"
+  ],
+  "source_id": "curated:data-visualisation"
+ },
+ {
+  "id": "500c36d3-6402-514f-9ba1-943f76c8500b",
+  "key": "cloud-basics",
+  "name": "Cloud platform basics",
+  "name_bn": "ক্লাউড প্ল্যাটফর্ম মৌলিক",
+  "category": "cloud-devops",
+  "aliases": [
+   "cloud fundamentals"
+  ],
+  "source_id": "curated:cloud-basics"
+ },
+ {
+  "id": "09a0e1d1-390b-5e4e-aca6-d3b20773b783",
+  "key": "manual-testing",
+  "name": "Manual testing",
+  "name_bn": "ম্যানুয়াল টেস্টিং",
+  "category": "backend",
+  "aliases": [
+   "exploratory testing",
+   "testing",
+   "software testing",
+   "qa"
+  ],
+  "source_id": "curated:manual-testing"
+ },
+ {
+  "id": "2947ebc8-3eef-5964-a093-731f91bb73fc",
+  "key": "test-automation",
+  "name": "Test automation",
+  "name_bn": "টেস্ট অটোমেশন",
+  "category": "backend",
+  "aliases": [
+   "automation testing"
+  ],
+  "source_id": "curated:test-automation"
+ },
+ {
+  "id": "fc64b38c-a3ae-5a80-88d2-4f837fcf7acb",
+  "key": "test-case-design",
+  "name": "Test case design",
+  "name_bn": "টেস্ট কেস ডিজাইন",
+  "category": "backend",
+  "aliases": [
+   "test design",
+   "test cases",
+   "test case writing"
+  ],
+  "source_id": "curated:test-case-design"
+ },
+ {
+  "id": "82d903b6-34f9-5550-8891-607971a22f40",
+  "key": "api-testing",
+  "name": "API testing",
+  "name_bn": "এপিআই টেস্টিং",
+  "category": "backend",
+  "aliases": [
+   "postman"
+  ],
+  "source_id": "curated:api-testing"
+ },
+ {
+  "id": "f108a6e6-57e0-533f-9495-62056c8f2b5a",
+  "key": "regression-testing",
+  "name": "Regression testing",
+  "name_bn": "রিগ্রেশন টেস্টিং",
+  "category": "backend",
+  "aliases": [
+   "regression tests",
+   "regression"
+  ],
+  "source_id": "curated:regression-testing"
+ },
+ {
+  "id": "28c73013-bac1-5c12-a155-9b222ed26d01",
+  "key": "bug-reporting",
+  "name": "Bug reporting",
+  "name_bn": "বাগ রিপোর্টিং",
+  "category": "backend",
+  "aliases": [
+   "defect reporting",
+   "bug reports"
+  ],
+  "source_id": "curated:bug-reporting"
+ },
+ {
+  "id": "1ea010cc-b36a-5e40-b6a3-0b17811fd53e",
+  "key": "selenium",
+  "name": "Selenium",
+  "name_bn": "সেলেনিয়াম",
+  "category": "backend",
+  "aliases": [],
+  "source_id": "curated:selenium"
+ },
+ {
+  "id": "fe3ff5ca-ce72-5fe9-8f84-a345cd5af103",
+  "key": "cypress",
+  "name": "Cypress",
+  "name_bn": "সাইপ্রেস",
+  "category": "backend",
+  "aliases": [
+   "playwright"
+  ],
+  "source_id": "curated:cypress"
+ },
+ {
+  "id": "3227b447-ec15-5fa0-a24f-8700b63e7342",
+  "key": "flutter",
+  "name": "Flutter",
+  "name_bn": "ফ্লাটার",
+  "category": "frontend",
+  "aliases": [
+   "react native",
+   "flutter app"
+  ],
+  "source_id": "curated:flutter"
+ },
+ {
+  "id": "a4712e78-991f-597d-8678-f03241b721b0",
+  "key": "mobile-ui",
+  "name": "Mobile UI patterns",
+  "name_bn": "মোবাইল ইউআই প্যাটার্ন",
+  "category": "design",
+  "aliases": [
+   "material design",
+   "ios human interface"
+  ],
+  "source_id": "curated:mobile-ui"
+ },
+ {
+  "id": "facd3ecd-a1e1-56c3-8999-89d52b5afb63",
+  "key": "app-store-publishing",
+  "name": "App store publishing",
+  "name_bn": "অ্যাপ স্টোরে প্রকাশ",
+  "category": "frontend",
+  "aliases": [
+   "play store",
+   "app store connect"
+  ],
+  "source_id": "curated:app-store-publishing"
+ },
+ {
+  "id": "0b11185f-50c9-564f-ad83-5d1ade9aba9f",
+  "key": "usability-testing",
+  "name": "Usability testing",
+  "name_bn": "ব্যবহারযোগ্যতা পরীক্ষা",
+  "category": "design",
+  "aliases": [],
+  "source_id": "curated:usability-testing"
+ },
+ {
+  "id": "b2384ec2-fea8-5a3f-a882-6fc7f0d1370c",
+  "key": "interaction-design",
+  "name": "Interaction design",
+  "name_bn": "ইন্টারঅ্যাকশন ডিজাইন",
+  "category": "design",
+  "aliases": [
+   "ixd"
+  ],
+  "source_id": "curated:interaction-design"
+ },
+ {
+  "id": "81870f62-fbdb-51e3-835c-41e6a7905875",
+  "key": "user-journeys",
+  "name": "User journey mapping",
+  "name_bn": "ব্যবহারকারী যাত্রা মানচিত্র",
+  "category": "design",
+  "aliases": [
+   "customer journey"
+  ],
+  "source_id": "curated:user-journeys"
+ },
+ {
+  "id": "67cd235f-fde2-51ff-b250-7fc7fbd9b346",
+  "key": "social-media-design",
+  "name": "Social media design",
+  "name_bn": "সোশ্যাল মিডিয়া ডিজাইন",
+  "category": "design",
+  "aliases": [],
+  "source_id": "curated:social-media-design"
+ },
+ {
+  "id": "93123806-6eeb-52b6-baf7-933d119cd749",
+  "key": "feedback-handling",
+  "name": "Handling design feedback",
+  "name_bn": "ডিজাইন ফিডব্যাক গ্রহণ",
+  "category": "soft-skills",
+  "aliases": [
+   "client revisions"
+  ],
+  "source_id": "curated:feedback-handling"
+ },
+ {
+  "id": "1e78717d-0b30-5662-aad4-06f79c279b67",
+  "key": "html-css-basics",
+  "name": "HTML and CSS basics",
+  "name_bn": "এইচটিএমএল ও সিএসএস মৌলিক",
+  "category": "frontend",
+  "aliases": [],
+  "source_id": "curated:html-css-basics"
+ },
+ {
+  "id": "68fe3e8a-0547-591f-a418-aef24d43d429",
+  "key": "grammar",
+  "name": "Grammar and style",
+  "name_bn": "ব্যাকরণ ও শৈলী",
+  "category": "writing",
+  "aliases": [
+   "english grammar",
+   "bangla grammar"
+  ],
+  "source_id": "curated:grammar"
+ },
+ {
+  "id": "7f12d6ba-545c-5b8b-a807-e96693f5ea8a",
+  "key": "research",
+  "name": "Research skills",
+  "name_bn": "গবেষণা দক্ষতা",
+  "category": "research",
+  "aliases": [
+   "desktop research",
+   "online research"
+  ],
+  "source_id": "curated:research"
+ },
+ {
+  "id": "4b47f46a-a190-544e-a3c3-dd233edbdf32",
+  "key": "cms-basic",
+  "name": "CMS publishing (WordPress)",
+  "name_bn": "সিএমএসে প্রকাশনা",
+  "category": "writing",
+  "aliases": [
+   "wordpress",
+   "content management system"
+  ],
+  "source_id": "curated:cms-basic"
+ },
+ {
+  "id": "b8145164-6f0c-5df2-a8e2-830ad0eaf4ea",
+  "key": "cultural-nuance",
+  "name": "Cultural nuance in language",
+  "name_bn": "ভাষায় সাংস্কৃতিক সূক্ষ্মতা",
+  "category": "translation",
+  "aliases": [],
+  "source_id": "curated:cultural-nuance"
+ },
+ {
+  "id": "26539bee-58df-5a71-8f25-845c6aa04627",
+  "key": "valuation",
+  "name": "Business valuation",
+  "name_bn": "ব্যবসা মূল্যায়ন",
+  "category": "finance",
+  "aliases": [
+   "dcf",
+   "company valuation"
+  ],
+  "source_id": "curated:valuation"
+ },
+ {
+  "id": "a9a65a29-3346-5797-b3c2-ab5330805e50",
+  "key": "ifrs-standards",
+  "name": "IFRS application",
+  "name_bn": "আইএফআরএস প্রয়োগ",
+  "category": "finance",
+  "aliases": [
+   "international financial reporting standards"
+  ],
+  "source_id": "curated:ifrs-standards"
+ },
+ {
+  "id": "1b40c5a3-4103-564f-8753-0e9e1757d10a",
+  "key": "cross-selling",
+  "name": "Cross-selling",
+  "name_bn": "ক্রস-সেলিং",
+  "category": "sales",
+  "aliases": [],
+  "source_id": "curated:cross-selling"
+ },
+ {
+  "id": "4a7adce4-9066-538c-a89e-5800d033ef55",
+  "key": "time-and-action",
+  "name": "Time and action calendar",
+  "name_bn": "টাইম অ্যান্ড অ্যাকশন ক্যালেন্ডার",
+  "category": "apparel",
+  "aliases": [
+   "tna"
+  ],
+  "source_id": "curated:time-and-action"
+ },
+ {
+  "id": "98bd44f8-c564-5762-b872-06566950113e",
+  "key": "line-balancing",
+  "name": "Line balancing",
+  "name_bn": "লাইন ব্যালেন্সিং",
+  "category": "apparel",
+  "aliases": [
+   "operation breakdown"
+  ],
+  "source_id": "curated:line-balancing"
+ },
+ {
+  "id": "c9651dd5-e9eb-5d8d-b31c-50ad7b42f9d1",
+  "key": "on-call-support",
+  "name": "On-call support",
+  "name_bn": "অন-কল সাপোর্ট",
+  "category": "network-security",
+  "aliases": [
+   "on-call rotation",
+   "on-call"
+  ],
+  "source_id": "curated:on-call-support"
+ },
+ {
+  "id": "20639e13-3db1-5da0-91b0-0ca4c606d1d9",
+  "key": "android",
+  "name": "Android development",
+  "name_bn": "অ্যান্ড্রয়েড ডেভেলপমেন্ট",
+  "category": "frontend",
+  "aliases": [
+   "android",
+   "android studio",
+   "android app",
+   "android development"
+  ],
+  "source_id": "curated:android"
+ },
+ {
+  "id": "b3dc0448-ebf4-5e18-ad53-bfca5ddaf635",
+  "key": "digital-marketing",
+  "name": "Digital marketing",
+  "name_bn": "ডিজিটাল মার্কেটিং",
+  "category": "marketing",
+  "aliases": [
+   "digital marketing",
+   "online marketing",
+   "internet marketing"
+  ],
+  "source_id": "curated:digital-marketing"
+ },
+ {
+  "id": "02722680-314d-55cd-bc7b-39413b05bc30",
+  "key": "crm-basic",
+  "name": "CRM tools",
+  "name_bn": "সিআরএম টুলস",
+  "category": "office",
+  "aliases": [
+   "crm",
+   "salesforce",
+   "hubspot crm"
+  ],
+  "source_id": "curated:crm-basic"
+ },
+ {
+  "id": "8ec89e44-235f-5e55-bfee-168e042646f0",
+  "key": "confidentiality",
+  "name": "Handling confidential information",
+  "name_bn": "গোপনীয় তথ্য পরিচালনা",
+  "category": "soft-skills",
+  "aliases": [
+   "data confidentiality"
+  ],
+  "source_id": "curated:confidentiality"
+ },
+ {
+  "id": "243e5850-2806-5901-b1d8-c8de437536bc",
+  "key": "basic-english",
+  "name": "Working English",
+  "name_bn": "কাজের মতো ইংরেজি",
+  "category": "soft-skills",
+  "aliases": [
+   "functional english",
+   "spoken english"
+  ],
+  "source_id": "curated:basic-english"
+ },
+ {
+  "id": "9b73897f-9ece-59f9-a245-5d6f35424072",
+  "key": "persuasion",
+  "name": "Persuasion",
+  "name_bn": "রাজি করানোর ক্ষমতা",
+  "category": "soft-skills",
+  "aliases": [
+   "influencing"
+  ],
+  "source_id": "curated:persuasion"
+ },
+ {
+  "id": "c7bcbb14-112c-539e-906a-4b08d46b7490",
+  "key": "resilience",
+  "name": "Resilience",
+  "name_bn": "ধৈর্য ও সহনশীলতা",
+  "category": "soft-skills",
+  "aliases": [
+   "grit"
+  ],
+  "source_id": "curated:resilience"
+ },
+ {
+  "id": "d284fdd0-5c32-5ef3-8bca-5de370032883",
+  "key": "patience",
+  "name": "Patience",
+  "name_bn": "ধৈর্য",
+  "category": "soft-skills",
+  "aliases": [],
+  "source_id": "curated:patience"
+ },
+ {
+  "id": "f21aee93-c80e-5939-8446-508a713971b5",
+  "key": "curiosity",
+  "name": "Curiosity",
+  "name_bn": "জিজ্ঞাসু মনোভাব",
+  "category": "soft-skills",
+  "aliases": [],
+  "source_id": "curated:curiosity"
+ },
+ {
+  "id": "2e408007-6a6d-57f6-a255-c0d4ee8c1ba6",
+  "key": "data-driven",
+  "name": "Data-driven decision making",
+  "name_bn": "তথ্যভিত্তিক সিদ্ধান্ত",
+  "category": "soft-skills",
+  "aliases": [],
+  "source_id": "curated:data-driven"
+ },
+ {
+  "id": "1f1bfdd7-4424-5740-94d3-8d9b18dcc315",
+  "key": "domain-knowledge",
+  "name": "Industry domain knowledge",
+  "name_bn": "শিল্পখাত সংক্রান্ত জ্ঞান",
+  "category": "soft-skills",
+  "aliases": [
+   "business domain"
+  ],
+  "source_id": "curated:domain-knowledge"
+ }
+]
