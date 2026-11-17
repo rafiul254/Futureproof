@@ -68,7 +68,7 @@ Every graduate hears "AI will take jobs". Almost nobody can say **which of their
 
 ## 🚀 Live demo
 
-Live link: `https://futureproof-weld.vercel.app` (see [Deployment](#-deployment)).
+Live link: https://futureproof-weld.vercel.app (see [Deployment](#-deployment)).
 
 ## ⚡ Quick start
 
