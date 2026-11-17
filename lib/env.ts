@@ -1,19 +1,6 @@
-/**
- * Server-side environment access.
- *
- * Rules from the build prompt:
- *  - No secrets ever reach the client. Only `NEXT_PUBLIC_*` values are safe there.
- *  - Features degrade gracefully when a key is missing, so the app always runs
- *    (and demo mode always works) instead of crashing at import time.
- *  - Providers are swappable: Groq, Gemini, Anthropic and OpenAI are all supported.
- */
 import { z } from 'zod';
 
-/**
- * A blank line in .env.local (KEY=) arrives as an empty string. Treat it as "not set",
- * otherwise a template copied from .env.example with unused keys left blank would fail
- * validation as a whole and silently switch every provider off.
- */
+
 const blankToUndefined = (value: unknown): unknown =>
   typeof value === 'string' && value.trim() === '' ? undefined : value;
 
@@ -98,6 +85,17 @@ export function activeLlmProvider(): LlmProvider | null {
   }
   const order: LlmProvider[] = ['groq', 'gemini', 'anthropic', 'openai'];
   return order.find((provider) => Boolean(apiKeyFor(provider))) ?? null;
+}
+
+
+export function llmProviderChain(): LlmProvider[] {
+  if (env.FUTUREPROOF_OFFLINE) return [];
+  if (env.LLM_PROVIDER !== 'auto') {
+    const chosen = env.LLM_PROVIDER as LlmProvider;
+    return apiKeyFor(chosen) ? [chosen] : [];
+  }
+  const order: LlmProvider[] = ['groq', 'gemini', 'anthropic', 'openai'];
+  return order.filter((provider) => Boolean(apiKeyFor(provider)));
 }
 
 export function apiKeyFor(provider: LlmProvider): string | undefined {
