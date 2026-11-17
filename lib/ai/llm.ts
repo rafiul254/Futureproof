@@ -1,19 +1,7 @@
 import 'server-only';
 
-import { activeLlmProvider, apiKeyFor, env, modelFor, type LlmProvider } from '@/lib/env';
+import { activeLlmProvider, apiKeyFor, env, llmProviderChain, modelFor, type LlmProvider } from '@/lib/env';
 
-/**
- * One small JSON-generation client for every supported provider.
- *
- * Why not a single vendor SDK: the app must run with Groq OR Gemini OR Anthropic
- * OR OpenAI, chosen purely by which key is present. A thin fetch layer keeps the
- * dependency footprint small and the provider swappable.
- *
- * Guarantees:
- *  - Always asks the provider for JSON.
- *  - Parses and validates with the caller's zod schema.
- *  - Retries once on invalid JSON, then throws (callers fall back to deterministic logic).
- */
 
 export interface LlmUsage {
   tokensIn: number | null;
@@ -246,40 +234,54 @@ export async function generateJson<T>(params: {
   schema: { safeParse: (value: unknown) => { success: boolean; data?: T; error?: unknown } };
   timeoutMs?: number;
 }): Promise<LlmResult<T>> {
-  const provider = activeLlmProvider();
-  if (!provider) {
+  const chain = llmProviderChain();
+  if (chain.length === 0) {
     throw new LlmError('No LLM provider configured (set GROQ_API_KEY or GOOGLE_API_KEY)', null);
   }
 
-  const timeout = params.timeoutMs ?? 45_000;
-  const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), timeout);
-
-  try {
-    let lastError: unknown;
-    // One retry: models occasionally return prose or a truncated object.
-    for (let attempt = 0; attempt < 2; attempt += 1) {
-      const raw = await dispatch(provider, params.system, params.prompt);
-      try {
-        const parsed = params.schema.safeParse(extractJsonObject(raw.text));
-        if (parsed.success && parsed.data !== undefined) {
-          return { data: parsed.data, provider: raw.provider, model: raw.model, usage: raw.usage };
-        }
-        lastError = parsed.error;
-      } catch (error) {
-        lastError = error;
-      }
-      if (attempt === 0) {
-        await new Promise((resolve) => setTimeout(resolve, 400));
-      }
+  let lastFailure: LlmError | null = null;
+  // Try each configured provider in order; the next one is a backup.
+  for (const provider of chain) {
+    try {
+      return await generateWith(provider, params);
+    } catch (error) {
+      lastFailure =
+        error instanceof LlmError ? error : new LlmError(String(error).slice(0, 300), provider);
+      console.warn(`[llm] ${provider} failed, trying next provider:`, lastFailure.message);
     }
-    throw new LlmError(
-      `Invalid structured output after 2 attempts: ${String(lastError).slice(0, 400)}`,
-      provider,
-    );
-  } finally {
-    clearTimeout(timer);
   }
+  throw lastFailure ?? new LlmError('All LLM providers failed', null);
+}
+
+async function generateWith<T>(
+  provider: LlmProvider,
+  params: {
+    system: string;
+    prompt: string;
+    schema: { safeParse: (value: unknown) => { success: boolean; data?: T; error?: unknown } };
+  },
+): Promise<LlmResult<T>> {
+  let lastError: unknown;
+  // One retry: models occasionally return prose or a truncated object.
+  for (let attempt = 0; attempt < 2; attempt += 1) {
+    const raw = await dispatch(provider, params.system, params.prompt);
+    try {
+      const parsed = params.schema.safeParse(extractJsonObject(raw.text));
+      if (parsed.success && parsed.data !== undefined) {
+        return { data: parsed.data, provider: raw.provider, model: raw.model, usage: raw.usage };
+      }
+      lastError = parsed.error;
+    } catch (error) {
+      lastError = error;
+    }
+    if (attempt === 0) {
+      await new Promise((resolve) => setTimeout(resolve, 400));
+    }
+  }
+  throw new LlmError(
+    `Invalid structured output after 2 attempts: ${String(lastError).slice(0, 400)}`,
+    provider,
+  );
 }
 
 /** Human-readable description of the current LLM setup, for the UI and logs. */
